@@ -1,0 +1,255 @@
+[
+  {
+    "question": "What is the name of our galaxy?",
+    "correctAnswer": "Milky Way",
+    "incorrectAnswers": [
+      "Andromeda",
+      "Whirlpool",
+      "Triangulum"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What celestial body is responsible for Earth's tides?",
+    "correctAnswer": "The Moon",
+    "incorrectAnswers": [
+      "The Sun",
+      "Jupiter",
+      "Venus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "correctAnswer": "The Sun",
+    "incorrectAnswers": [
+      "Sirius",
+      "Proxima Centauri",
+      "Alpha Centauri A"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What are the two main components of a star's composition?",
+    "correctAnswer": "Hydrogen and Helium",
+    "incorrectAnswers": [
+      "Oxygen and Carbon",
+      "Nitrogen and Iron",
+      "Silicon and Magnesium"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the dwarf planet known for its unusual tilted axis?",
+    "correctAnswer": "Pluto",
+    "incorrectAnswers": [
+      "Eris",
+      "Ceres",
+      "Makemake"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the process by which stars produce energy?",
+    "correctAnswer": "Nuclear Fusion",
+    "incorrectAnswers": [
+      "Nuclear Fission",
+      "Radioactive Decay",
+      "Chemical Combustion"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the asteroid belt located between?",
+    "correctAnswer": "Mars and Jupiter",
+    "incorrectAnswers": [
+      "Earth and Mars",
+      "Jupiter and Saturn",
+      "Venus and Earth"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is a constellation?",
+    "correctAnswer": "A group of stars forming a recognizable pattern",
+    "incorrectAnswers": [
+      "A type of nebula",
+      "A planet's moon",
+      "A type of galaxy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What causes the phases of the moon?",
+    "correctAnswer": "The changing relative positions of the sun, Earth, and moon",
+    "incorrectAnswers": [
+      "The moon's rotation",
+      "Lunar eclipses",
+      "Changes in the moon's albedo"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is a light-year?",
+    "correctAnswer": "The distance light travels in one year",
+    "incorrectAnswers": [
+      "A unit of time",
+      "A unit of mass",
+      "A unit of energy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the phenomenon where a planet passes in front of a star?",
+    "correctAnswer": "Transit",
+    "incorrectAnswers": [
+      "Occultation",
+      "Eclipse",
+      "Conjunction"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the habitable zone around a star?",
+    "correctAnswer": "The region where liquid water could exist on a planet's surface",
+    "incorrectAnswers": [
+      "The region where life is guaranteed to exist",
+      "The region closest to the star",
+      "The region where the star's radiation is most intense"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the largest known volcano in our solar system?",
+    "correctAnswer": "Olympus Mons",
+    "incorrectAnswers": [
+      "Mauna Loa",
+      "Mount Vesuvius",
+      "Kilauea"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the apparent path of the sun across the sky during the year?",
+    "correctAnswer": "Ecliptic",
+    "incorrectAnswers": [
+      "Celestial Equator",
+      "Galactic Plane",
+      "Milky Way"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of telescope uses mirrors to collect and focus light?",
+    "correctAnswer": "Reflector",
+    "incorrectAnswers": [
+      "Refractor",
+      "Radio",
+      "X-ray"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the Roche Limit?",
+    "correctAnswer": "The distance within which a celestial body will be torn apart by tidal forces",
+    "incorrectAnswers": [
+      "The distance to the event horizon of a black hole",
+      "The distance at which a star begins to fuse hydrogen",
+      "The distance at which a planet's gravitational pull becomes negligible"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process called where a star violently explodes at the end of its life?",
+    "correctAnswer": "Supernova",
+    "incorrectAnswers": [
+      "Nova",
+      "Red Giant",
+      "White Dwarf"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is cosmic microwave background radiation?",
+    "correctAnswer": "Leftover thermal radiation from the Big Bang",
+    "incorrectAnswers": [
+      "Radiation from the Sun",
+      "Radiation from active galactic nuclei",
+      "Radiation from pulsars"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the Schwarzschild radius?",
+    "correctAnswer": "The radius of a sphere such that if all the mass of an object were compressed within that sphere, the escape velocity would equal the speed of light",
+    "incorrectAnswers": [
+      "The radius of a neutron star",
+      "The radius of a white dwarf",
+      "The radius of a pulsar"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is a quasar?",
+    "correctAnswer": "An extremely luminous active galactic nucleus powered by a supermassive black hole",
+    "incorrectAnswers": [
+      "A type of nebula",
+      "A type of galaxy",
+      "A type of star"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the hypothetical particle thought to make up dark matter?",
+    "correctAnswer": "WIMP (Weakly Interacting Massive Particle)",
+    "incorrectAnswers": [
+      "Axion",
+      "Sterile Neutrino",
+      "All of the above are hypothetical dark matter candidates"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is gravitational lensing?",
+    "correctAnswer": "The bending of light around massive objects due to their gravitational field",
+    "incorrectAnswers": [
+      "The amplification of light by a telescope",
+      "The absorption of light by a black hole",
+      "The emission of light by a quasar"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is baryogenesis?",
+    "correctAnswer": "The hypothetical physical process that produced an asymmetry between matter and antimatter in the early universe",
+    "incorrectAnswers": [
+      "The formation of galaxies",
+      "The formation of stars",
+      "The formation of planets"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

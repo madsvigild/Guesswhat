@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which Marvel Cinematic Universe film holds the record for the highest-grossing superhero film of all time?",
+    "correctAnswer": "Avengers: Endgame",
+    "incorrectAnswers": [
+      "Avengers: Infinity War",
+      "Black Panther",
+      "Spider-Man: No Way Home"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What iconic phrase did Thanos utter before initiating the snap in Avengers: Infinity War?",
+    "correctAnswer": "Perfectly balanced, as all things should be",
+    "incorrectAnswers": [
+      "I am inevitable",
+      "Dread it, run from it, destiny arrives all the same",
+      "Snap!"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actress played Katniss Everdeen in the 'Hunger Games' film series?",
+    "correctAnswer": "Jennifer Lawrence",
+    "incorrectAnswers": [
+      "Shailene Woodley",
+      "Saoirse Ronan",
+      "Emma Watson"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular streaming service is home to the hit series 'Stranger Things'?",
+    "correctAnswer": "Netflix",
+    "incorrectAnswers": [
+      "HBO Max",
+      "Amazon Prime Video",
+      "Disney+"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director is known for his work on the 'Fast and the Furious' franchise?",
+    "correctAnswer": "Justin Lin",
+    "incorrectAnswers": [
+      "James Wan",
+      "F. Gary Gray",
+      "Rob Cohen"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which video game franchise was adapted into the movie 'The Last of Us'?",
+    "correctAnswer": "The Last of Us",
+    "incorrectAnswers": [
+      "Uncharted",
+      "God of War",
+      "Horizon Zero Dawn"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What character does Chris Pratt voice in the 'Guardians of the Galaxy' films?",
+    "correctAnswer": "Peter Quill/Star-Lord",
+    "incorrectAnswers": [
+      "Drax the Destroyer",
+      "Rocket Raccoon",
+      "Groot"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which globally popular South Korean boy band starred in the Netflix series 'Squid Game'?",
+    "correctAnswer": "This is incorrect; no South Korean boy band starred in Squid Game.",
+    "incorrectAnswers": [
+      "BTS",
+      "BLACKPINK",
+      "EXO"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In which city is the fictional 'Wonder Woman's' home of Themyscira located?",
+    "correctAnswer": "The Aegean Sea",
+    "incorrectAnswers": [
+      "Atlantis",
+      "Amazon",
+      "Paradise Island"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the sentient AI in the 'Terminator' franchise?",
+    "correctAnswer": "Skynet",
+    "incorrectAnswers": [
+      "HAL 9000",
+      "Ultron",
+      "The Matrix"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actor played both Batman and Superman in separate movie franchises?",
+    "correctAnswer": "Ben Affleck",
+    "incorrectAnswers": [
+      "Christian Bale",
+      "Henry Cavill",
+      "Robert Pattinson"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular video game franchise inspired the 'Tomb Raider' movie series?",
+    "correctAnswer": "Tomb Raider",
+    "incorrectAnswers": [
+      "Uncharted",
+      "Prince of Persia",
+      "Assassin's Creed"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director is known for his distinct style and contributions to the superhero genre through films like 'Logan' and 'Deadpool'?",
+    "correctAnswer": "James Mangold",
+    "incorrectAnswers": [
+      "Christopher Nolan",
+      "Zack Snyder",
+      "Joss Whedon"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the main antagonist's organization in the John Wick franchise?",
+    "correctAnswer": "The High Table",
+    "incorrectAnswers": [
+      "The Syndicate",
+      "The Russian Mafia",
+      "The Continental"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which popular streaming service houses the Marvel series 'WandaVision'?",
+    "correctAnswer": "Disney+",
+    "incorrectAnswers": [
+      "Netflix",
+      "HBO Max",
+      "Hulu"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What song was prominently featured in the movie 'Guardians of the Galaxy'?",
+    "correctAnswer": "Come and Get Your Love (Redbone)",
+    "incorrectAnswers": [
+      "September (Earth, Wind & Fire)",
+      "Dancing Queen (ABBA)",
+      "Don't Stop Believin' (Journey)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who composed the iconic score for the 'Lord of the Rings' trilogy?",
+    "correctAnswer": "Howard Shore",
+    "incorrectAnswers": [
+      "Hans Zimmer",
+      "John Williams",
+      "Danny Elfman"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which franchise saw the return of Keanu Reeves to major stardom?",
+    "correctAnswer": "The Matrix",
+    "incorrectAnswers": [
+      "Speed",
+      "Point Break",
+      "My Own Private Idaho"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the weapon used by the protagonist in the movie 'Mad Max: Fury Road'?",
+    "correctAnswer": "The Doof Warrior's guitar",
+    "incorrectAnswers": [
+      "Shotgun",
+      "Crossbow",
+      "Flamethrower"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which Marvel Studios film features the introduction of the multiverse concept?",
+    "correctAnswer": "Spider-Man: No Way Home",
+    "incorrectAnswers": [
+      "Doctor Strange",
+      "Avengers: Endgame",
+      "Thor: Ragnarok"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What real-world historical event significantly influenced the plot of Christopher Nolan's 'Dunkirk'?",
+    "correctAnswer": "The Dunkirk Evacuation",
+    "incorrectAnswers": [
+      "The Battle of Britain",
+      "The Normandy Landings",
+      "The Blitz"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which relatively unknown indie game became a surprise blockbuster, influencing many subsequent indie titles and achieving cult status?",
+    "correctAnswer": "Undertale",
+    "incorrectAnswers": [
+      "Minecraft",
+      "Among Us",
+      "Stardew Valley"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who directed the critically acclaimed and visually stunning film 'Arrival', known for its unique non-linear storytelling?",
+    "correctAnswer": "Denis Villeneuve",
+    "incorrectAnswers": [
+      "Christopher Nolan",
+      "Darren Aronofsky",
+      "Bong Joon-ho"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which visual effects company was heavily involved in the groundbreaking special effects of James Cameron's 'Avatar'?",
+    "correctAnswer": "Weta Digital",
+    "incorrectAnswers": [
+      "Industrial Light & Magic (ILM)",
+      "Rhythm & Hues Studios",
+      "Pixar Animation Studios"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What relatively unknown actor was cast as the lead in 'The Batman' (2022), defying typical casting expectations for the role?",
+    "correctAnswer": "Robert Pattinson",
+    "incorrectAnswers": [
+      "Armie Hammer",
+      "Oscar Isaac",
+      "Andrew Garfield"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which company, founded in a garage, revolutionized personal computing?",
+    "correctAnswer": "Apple",
+    "incorrectAnswers": [
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who is the founder of SpaceX and Tesla?",
+    "correctAnswer": "Elon Musk",
+    "incorrectAnswers": [
+      "Jeff Bezos",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which social media platform was initially known as 'The Facebook'?",
+    "correctAnswer": "Facebook",
+    "incorrectAnswers": [
+      "Twitter",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What search engine is renowned for its distinctive, colorful logo?",
+    "correctAnswer": "Google",
+    "incorrectAnswers": [
+      "Bing",
+      "DuckDuckGo",
+      "Yahoo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which company is known for its Android operating system?",
+    "correctAnswer": "Google",
+    "incorrectAnswers": [
+      "Apple",
+      "Microsoft",
+      "Amazon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who co-founded Microsoft alongside Paul Allen?",
+    "correctAnswer": "Bill Gates",
+    "incorrectAnswers": [
+      "Steve Ballmer",
+      "Mark Zuckerberg",
+      "Steve Wozniak"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which company developed the iPhone?",
+    "correctAnswer": "Apple",
+    "incorrectAnswers": [
+      "Samsung",
+      "Google",
+      "Microsoft"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What e-commerce giant is headed by Andy Jassy?",
+    "correctAnswer": "Amazon",
+    "incorrectAnswers": [
+      "Walmart",
+      "Target",
+      "eBay"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which company is famous for its streaming service Netflix?",
+    "correctAnswer": "Netflix",
+    "incorrectAnswers": [
+      "Hulu",
+      "Disney+",
+      "HBO Max"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What tech company is known for its cloud computing services, including AWS?",
+    "correctAnswer": "Amazon",
+    "incorrectAnswers": [
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What innovative technology company, founded by Jan Koum and Brian Acton, prioritized user privacy?",
+    "correctAnswer": "WhatsApp",
+    "incorrectAnswers": [
+      "Telegram",
+      "Signal",
+      "Viber"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which tech giant acquired Instagram in 2012?",
+    "correctAnswer": "Facebook (Meta)",
+    "incorrectAnswers": [
+      "Google",
+      "Twitter",
+      "Apple"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What streaming service emerged as a major competitor to Netflix, partly due to its original content?",
+    "correctAnswer": "Disney+",
+    "incorrectAnswers": [
+      "Hulu",
+      "HBO Max",
+      "Peacock"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Besides its search engine, what other major product category is Google deeply involved in?",
+    "correctAnswer": "Operating Systems (Android)",
+    "incorrectAnswers": [
+      "Social Media",
+      "E-commerce",
+      "Cloud Storage (only)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which company pioneered the concept of a 'smart home' ecosystem?",
+    "correctAnswer": "Apple (with HomeKit)",
+    "incorrectAnswers": [
+      "Amazon (with Alexa)",
+      "Google (with Nest)",
+      "Samsung (with SmartThings)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the open-source operating system used by most smartphones?",
+    "correctAnswer": "Android",
+    "incorrectAnswers": [
+      "iOS",
+      "Windows Mobile",
+      "BlackBerry OS"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who founded the popular video-sharing platform YouTube?",
+    "correctAnswer": "Chad Hurley, Steve Chen, and Jawed Karim",
+    "incorrectAnswers": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Reed Hastings"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which company was instrumental in developing the World Wide Web?",
+    "correctAnswer": "CERN",
+    "incorrectAnswers": [
+      "Google",
+      "Microsoft",
+      "Apple"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What innovative technology company, known for its electric vehicles, also produces solar panels and energy storage solutions?",
+    "correctAnswer": "Tesla",
+    "incorrectAnswers": [
+      "Rivian",
+      "Lucid Motors",
+      "Ford"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which tech company is associated with the development of the first commercially successful microprocessor?",
+    "correctAnswer": "Intel",
+    "incorrectAnswers": [
+      "AMD",
+      "Nvidia",
+      "Motorola"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What lesser-known company developed the groundbreaking technology behind the first commercially viable MP3 player?",
+    "correctAnswer": "Diamond Multimedia Systems",
+    "incorrectAnswers": [
+      "Apple",
+      "Creative Labs",
+      "Sony"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which early computer company, known for its mainframes, played a significant role in the development of early computing languages like COBOL?",
+    "correctAnswer": "IBM",
+    "incorrectAnswers": [
+      "DEC",
+      "Burroughs",
+      "Sperry Rand"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Besides its core search functionality, what less-discussed area did Google significantly impact with its PageRank algorithm?",
+    "correctAnswer": "Information Retrieval & Ranking",
+    "incorrectAnswers": [
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "Mobile Operating Systems"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which early video game console pioneer is largely credited with popularizing the cartridge-based gaming system?",
+    "correctAnswer": "Atari",
+    "incorrectAnswers": [
+      "Nintendo",
+      "Sega",
+      "Coleco"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What relatively unknown company developed the first commercially successful PDA (Personal Digital Assistant)?",
+    "correctAnswer": "Apple (Newton MessagePad)",
+    "incorrectAnswers": [
+      "Palm",
+      "HP",
+      "Casio"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "question": "Which fundamental force is responsible for the attraction between objects with mass?",
+    "correctAnswer": "Gravity",
+    "incorrectAnswers": [
+      "Electromagnetism",
+      "Strong Nuclear Force",
+      "Weak Nuclear Force"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name for a positively charged ion?",
+    "correctAnswer": "Cation",
+    "incorrectAnswers": [
+      "Anion",
+      "Isotope",
+      "Molecule"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the basic unit of an element that retains its chemical properties?",
+    "correctAnswer": "Atom",
+    "incorrectAnswers": [
+      "Molecule",
+      "Ion",
+      "Compound"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is Newton's first law of motion commonly known as?",
+    "correctAnswer": "Inertia",
+    "incorrectAnswers": [
+      "Gravity",
+      "Acceleration",
+      "Momentum"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What state of matter has a definite volume but no definite shape?",
+    "correctAnswer": "Liquid",
+    "incorrectAnswers": [
+      "Solid",
+      "Gas",
+      "Plasma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process by which a solid turns directly into a gas?",
+    "correctAnswer": "Sublimation",
+    "incorrectAnswers": [
+      "Melting",
+      "Evaporation",
+      "Condensation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the most abundant element in the Earth's atmosphere?",
+    "correctAnswer": "Nitrogen",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the SI unit for energy?",
+    "correctAnswer": "Joule",
+    "incorrectAnswers": [
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "correctAnswer": "NaCl",
+    "incorrectAnswers": [
+      "NaOH",
+      "KCl",
+      "CaCl₂"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What principle states that energy cannot be created or destroyed, only transformed?",
+    "correctAnswer": "Law of Conservation of Energy",
+    "incorrectAnswers": [
+      "Law of Conservation of Mass",
+      "Second Law of Thermodynamics",
+      "Law of Gravity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of reaction involves the transfer of electrons between atoms?",
+    "correctAnswer": "Redox Reaction",
+    "incorrectAnswers": [
+      "Acid-Base Reaction",
+      "Precipitation Reaction",
+      "Decomposition Reaction"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name for the force that opposes motion between two surfaces in contact?",
+    "correctAnswer": "Friction",
+    "incorrectAnswers": [
+      "Gravity",
+      "Tension",
+      "Pressure"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "correctAnswer": "Covalent Bond",
+    "incorrectAnswers": [
+      "Ionic Bond",
+      "Hydrogen Bond",
+      "Metallic Bond"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the pH of a neutral solution?",
+    "correctAnswer": "7",
+    "incorrectAnswers": [
+      "0",
+      "14",
+      "3"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process called where a substance absorbs heat without a change in temperature?",
+    "correctAnswer": "Phase Transition",
+    "incorrectAnswers": [
+      "Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What law describes the relationship between the pressure and volume of a gas at constant temperature?",
+    "correctAnswer": "Boyle's Law",
+    "incorrectAnswers": [
+      "Charles's Law",
+      "Gay-Lussac's Law",
+      "Avogadro's Law"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the positively charged subatomic particle found in the nucleus of an atom?",
+    "correctAnswer": "Proton",
+    "incorrectAnswers": [
+      "Electron",
+      "Neutron",
+      "Positron"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the SI unit for electric current?",
+    "correctAnswer": "Ampere",
+    "incorrectAnswers": [
+      "Volt",
+      "Ohm",
+      "Coulomb"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the Heisenberg Uncertainty Principle?",
+    "correctAnswer": "It states that it is impossible to simultaneously know both the position and momentum of a particle with perfect accuracy.",
+    "incorrectAnswers": [
+      "It describes the expansion of the universe.",
+      "It explains the behavior of light as both a wave and a particle.",
+      "It defines the relationship between energy and mass."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the difference between an endothermic and exothermic reaction?",
+    "correctAnswer": "Endothermic reactions absorb heat, while exothermic reactions release heat.",
+    "incorrectAnswers": [
+      "Endothermic reactions release energy, while exothermic reactions absorb energy.",
+      "Endothermic reactions involve only gases, while exothermic reactions involve only solids.",
+      "Endothermic reactions are always slower than exothermic reactions."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Explain the concept of quantum superposition.",
+    "correctAnswer": "A quantum system can exist in multiple states simultaneously until measured.",
+    "incorrectAnswers": [
+      "Quantum superposition refers to the tendency of particles to repel each other.",
+      "It describes the wave-particle duality of light.",
+      "It is a theoretical concept with no practical applications."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is Avogadro's number and what does it represent?",
+    "correctAnswer": "6.022 x 10²³; the number of atoms or molecules in one mole of a substance.",
+    "incorrectAnswers": [
+      "It represents the speed of light.",
+      "It represents the gravitational constant.",
+      "It's the number of protons in a hydrogen atom."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

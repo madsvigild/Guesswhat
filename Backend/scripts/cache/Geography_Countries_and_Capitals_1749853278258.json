@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": [
+      "Marseille",
+      "Lyon",
+      "Nice"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the capital city of South Africa?",
+    "correctAnswer": "Pretoria",
+    "incorrectAnswers": [
+      "Cape Town",
+      "Johannesburg",
+      "Durban"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country's capital city is located closest to the Arctic Circle?",
+    "correctAnswer": "Iceland (Reykjavik)",
+    "incorrectAnswers": [
+      "Finland (Helsinki)",
+      "Norway (Oslo)",
+      "Sweden (Stockholm)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which European capital city is known for its canals and bridges, often compared to Venice, though smaller in scale?",
+    "correctAnswer": "Amsterdam",
+    "incorrectAnswers": [
+      "Berlin",
+      "Paris",
+      "London"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country has two capital cities, one for the executive branch and one for the judicial branch?",
+    "correctAnswer": "South Africa",
+    "incorrectAnswers": [
+      "Netherlands",
+      "Bolivia",
+      "Switzerland"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country's capital city sits on the border of two continents, Europe and Asia?",
+    "correctAnswer": "Turkey (Istanbul)",
+    "incorrectAnswers": [
+      "Russia (Moscow)",
+      "Kazakhstan (Nur-Sultan)",
+      "Georgia (Tbilisi)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which capital city is located on a peninsula jutting into the Mediterranean Sea?",
+    "correctAnswer": "Rome",
+    "incorrectAnswers": [
+      "Athens",
+      "Madrid",
+      "Lisbon"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which South American capital city is situated high in the Andes Mountains, at a significantly high altitude?",
+    "correctAnswer": "La Paz, Bolivia",
+    "incorrectAnswers": [
+      "Bogotá, Colombia",
+      "Lima, Peru",
+      "Santiago, Chile"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the capital of the only landlocked country in South America?",
+    "correctAnswer": "Sucre, Bolivia",
+    "incorrectAnswers": [
+      "La Paz, Bolivia",
+      "Brasília, Brazil",
+      "Asunción, Paraguay"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country's capital city is named after a historical figure?",
+    "correctAnswer": "Washington, D.C. (United States)",
+    "incorrectAnswers": [
+      "London, UK",
+      "Paris, France",
+      "Berlin, Germany"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which African capital city is situated on the confluence of two major rivers?",
+    "correctAnswer": "Khartoum, Sudan",
+    "incorrectAnswers": [
+      "Cairo, Egypt",
+      "Addis Ababa, Ethiopia",
+      "Nairobi, Kenya"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which capital city is known for its distinctive architecture inspired by both Mughal and British colonial styles?",
+    "correctAnswer": "New Delhi, India",
+    "incorrectAnswers": [
+      "Islamabad, Pakistan",
+      "Kathmandu, Nepal",
+      "Dhaka, Bangladesh"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the capital of the country that contains the world's largest rainforest?",
+    "correctAnswer": "Brasília",
+    "incorrectAnswers": [
+      "Lima",
+      "Bogota",
+      "Buenos Aires"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country's capital city is situated on an island?",
+    "correctAnswer": "Manila, Philippines",
+    "incorrectAnswers": [
+      "Jakarta, Indonesia",
+      "Hanoi, Vietnam",
+      "Bangkok, Thailand"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which European capital city lies closest to the geographical centre of Europe?",
+    "correctAnswer": "Minsk",
+    "incorrectAnswers": [
+      "Warsaw",
+      "Berlin",
+      "Prague"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the capital city of the country that shares the longest border with Brazil?",
+    "correctAnswer": "Buenos Aires",
+    "incorrectAnswers": [
+      "Santiago",
+      "Montevideo",
+      "Lima"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

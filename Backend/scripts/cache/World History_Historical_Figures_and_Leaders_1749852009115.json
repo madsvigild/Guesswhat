@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Which ancient Egyptian pharaoh is known for building the Great Pyramid of Giza?",
+    "correctAnswer": "Khufu",
+    "incorrectAnswers": [
+      "Tutankhamun",
+      "Ramses II",
+      "Akhenaten"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who led the Bolshevik Revolution in Russia?",
+    "correctAnswer": "Vladimir Lenin",
+    "incorrectAnswers": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Alexander Kerensky"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which emperor unified China in the 3rd century BCE?",
+    "correctAnswer": "Qin Shi Huang",
+    "incorrectAnswers": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Mao Zedong"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which leader is associated with the Salt March in India?",
+    "correctAnswer": "Mahatma Gandhi",
+    "incorrectAnswers": [
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which female British monarch reigned for over 70 years?",
+    "correctAnswer": "Queen Elizabeth II",
+    "incorrectAnswers": [
+      "Queen Victoria",
+      "Mary I",
+      "Elizabeth I"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant event marked the beginning of World War I?",
+    "correctAnswer": "The assassination of Archduke Franz Ferdinand",
+    "incorrectAnswers": [
+      "The sinking of the Lusitania",
+      "The invasion of Poland",
+      "The Treaty of Versailles"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient Greek philosopher is known for his theories on ideal forms?",
+    "correctAnswer": "Plato",
+    "incorrectAnswers": [
+      "Socrates",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which military leader conquered much of Europe in the early 19th century?",
+    "correctAnswer": "Napoleon Bonaparte",
+    "incorrectAnswers": [
+      "Julius Caesar",
+      "Alexander the Great",
+      "Genghis Khan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who is credited with discovering penicillin?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Marie Curie"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the policy implemented by Mikhail Gorbachev that contributed to the dissolution of the Soviet Union?",
+    "correctAnswer": "Perestroika",
+    "incorrectAnswers": [
+      "Glasnost",
+      "Collectivization",
+      "Appeasement"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which leader played a key role in the unification of Germany in the 19th century?",
+    "correctAnswer": "Otto von Bismarck",
+    "incorrectAnswers": [
+      "Kaiser Wilhelm I",
+      "Frederick the Great",
+      "Adolf Hitler"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Meiji Restoration marked a significant shift in which country?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": [
+      "China",
+      "Korea",
+      "Vietnam"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which influential thinker is associated with the concept of the 'social contract'?",
+    "correctAnswer": "Jean-Jacques Rousseau",
+    "incorrectAnswers": [
+      "John Locke",
+      "Thomas Hobbes",
+      "Immanuel Kant"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary cause of the Great Famine in Ireland in the 1840s?",
+    "correctAnswer": "Potato blight",
+    "incorrectAnswers": [
+      "War",
+      "Political unrest",
+      "Economic depression"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which significant event prompted the beginning of the American Civil War?",
+    "correctAnswer": "Secession of South Carolina",
+    "incorrectAnswers": [
+      "The Emancipation Proclamation",
+      "The Battle of Gettysburg",
+      "The Missouri Compromise"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the series of reforms initiated by Emperor Constantine in the Roman Empire?",
+    "correctAnswer": "Edict of Milan",
+    "incorrectAnswers": [
+      "Edict of Nantes",
+      "Edict of Worms",
+      "Edict of Restitution"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant technological advancement greatly enhanced the reach of the printing press during the 15th Century?",
+    "correctAnswer": "Movable type",
+    "incorrectAnswers": [
+      "Gutenberg's Press",
+      "Woodblock Printing",
+      "Papermaking"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "correctAnswer": "Jawaharlal Nehru",
+    "incorrectAnswers": [
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "B.R. Ambedkar"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who led the Haitian Revolution, a successful slave revolt?",
+    "correctAnswer": "Toussaint Louverture",
+    "incorrectAnswers": [
+      "Jean-Jacques Dessalines",
+      "Henri Christophe",
+      "François-Dominique Toussaint"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful female ruler of the Mughal Empire was known for her patronage of the arts and architecture?",
+    "correctAnswer": "Nur Jahan",
+    "incorrectAnswers": [
+      "Mumtaz Mahal",
+      "Razia Sultana",
+      "Jahanara Begum"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the military coup that brought Augusto Pinochet to power in Chile?",
+    "correctAnswer": "Operation Condor",
+    "incorrectAnswers": [
+      "Operation Himmler",
+      "Operation Paperclip",
+      "Operation Gladio"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient civilization developed the concept of zero?",
+    "correctAnswer": "Indian",
+    "incorrectAnswers": [
+      "Greek",
+      "Egyptian",
+      "Mesopotamian"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which significant reform movement during the Tang Dynasty in China focused on improving governance and reducing corruption?",
+    "correctAnswer": "The An Lushan Rebellion",
+    "incorrectAnswers": [
+      "The Yellow Turban Rebellion",
+      "The White Lotus Rebellion",
+      "The Taiping Rebellion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which English author penned the iconic novel *Pride and Prejudice*?",
+    "correctAnswer": "Jane Austen",
+    "incorrectAnswers": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "George Eliot"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote *The Odyssey*, a cornerstone of ancient Greek literature?",
+    "correctAnswer": "Homer",
+    "incorrectAnswers": [
+      "Sophocles",
+      "Euripides",
+      "Hesiod"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the young wizard in J.K. Rowling's fantasy series?",
+    "correctAnswer": "Harry Potter",
+    "incorrectAnswers": [
+      "Ron Weasley",
+      "Hermione Granger",
+      "Neville Longbottom"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Shakespearean play features the famous line, \"To be or not to be, that is the question\"?",
+    "correctAnswer": "Hamlet",
+    "incorrectAnswers": [
+      "Macbeth",
+      "Romeo and Juliet",
+      "King Lear"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In *The Great Gatsby*, what is the name of Gatsby's elusive love interest?",
+    "correctAnswer": "Daisy Buchanan",
+    "incorrectAnswers": [
+      "Jordan Baker",
+      "Myrtle Wilson",
+      "Pamela Buchanan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel features the dystopian society of Oceania, ruled by the Party?",
+    "correctAnswer": "Nineteen Eighty-Four",
+    "incorrectAnswers": [
+      "Brave New World",
+      "Fahrenheit 451",
+      "We"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who is the author of *One Hundred Years of Solitude*, a masterpiece of magical realism?",
+    "correctAnswer": "Gabriel García Márquez",
+    "incorrectAnswers": [
+      "Jorge Luis Borges",
+      "Pablo Neruda",
+      "Mario Vargas Llosa"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the literary movement associated with authors like Edgar Allan Poe and Nathaniel Hawthorne?",
+    "correctAnswer": "American Romanticism",
+    "incorrectAnswers": [
+      "American Realism",
+      "Transcendentalism",
+      "Modernism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which classic novel follows the journey of a young man named Pip?",
+    "correctAnswer": "Great Expectations",
+    "incorrectAnswers": [
+      "Oliver Twist",
+      "A Tale of Two Cities",
+      "David Copperfield"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author wrote *The Adventures of Huckleberry Finn*, a significant work of American literature?",
+    "correctAnswer": "Mark Twain",
+    "incorrectAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the creature that Victor Frankenstein creates in Mary Shelley's novel?",
+    "correctAnswer": "Frankenstein's monster",
+    "incorrectAnswers": [
+      "Dracula",
+      "The Wolfman",
+      "The Mummy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In *To Kill a Mockingbird*, what is the name of the lawyer who defends Tom Robinson?",
+    "correctAnswer": "Atticus Finch",
+    "incorrectAnswers": [
+      "Boo Radley",
+      "Scout Finch",
+      "Jem Finch"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the allegorical meaning of the title *Animal Farm*, by George Orwell?",
+    "correctAnswer": "The Russian Revolution",
+    "incorrectAnswers": [
+      "The French Revolution",
+      "The American Revolution",
+      "The English Civil War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel features the protagonist's journey to find the mythical city of Zamorra?",
+    "correctAnswer": "Don Quixote",
+    "incorrectAnswers": [
+      "The Divine Comedy",
+      "The Decameron",
+      "One Hundred Years of Solitude"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In which novel does Elizabeth Bennet find her soulmate, Mr. Darcy?",
+    "correctAnswer": "Pride and Prejudice",
+    "incorrectAnswers": [
+      "Sense and Sensibility",
+      "Emma",
+      "Persuasion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote *A Room of One's Own*, a feminist essay exploring the constraints faced by women writers?",
+    "correctAnswer": "Virginia Woolf",
+    "incorrectAnswers": [
+      "Kate Chopin",
+      "Emily Dickinson",
+      "Sylvia Plath"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel explores themes of colonialism and alienation through the story of Dr. Aziz and Fielding?",
+    "correctAnswer": "A Passage to India",
+    "incorrectAnswers": [
+      "Heart of Darkness",
+      "Things Fall Apart",
+      "The Jungle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author is known for their use of stream-of-consciousness in novels like *Mrs. Dalloway*?",
+    "correctAnswer": "Virginia Woolf",
+    "incorrectAnswers": [
+      "James Joyce",
+      "William Faulkner",
+      "Henry James"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What type of literature is *The Canterbury Tales* by Geoffrey Chaucer?",
+    "correctAnswer": "Frame Narrative",
+    "incorrectAnswers": [
+      "Epic Poem",
+      "Tragedy",
+      "Satire"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author, known for their intricate plots and psychological depth, wrote *Rebecca*?",
+    "correctAnswer": "Daphne du Maurier",
+    "incorrectAnswers": [
+      "Agatha Christie",
+      "Charlotte Brontë",
+      "Mary Shelley"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What ancient Greek epic poem tells the story of the Trojan War?",
+    "correctAnswer": "The Iliad",
+    "incorrectAnswers": [
+      "The Odyssey",
+      "The Aeneid",
+      "The Argonautica"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote *The Divine Comedy*, a masterpiece of Italian literature exploring the Christian afterlife?",
+    "correctAnswer": "Dante Alighieri",
+    "incorrectAnswers": [
+      "Giovanni Boccaccio",
+      "Petrarch",
+      "Michelangelo"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which 18th-century English novelist is considered a major figure in the development of the Gothic novel?",
+    "correctAnswer": "Horace Walpole",
+    "incorrectAnswers": [
+      "Jane Austen",
+      "Henry Fielding",
+      "Samuel Richardson"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the philosophical treatise by Plato that uses the Allegory of the Cave?",
+    "correctAnswer": "The Republic",
+    "incorrectAnswers": [
+      "The Symposium",
+      "Phaedo",
+      "Apology"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which French writer is associated with the Symbolist movement and is known for poems like 'Le Cygne'?",
+    "correctAnswer": "Paul Verlaine",
+    "incorrectAnswers": [
+      "Charles Baudelaire",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

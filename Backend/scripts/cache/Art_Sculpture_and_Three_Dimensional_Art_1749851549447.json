@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic sculpture, depicting a seated woman with a pensive expression, was created by Auguste Rodin?",
+    "correctAnswer": "The Thinker",
+    "incorrectAnswers": [
+      "The Kiss",
+      "The Burghers of Calais",
+      "Balzac"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What material is predominantly used in the creation of the ancient Egyptian sculptures?",
+    "correctAnswer": "Stone",
+    "incorrectAnswers": [
+      "Bronze",
+      "Clay",
+      "Wood"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is renowned for their monumental bronze sculptures, often depicting human forms in dynamic motion?",
+    "correctAnswer": "Auguste Rodin",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Venus de Milo, a famous Greek statue, is missing what body part?",
+    "correctAnswer": "Arms",
+    "incorrectAnswers": [
+      "Head",
+      "Legs",
+      "Feet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the large, metallic sculpture by Richard Serra that consists of twisted steel plates?",
+    "correctAnswer": "Tilted Arc",
+    "incorrectAnswers": [
+      "The Gates",
+      "Cloud Gate",
+      "Spiral Jetty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic movement heavily featured mobiles, characterized by their balance and movement?",
+    "correctAnswer": "Kinetic Art",
+    "incorrectAnswers": [
+      "Cubism",
+      "Surrealism",
+      "Pop Art"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What type of sculpture is created by assembling various found objects?",
+    "correctAnswer": "Assemblage",
+    "incorrectAnswers": [
+      "Relief",
+      "Bas-relief",
+      "In the round"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Michelangelo's David is a masterpiece of which artistic period?",
+    "correctAnswer": "Renaissance",
+    "incorrectAnswers": [
+      "Baroque",
+      "Classical",
+      "Medieval"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the technique used to create sculptures by carving away material from a block?",
+    "correctAnswer": "Subtractive Sculpture",
+    "incorrectAnswers": [
+      "Additive Sculpture",
+      "Casting",
+      "Modeling"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which famous sculpture is located in front of the Louvre Museum in Paris?",
+    "correctAnswer": "Louvre Pyramid",
+    "incorrectAnswers": [
+      "David",
+      "Winged Victory of Samothrace",
+      "The Thinker"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the process of creating a sculpture by adding material, often clay or wax, layer by layer?",
+    "correctAnswer": "Additive Sculpture",
+    "incorrectAnswers": [
+      "Subtractive Sculpture",
+      "Casting",
+      "Carving"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which ancient civilization is known for its intricate terracotta army sculptures?",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Egypt",
+      "Greece",
+      "Rome"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What type of sculpture is characterized by figures projecting from a flat background?",
+    "correctAnswer": "Relief Sculpture",
+    "incorrectAnswers": [
+      "In the Round",
+      "Assemblage",
+      "Kinetic"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is associated with the iconic 'Bird in Space' sculptures?",
+    "correctAnswer": "Constantin Brancusi",
+    "incorrectAnswers": [
+      "Henry Moore",
+      "Alexander Calder",
+      "Barbara Hepworth"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The 'Fountain' by Marcel Duchamp, a readymade sculpture, is a prime example of which art movement?",
+    "correctAnswer": "Dadaism",
+    "incorrectAnswers": [
+      "Surrealism",
+      "Cubism",
+      "Pop Art"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is lost-wax casting?",
+    "correctAnswer": "A method of metal casting in which a molten metal is poured into a mold that has been created using a wax model.",
+    "incorrectAnswers": [
+      "A type of carving technique",
+      "A method of sculpting with clay",
+      "A type of welding process"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which sculptor's work is characterized by biomorphic shapes and abstract forms?",
+    "correctAnswer": "Henry Moore",
+    "incorrectAnswers": [
+      "Auguste Rodin",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name for a sculpture that is freestanding and can be viewed from all sides?",
+    "correctAnswer": "Sculpture in the round",
+    "incorrectAnswers": [
+      "Relief sculpture",
+      "Bas-relief",
+      "High-relief"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist created the controversial 'Spiral Jetty' earthwork sculpture in the Great Salt Lake?",
+    "correctAnswer": "Robert Smithson",
+    "incorrectAnswers": [
+      "Walter De Maria",
+      "Richard Serra",
+      "Nancy Holt"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the term for a technique of assembling three-dimensional artworks using found objects?",
+    "correctAnswer": "Assemblage",
+    "incorrectAnswers": [
+      "Collage",
+      "Mixed media",
+      "Installation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the ancient Greek sculpture depicting a winged goddess of victory?",
+    "correctAnswer": "Nike of Samothrace",
+    "incorrectAnswers": [
+      "Venus de Milo",
+      "Laocoön and His Sons",
+      "Discobolus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which contemporary sculptor is known for their large-scale, often site-specific installations using natural materials?",
+    "correctAnswer": "Andy Goldsworthy",
+    "incorrectAnswers": [
+      "Louise Bourgeois",
+      "Yayoi Kusama",
+      "Jeff Koons"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who created the 'Two Forms' sculpture that stands outside the Tate Modern in London?",
+    "correctAnswer": "Barbara Hepworth",
+    "incorrectAnswers": [
+      "Henry Moore",
+      "Lynn Chadwick",
+      "Elisabeth Frink"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the process involving the creation of a sculpture by carving a form directly from a block of material?",
+    "correctAnswer": "Direct carving",
+    "incorrectAnswers": [
+      "Modeling",
+      "Casting",
+      "Assemblage"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is renowned for their unsettling and often grotesque figurative sculptures?",
+    "correctAnswer": "Alberto Giacometti",
+    "incorrectAnswers": [
+      "Constantin Brancusi",
+      "Henry Moore",
+      "Jean Arp"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

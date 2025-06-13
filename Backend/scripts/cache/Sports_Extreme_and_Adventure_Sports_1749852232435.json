@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which country is widely considered the birthplace of snowboarding?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "Canada",
+      "Japan",
+      "Switzerland"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest peak climbed by a BASE jumper?",
+    "correctAnswer": "Mount Everest",
+    "incorrectAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which country did the sport of parkour originate?",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "United Kingdom",
+      "United States",
+      "China"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which extreme sport involves jumping from a fixed structure with a parachute?",
+    "correctAnswer": "BASE jumping",
+    "incorrectAnswers": [
+      "Skydiving",
+      "Wingsuit flying",
+      "Bungee jumping"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the highest-ever successfully climbed mountain face in the world?",
+    "correctAnswer": "Meru Central Tower",
+    "incorrectAnswers": [
+      "K2",
+      "Annapurna I",
+      "Kangchenjunga"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the most common type of craft used in whitewater kayaking?",
+    "correctAnswer": "Kayak",
+    "incorrectAnswers": [
+      "Raft",
+      "Canoe",
+      "Surfboard"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which famous climber completed the first free solo ascent of El Capitan?",
+    "correctAnswer": "Alex Honnold",
+    "incorrectAnswers": [
+      "Tommy Caldwell",
+      "Lynn Hill",
+      "Adam Ondra"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the annual competition held in Hawaii featuring big-wave surfing?",
+    "correctAnswer": "Eddie Aikau Big Wave Invitational",
+    "incorrectAnswers": [
+      "Billabong Pipe Masters",
+      "Mavericks Surf Contest",
+      "Quiksilver Pro"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which organization governs the rules and competitions for competitive rock climbing?",
+    "correctAnswer": "IFSC (International Federation of Sport Climbing)",
+    "incorrectAnswers": [
+      "UCI",
+      "WADA",
+      "IOC"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What type of extreme sport involves riding a mountain bike down extremely steep and technical terrain?",
+    "correctAnswer": "Downhill mountain biking",
+    "incorrectAnswers": [
+      "Cross-country mountain biking",
+      "Trail riding",
+      "Freestyle mountain biking"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first person to climb Mount Everest without supplemental oxygen?",
+    "correctAnswer": "Reinhold Messner",
+    "incorrectAnswers": [
+      "Edmund Hillary",
+      "Tenzing Norgay",
+      "Junko Tabei"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the technique used in ice climbing where the climber’s ice axe is swung repeatedly to create holes in the ice?",
+    "correctAnswer": "Ice axe swing",
+    "incorrectAnswers": [
+      "Dry tooling",
+      "Ice screwing",
+      "Front pointing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year was the first successful ascent of K2 made?",
+    "correctAnswer": "1954",
+    "incorrectAnswers": [
+      "1924",
+      "1938",
+      "1960"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the notoriously dangerous rock formation in Yosemite National Park, famously climbed by free soloists?",
+    "correctAnswer": "El Capitan",
+    "incorrectAnswers": [
+      "Half Dome",
+      "Sentinel Rock",
+      "Tower of Babel"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the advanced technique in wingsuit flying where the pilot uses the natural airflow to make incredibly precise movements?",
+    "correctAnswer": "Proximity flying",
+    "incorrectAnswers": [
+      "Skydiving",
+      "BASE jumping",
+      "Paragliding"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What type of equipment is used in speed flying, a variation of paragliding?",
+    "correctAnswer": "Paraglider wing",
+    "incorrectAnswers": [
+      "Hang glider",
+      "Wingsuit",
+      "Parachute"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which mountaineer completed the first solo ascent of the Eiger North Face?",
+    "correctAnswer": "Michel Piola",
+    "incorrectAnswers": [
+      "Reinhold Messner",
+      "Peter Habeler",
+      "Ueli Steck"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the exceptionally challenging and dangerous rock climbing route on Cerro Torre, in Patagonia?",
+    "correctAnswer": "Compressor Route",
+    "incorrectAnswers": [
+      "Ragni Route",
+      "Bonatti Pillar",
+      "Ferrari Route"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who is considered a pioneer of free solo climbing, known for their ascents in Yosemite Valley?",
+    "correctAnswer": "Peter Croft",
+    "incorrectAnswers": [
+      "Alex Honnold",
+      "Dean Potter",
+      "John Long"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the climbing technique that utilizes small holds and precise footwork to ascend extremely steep rock faces?",
+    "correctAnswer": "Sport climbing",
+    "incorrectAnswers": [
+      "Bouldering",
+      "Traditional climbing",
+      "Free soloing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did  the first successful winter ascent of K2 take place?",
+    "correctAnswer": "2002",
+    "incorrectAnswers": [
+      "1987",
+      "2010",
+      "2018"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the term for the practice of jumping off cliffs into water, often involving specific techniques and acrobatic maneuvers?",
+    "correctAnswer": "Cliff diving",
+    "incorrectAnswers": [
+      "High diving",
+      "Platform diving",
+      "Springboard diving"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the specialized type of paragliding which involves flying extremely close to the ground at high speeds?",
+    "correctAnswer": "Acrobatic paragliding",
+    "incorrectAnswers": [
+      "Speed flying",
+      "Cross-country paragliding",
+      "Tandem paragliding"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What extreme sport combines elements of skateboarding, snowboarding, and surfing?",
+    "correctAnswer": "Snowskating",
+    "incorrectAnswers": [
+      "Skiboarding",
+      "Wakeboarding",
+      "Kiteboarding"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

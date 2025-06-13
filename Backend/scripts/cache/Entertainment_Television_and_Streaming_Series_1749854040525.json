@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic sitcom features six friends navigating life in New York City?",
+    "correctAnswer": "Friends",
+    "incorrectAnswers": [
+      "Seinfeld",
+      "The Big Bang Theory",
+      "How I Met Your Mother"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What streaming service is home to the popular series \"Stranger Things\"?",
+    "correctAnswer": "Netflix",
+    "incorrectAnswers": [
+      "Amazon Prime Video",
+      "Hulu",
+      "HBO Max"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who played the role of Walter White in the critically acclaimed series \"Breaking Bad\"?",
+    "correctAnswer": "Bryan Cranston",
+    "incorrectAnswers": [
+      "Aaron Paul",
+      "Bob Odenkirk",
+      "Giancarlo Esposito"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In \"The Office\" (US version), what paper company do the characters work for?",
+    "correctAnswer": "Dunder Mifflin",
+    "incorrectAnswers": [
+      "Paper Jam",
+      "OfficeMax",
+      "Staples"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the family featured in the animated series \"The Simpsons\"?",
+    "correctAnswer": "The Simpsons",
+    "incorrectAnswers": [
+      "The Griffins",
+      "The Belchers",
+      "The Loud House"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which HBO series features dragons and political intrigue in a fantasy world?",
+    "correctAnswer": "Game of Thrones",
+    "incorrectAnswers": [
+      "The Witcher",
+      "House of the Dragon",
+      "Westworld"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular streaming service is known for its original Marvel series?",
+    "correctAnswer": "Disney+",
+    "incorrectAnswers": [
+      "Netflix",
+      "HBO Max",
+      "Amazon Prime Video"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What medical drama features Meredith Grey and the doctors of Seattle Grace Hospital?",
+    "correctAnswer": "Grey's Anatomy",
+    "incorrectAnswers": [
+      "ER",
+      "House",
+      "Scrubs"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which sitcom features the antics of a dysfunctional family living in Quahog, Rhode Island?",
+    "correctAnswer": "Family Guy",
+    "incorrectAnswers": [
+      "American Dad",
+      "The Cleveland Show",
+      "Bob's Burgers"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What crime drama stars Benedict Cumberbatch as a brilliant but socially awkward detective?",
+    "correctAnswer": "Sherlock",
+    "incorrectAnswers": [
+      "Peaky Blinders",
+      "Luther",
+      "Line of Duty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In \"Lost\", what mysterious island are the survivors stranded on?",
+    "correctAnswer": "The Island",
+    "incorrectAnswers": [
+      "Isla Nublar",
+      "Skull Island",
+      "Treasure Island"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular streaming series features a group of friends playing Dungeons & Dragons?",
+    "correctAnswer": "Stranger Things",
+    "incorrectAnswers": [
+      "The Umbrella Academy",
+      "Community",
+      "Dirk Gently's Holistic Detective Agency"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which show, known for its anthology format, features different actors and storylines in each season?",
+    "correctAnswer": "American Horror Story",
+    "incorrectAnswers": [
+      "Black Mirror",
+      "True Detective",
+      "Fargo"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What Netflix series is based on the comic book of the same name and follows the Hargreeves siblings?",
+    "correctAnswer": "The Umbrella Academy",
+    "incorrectAnswers": [
+      "The Boys",
+      "Doom Patrol",
+      "Jupiter's Legacy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which show, a critically acclaimed period drama, follows the lives of the Crawley family and their servants?",
+    "correctAnswer": "Downton Abbey",
+    "incorrectAnswers": [
+      "Upstairs Downstairs",
+      "Call the Midwife",
+      "The Crown"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What dystopian drama series features Offred and the oppressive Republic of Gilead?",
+    "correctAnswer": "The Handmaid's Tale",
+    "incorrectAnswers": [
+      "Westworld",
+      "Black Mirror",
+      "The Man in the High Castle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What show, known for its dark humor and anti-hero protagonist, revolves around a hitman who has quit his job?",
+    "correctAnswer": "Barry",
+    "incorrectAnswers": [
+      "Better Call Saul",
+      "Atlanta",
+      "Killing Eve"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What cult classic show follows the adventures of a group of misfit teens in Hawkins, Indiana?",
+    "correctAnswer": "Stranger Things",
+    "incorrectAnswers": [
+      "Riverdale",
+      "The OA",
+      "Outer Banks"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What show features a group of survivors fighting for survival in a post-apocalyptic world, dealing with both human and supernatural threats?",
+    "correctAnswer": "The Walking Dead",
+    "incorrectAnswers": [
+      "Fear the Walking Dead",
+      "Z Nation",
+      "The Last of Us"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What political drama, known for its complex characters and intricate plotlines, features Frank Underwood and his ruthless climb to power?",
+    "correctAnswer": "House of Cards",
+    "incorrectAnswers": [
+      "Designated Survivor",
+      "Madam Secretary",
+      "Veep"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which critically acclaimed HBO miniseries, based on a true story, details the Chernobyl disaster?",
+    "correctAnswer": "Chernobyl",
+    "incorrectAnswers": [
+      "Band of Brothers",
+      "The Pacific",
+      "Generation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What animated anthology series, known for its dark humor and surreal storytelling, is created by Adult Swim?",
+    "correctAnswer": "Robot Chicken",
+    "incorrectAnswers": [
+      "Aqua Teen Hunger Force",
+      "Moral Orel",
+      "Xavier: Renegade Angel"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What British sci-fi series, known for its mind-bending plots and philosophical themes, features a recurring character named David?",
+    "correctAnswer": "Black Mirror",
+    "incorrectAnswers": [
+      "Doctor Who",
+      "Red Dwarf",
+      "Utopia"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which streaming series, a dark comedy-drama, features a group of people who start a cult?",
+    "correctAnswer": "The Righteous Gemstones",
+    "incorrectAnswers": [
+      "Succession",
+      "Atlanta",
+      "Barry"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What show, known for its surreal humor and bizarre characters, features a puppet named Triumph the Insult Comic Dog?",
+    "correctAnswer": "Late Night with Conan O'Brien",
+    "incorrectAnswers": [
+      "The Daily Show",
+      "The Tonight Show",
+      "Last Week Tonight"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

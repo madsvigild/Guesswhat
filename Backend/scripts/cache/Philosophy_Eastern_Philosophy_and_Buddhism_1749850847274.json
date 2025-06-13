@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What is the central concept in Buddhism, often depicted as a wheel with interconnected elements?",
+    "correctAnswer": "Dependent Origination",
+    "incorrectAnswers": [
+      "Nirvana",
+      "Karma",
+      "Samsara"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which concept in Buddhism emphasizes the impermanence of all things?",
+    "correctAnswer": "Anicca",
+    "incorrectAnswers": [
+      "Nirvana",
+      "Karma",
+      "Samsara"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The Eightfold Path is a core teaching in which major religion?",
+    "correctAnswer": "Buddhism",
+    "incorrectAnswers": [
+      "Hinduism",
+      "Taoism",
+      "Confucianism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the ultimate goal in Buddhism, often described as liberation from suffering?",
+    "correctAnswer": "Nirvana",
+    "incorrectAnswers": [
+      "Samsara",
+      "Karma",
+      "Enlightenment"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which Chinese philosophical school emphasized living in harmony with nature?",
+    "correctAnswer": "Taoism",
+    "incorrectAnswers": [
+      "Confucianism",
+      "Legalism",
+      "Mohism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the cycle of birth, death, and rebirth in Eastern philosophies?",
+    "correctAnswer": "Samsara",
+    "incorrectAnswers": [
+      "Nirvana",
+      "Karma",
+      "Dharma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Confucianism, what is the virtue emphasizing filial piety and respect for elders?",
+    "correctAnswer": "Xiao",
+    "incorrectAnswers": [
+      "Ren",
+      "Li",
+      "Yi"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the collection of sayings and teachings attributed to Confucius?",
+    "correctAnswer": "Analects",
+    "incorrectAnswers": [
+      "Tao Te Ching",
+      "Diamond Sutra",
+      "Bhagavad Gita"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept in Buddhism referring to the actions and their consequences?",
+    "correctAnswer": "Karma",
+    "incorrectAnswers": [
+      "Samsara",
+      "Nirvana",
+      "Dharma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which branch of Buddhism emphasizes meditation and mindfulness practices?",
+    "correctAnswer": "Vipassanā",
+    "incorrectAnswers": [
+      "Theravada",
+      "Mahayana",
+      "Vajrayana"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept of 'pratītyasamutpāda' often translated as?",
+    "correctAnswer": "Dependent Origination",
+    "incorrectAnswers": [
+      "Karma",
+      "Samsara",
+      "Nirvana"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Buddhist philosophy, what are the five aggregates that make up the self (or lack thereof)?",
+    "correctAnswer": "Skandhas",
+    "incorrectAnswers": [
+      "Ayatana",
+      "Dhatu",
+      "Indriya"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the state of emptiness or lack of inherent self in Mahayana Buddhism?",
+    "correctAnswer": "Śūnyatā",
+    "incorrectAnswers": [
+      "Anatta",
+      "Nirvana",
+      "Samsara"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between Theravada and Mahayana Buddhism, regarding the path to enlightenment?",
+    "correctAnswer": "Theravada emphasizes individual enlightenment through monastic practice, while Mahayana emphasizes the Bodhisattva ideal of achieving enlightenment to help others.",
+    "incorrectAnswers": [
+      "Theravada uses mantras, Mahayana doesn't",
+      "Mahayana is older",
+      "They differ in their views on karma"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Taoism, what is the concept representing the natural order and flow of the universe?",
+    "correctAnswer": "Tao",
+    "incorrectAnswers": [
+      "Yin",
+      "Yang",
+      "Qi"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'Wu Wei' in Taoism.",
+    "correctAnswer": "Non-action or effortless action; aligning oneself with the Tao to act naturally and spontaneously.",
+    "incorrectAnswers": [
+      "Passive resistance",
+      "Complete inaction",
+      "Self-cultivation through ritual"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the concept of 'Li' in Confucianism?",
+    "correctAnswer": "Ritual propriety, social etiquette and proper behavior that maintains social harmony.",
+    "incorrectAnswers": [
+      "Benevolence",
+      "Filial piety",
+      "Righteousness"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the meaning of the term 'Bodhisattva' in Mahayana Buddhism?",
+    "correctAnswer": "An enlightened being who postpones Nirvana to help others achieve enlightenment.",
+    "incorrectAnswers": [
+      "A type of deity",
+      "A monastic leader",
+      "A person who has achieved Nirvana"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What are the five precepts generally observed by Buddhist lay practitioners?",
+    "correctAnswer": "Abstaining from killing, stealing, sexual misconduct, lying, and intoxicants.",
+    "incorrectAnswers": [
+      "Meditation, mindfulness, compassion, generosity, wisdom",
+      "Following the eightfold path strictly",
+      "Observing all 227 precepts"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the Lotus Sutra in Mahayana Buddhism?",
+    "correctAnswer": "It emphasizes the potential for universal enlightenment and the accessibility of Buddhahood for all beings.",
+    "incorrectAnswers": [
+      "It's a collection of early Buddhist teachings",
+      "It details the lives of past Buddhas",
+      "It's primarily focused on meditation techniques"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'Trikaya' in Mahayana Buddhism.",
+    "correctAnswer": "The three bodies of a Buddha: Dharmakaya (truth body), Sambhogakaya (enjoyment body), and Nirmanakaya (emanation body).",
+    "incorrectAnswers": [
+      "Three levels of enlightenment",
+      "Three types of meditation",
+      "Three major schools of Mahayana"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the philosophical difference between the concept of 'Anatta' in Buddhism and the concept of 'Atman' in Hinduism?",
+    "correctAnswer": "Anatta denies the existence of a permanent, unchanging self, while Atman asserts the existence of an eternal, individual soul.",
+    "incorrectAnswers": [
+      "Both concepts are the same",
+      "Anatta is a Hindu concept, Atman is Buddhist",
+      "They both emphasize impermanence"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the role of the concept of 'emptiness' (sunyata) in Madhyamaka Buddhism.",
+    "correctAnswer": "Sunyata refers to the lack of inherent existence in all phenomena, emphasizing the interdependent nature of reality and the illusion of a separate self.",
+    "incorrectAnswers": [
+      "It's a state of complete nothingness",
+      "It represents the ultimate reality of the cosmos",
+      "It's synonymous with Nirvana"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What are the four noble truths in Buddhism?",
+    "correctAnswer": "The truth of suffering, the truth of the origin of suffering, the truth of the cessation of suffering, and the truth of the path to the cessation of suffering.",
+    "incorrectAnswers": [
+      "The truths of karma, rebirth, enlightenment, and liberation",
+      "The truths of love, compassion, wisdom, and peace",
+      "The truths of the eightfold path"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

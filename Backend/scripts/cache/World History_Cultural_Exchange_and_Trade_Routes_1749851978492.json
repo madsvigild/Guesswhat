@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which ancient trade route connected the East and West, facilitating the exchange of goods like silk and spices?",
+    "correctAnswer": "Silk Road",
+    "incorrectAnswers": [
+      "Spice Route",
+      "Amber Road",
+      "Royal Road"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant cultural exchange occurred along the Silk Road, impacting both Eastern and Western societies?",
+    "correctAnswer": "Spread of Buddhism",
+    "incorrectAnswers": [
+      "Spread of Christianity",
+      "Spread of Islam",
+      "Spread of Zoroastrianism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The trans-Saharan trade primarily involved the exchange of which valuable commodity from West Africa?",
+    "correctAnswer": "Gold",
+    "incorrectAnswers": [
+      "Silver",
+      "Copper",
+      "Iron"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful empire controlled much of the Mediterranean Sea, facilitating extensive trade and cultural exchange?",
+    "correctAnswer": "Roman Empire",
+    "incorrectAnswers": [
+      "Persian Empire",
+      "Greek Empire",
+      "Byzantine Empire"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Name the maritime trade route connecting East Africa, the Middle East, India, and China.",
+    "correctAnswer": "Indian Ocean Trade Network",
+    "incorrectAnswers": [
+      "Mediterranean Trade Network",
+      "Trans-Saharan Trade Route",
+      "Silk Road"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What valuable spice, highly sought after in Europe, was a key driver of trade along the Indian Ocean network?",
+    "correctAnswer": "Pepper",
+    "incorrectAnswers": [
+      "Cinnamon",
+      "Clove",
+      "Nutmeg"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The exchange of goods along trade routes often led to the spread of what, besides material goods?",
+    "correctAnswer": "Diseases",
+    "incorrectAnswers": [
+      "Languages only",
+      "Religions only",
+      "Political systems only"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "How did the Mongol Empire influence cultural exchange during its vast reign?",
+    "correctAnswer": "Facilitated trade and communication across Eurasia.",
+    "incorrectAnswers": [
+      "Severely restricted trade",
+      "Caused a decline in cultural exchange",
+      "Had little impact on trade routes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was a significant consequence of the Columbian Exchange?",
+    "correctAnswer": "Transfer of plants, animals, and diseases between the Old and New Worlds.",
+    "incorrectAnswers": [
+      "Increased trade solely within Europe",
+      "Declined trade between continents",
+      "No significant impact on global trade"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful city-state in modern-day Italy played a vital role in the Mediterranean trade during the Renaissance?",
+    "correctAnswer": "Venice",
+    "incorrectAnswers": [
+      "Florence",
+      "Rome",
+      "Genoa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What specific disease, devastating to Indigenous populations, was introduced to the Americas via the Columbian Exchange?",
+    "correctAnswer": "Smallpox",
+    "incorrectAnswers": [
+      "Measles",
+      "Bubonic Plague",
+      "Cholera"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Besides goods, what intangible element was significantly exchanged along the trade routes of the Indian Ocean?",
+    "correctAnswer": "Religious ideas and practices",
+    "incorrectAnswers": [
+      "Scientific advancements only",
+      "Political structures only",
+      "Technological innovations only"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The diffusion of which writing system significantly impacted the development of several East Asian cultures?",
+    "correctAnswer": "Chinese characters",
+    "incorrectAnswers": [
+      "Arabic script",
+      "Greek alphabet",
+      "Cyrillic alphabet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the network of trade routes that connected the various cities of the Swahili Coast?",
+    "correctAnswer": "Swahili Coast Trade Network",
+    "incorrectAnswers": [
+      "Zanzibar Trade Route",
+      "East African Coastal Trade",
+      "Indian Ocean Trade Route (only, too broad)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The spice trade of the Indian Ocean heavily influenced the rise of which major European power in the 16th and 17th centuries?",
+    "correctAnswer": "Portugal",
+    "incorrectAnswers": [
+      "Spain",
+      "England",
+      "France"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant technological advancement facilitated the expansion of maritime trade in the 15th century, leading to the Age of Exploration?",
+    "correctAnswer": "Improved cartography and navigation techniques",
+    "incorrectAnswers": [
+      "Development of the printing press",
+      "Invention of the compass",
+      "Development of gunpowder"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Explain the role of the 'mit'a' system in the Inca Empire's trade and infrastructure development.",
+    "correctAnswer": "A labor system where citizens rotated through public service, including road construction and maintenance, crucial for trade.",
+    "incorrectAnswers": [
+      "A system of taxation",
+      "A system of religious rituals",
+      "A system of land ownership"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "How did the maritime trade routes of the Indian Ocean differ from the Silk Road in terms of the types of goods exchanged?",
+    "correctAnswer": "Indian Ocean trade involved more bulk goods like spices and textiles, while the Silk Road emphasized luxury goods like silk and porcelain.",
+    "incorrectAnswers": [
+      "Both traded similar goods",
+      "The Silk Road traded more bulk goods",
+      "The Indian Ocean focused only on spices"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What specific cultural impact did the spread of Islam have on West Africa through the trans-Saharan trade routes?",
+    "correctAnswer": "Introduction of Arabic script, Islamic scholarship, and the spread of mosques and Islamic architecture.",
+    "incorrectAnswers": [
+      "Mostly economic impact with little cultural influence",
+      "Decline of existing cultures",
+      "Introduction of Christianity"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Beyond the exchange of goods, how did the interaction between different cultures along the Silk Road lead to new artistic and architectural styles?",
+    "correctAnswer": "Fusion of styles, resulting in hybrid forms integrating elements from different cultures (e.g., mixing Chinese and Persian artistic elements).",
+    "incorrectAnswers": [
+      "No significant artistic influence",
+      "Domination of one style over others",
+      "Artistic styles remained completely separate"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "How did the establishment of trading posts along the Indian Ocean impact the political landscape of coastal regions?",
+    "correctAnswer": "Led to the rise of powerful port cities and kingdoms, often resulting in competition and conflict for control of trade.",
+    "incorrectAnswers": [
+      "Led to peaceful coexistence between all parties",
+      "Had minimal effect on political power structures",
+      "Strengthened existing inland empires"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Discuss the role of maritime technology in facilitating the expansion of trade networks across the Indian Ocean.",
+    "correctAnswer": "Development of advanced sailing techniques, ship design (dhows, junks), and navigational tools allowed for longer voyages and greater carrying capacity.",
+    "incorrectAnswers": [
+      "Technology had no effect on trade expansion",
+      "Trade expansion was due only to political factors",
+      "Land-based trade routes were more important"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What impact did the Black Death, spread along trade routes, have on the economies and societies of Eurasia?",
+    "correctAnswer": "Massive population decline, labor shortages, social upheaval, and significant economic disruption.",
+    "incorrectAnswers": [
+      "Had a minimal impact",
+      "Strengthened trade and economic growth",
+      "Caused only minor social changes"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Analyze the role of caravanserais along the Silk Road and their significance in facilitating trade and cultural exchange.",
+    "correctAnswer": "They provided rest stops for merchants and travelers, fostering interaction and exchange of goods, ideas, and culture.",
+    "incorrectAnswers": [
+      "Served primarily as military outposts",
+      "Were isolated and prevented cultural exchange",
+      "Had no significant role in trade"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

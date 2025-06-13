@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which philosopher is famous for his concept of the 'will to power'?",
+    "correctAnswer": "Friedrich Nietzsche",
+    "incorrectAnswers": [
+      "Immanuel Kant",
+      "John Stuart Mill",
+      "Simone de Beauvoir"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Existentialism emphasizes the importance of which of the following?",
+    "correctAnswer": "Individual freedom and responsibility",
+    "incorrectAnswers": [
+      "Objective truth and reason",
+      "Social harmony and conformity",
+      "Predetermined destiny and fate"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central concept in Simone de Beauvoir's 'The Second Sex'?",
+    "correctAnswer": "Existentialist Feminism",
+    "incorrectAnswers": [
+      "Post-structuralism",
+      "Logical Positivism",
+      "Critical Theory"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher is associated with the concept of 'linguistic turn'?",
+    "correctAnswer": "Ludwig Wittgenstein",
+    "incorrectAnswers": [
+      "Immanuel Kant",
+      "John Locke",
+      "David Hume"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The concept of 'Übermensch' is central to the philosophy of which thinker?",
+    "correctAnswer": "Friedrich Nietzsche",
+    "incorrectAnswers": [
+      "Karl Marx",
+      "Søren Kierkegaard",
+      "Michel Foucault"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Pragmatism emphasizes the importance of what in assessing truth?",
+    "correctAnswer": "Practical consequences",
+    "incorrectAnswers": [
+      "Abstract principles",
+      "Divine revelation",
+      "Pure reason"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the influential work by Edmund Husserl that established phenomenology?",
+    "correctAnswer": "Logical Investigations",
+    "incorrectAnswers": [
+      "Being and Time",
+      "The Phenomenology of Perception",
+      "Critique of Pure Reason"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher is known for their work on ethics and political philosophy, particularly the concept of 'justice as fairness'?",
+    "correctAnswer": "John Rawls",
+    "incorrectAnswers": [
+      "Robert Nozick",
+      "John Stuart Mill",
+      "Friedrich Hayek"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The idea of 'tabula rasa' – the blank slate – is associated with which philosopher?",
+    "correctAnswer": "John Locke",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "René Descartes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the core concept of Heidegger's 'Being and Time'?",
+    "correctAnswer": "Understanding Being through Dasein (human existence)",
+    "incorrectAnswers": [
+      "The critique of pure reason",
+      "The will to power",
+      "The concept of the Übermensch"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the difference between Sartre's concept of 'bad faith' and authenticity.",
+    "correctAnswer": "Bad faith is self-deception, denying freedom and responsibility. Authenticity involves embracing freedom and making responsible choices.",
+    "incorrectAnswers": [
+      "Both terms describe the same concept",
+      "Bad faith is embracing freedom, authenticity is denying it",
+      "Bad faith is a form of existential despair, authenticity is a state of nihilism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does Foucault's concept of 'power' differ from traditional understandings?",
+    "correctAnswer": "Foucault views power as dispersed and productive, not just repressive, shaping subjectivity and knowledge.",
+    "incorrectAnswers": [
+      "Foucault sees power as solely repressive",
+      "Foucault's concept is identical to traditional views of power",
+      "Foucault rejects the concept of power entirely"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the main critique of postmodernism often leveled by modernists?",
+    "correctAnswer": "Relativism and the rejection of objective truth",
+    "incorrectAnswers": [
+      "Excessive focus on reason",
+      "Lack of engagement with social issues",
+      "Overemphasis on empirical evidence"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In what way does Habermas's theory of communicative action challenge traditional power structures?",
+    "correctAnswer": "By emphasizing rational discourse and consensus-building as alternatives to domination",
+    "incorrectAnswers": [
+      "By advocating for violent revolution",
+      "By supporting traditional authority structures",
+      "By promoting complete social isolation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the difference between deontological and consequentialist ethical theories.",
+    "correctAnswer": "Deontology focuses on duty and rules, while consequentialism focuses on the consequences of actions.",
+    "incorrectAnswers": [
+      "They are the same thing",
+      "Deontology is subjective, consequentialism is objective",
+      "Deontology ignores consequences, consequentialism ignores moral rules"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does Derrida's concept of 'deconstruction' challenge traditional notions of meaning?",
+    "correctAnswer": "By showing that meaning is always unstable and dependent on context, constantly deferred and never fully present.",
+    "incorrectAnswers": [
+      "By reinforcing traditional notions of meaning",
+      "By providing a definitive meaning to all texts",
+      "By rejecting language altogether"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the 'linguistic turn' in 20th-century philosophy?",
+    "correctAnswer": "It shifted focus from metaphysics to language as the primary subject of philosophical inquiry.",
+    "incorrectAnswers": [
+      "It renewed interest in classical metaphysics",
+      "It led to the rejection of all forms of language",
+      "It had no significant impact on philosophy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central argument of 'A Theory of Justice' by John Rawls?",
+    "correctAnswer": "A just society is one that would be agreed upon by rational individuals under a 'veil of ignorance'.",
+    "incorrectAnswers": [
+      "A just society is based on the pursuit of self-interest",
+      "Justice is determined solely by the consequences of actions.",
+      "Justice is a matter of subjective opinion."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept of 'performativity' in Judith Butler's work?",
+    "correctAnswer": "Gender and identity are not inherent but socially constructed through repeated performances of actions and behaviors.",
+    "incorrectAnswers": [
+      "Gender is biologically determined.",
+      "Gender roles are unchanging and fixed.",
+      "Gender is irrelevant to identity."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In what way does the philosophy of Michel Foucault challenge traditional notions of knowledge and power?",
+    "correctAnswer": "By arguing that knowledge and power are intertwined, with knowledge being used to create and maintain systems of power.",
+    "incorrectAnswers": [
+      "He supports traditional systems of knowledge and power",
+      "He believes that knowledge and power are unrelated.",
+      "Knowledge is independent of social structures."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'intersubjectivity' as it relates to phenomenology and existentialism.",
+    "correctAnswer": "Intersubjectivity refers to the shared understanding and experience between individuals, crucial for both phenomenological descriptions of consciousness and existentialist accounts of human existence.",
+    "incorrectAnswers": [
+      "A rejection of shared experience",
+      "The complete isolation of individuals",
+      "An objective, external reality independent of experience"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the significance of the Frankfurt School's critical theory in the context of modern Western philosophy.",
+    "correctAnswer": "It critiqued Enlightenment reason, capitalism, and societal power structures through a Marxist lens, advocating for social change and emancipation.",
+    "incorrectAnswers": [
+      "It supported traditional philosophical structures",
+      "It was largely ignored by the academic community",
+      "It primarily focused on abstract metaphysical questions."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the work of Gilles Deleuze and Félix Guattari challenge traditional philosophical concepts of identity and subjectivity?",
+    "correctAnswer": "They propose a philosophy of becoming, emphasizing fluidity, multiplicity, and rhizomatic networks that destabilize fixed identities and hierarchical structures.",
+    "incorrectAnswers": [
+      "They reinforce traditional concepts of identity",
+      "Their work has no bearing on the concept of identity",
+      "They advocate for a return to classical metaphysics."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Elaborate on the central tenets of post-structuralism and its critique of structuralism.",
+    "correctAnswer": "Post-structuralism critiques structuralism's emphasis on stable structures and systems of meaning, highlighting instead the instability and undecidability of meaning, the play of language, and the deconstruction of binary oppositions.",
+    "incorrectAnswers": [
+      "Post-structuralism supports structuralism",
+      "They are essentially the same thing",
+      "Post-structuralism focuses on empirical observation."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

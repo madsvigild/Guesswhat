@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which long-running Broadway musical features the song \"Memory\"?",
+    "correctAnswer": "Cats",
+    "incorrectAnswers": [
+      "The Phantom of the Opera",
+      "Les Misérables",
+      "Wicked"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who played the iconic role of Eliza Doolittle in the original Broadway production of \"My Fair Lady\"?",
+    "correctAnswer": "Julie Andrews",
+    "incorrectAnswers": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Marni Nixon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical is known for its use of puppets and its dark, whimsical tale?",
+    "correctAnswer": "Avenue Q",
+    "incorrectAnswers": [
+      "Lion King",
+      "The Lion in Winter",
+      "Wicked"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which famous playwright wrote \"Hamlet\", \"Macbeth\", and \"King Lear\"?",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "George Bernard Shaw"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What iconic Broadway musical features a green-skinned Wicked Witch of the West?",
+    "correctAnswer": "Wicked",
+    "incorrectAnswers": [
+      "The Wizard of Oz",
+      "Into the Woods",
+      "Evita"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular Broadway musical is based on the movie \"School of Rock\"?",
+    "correctAnswer": "School of Rock",
+    "incorrectAnswers": [
+      "Grease",
+      "Hairspray",
+      "Footloose"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which musical tells the story of a group of nuns who find joy in music?",
+    "correctAnswer": "Sister Act",
+    "incorrectAnswers": [
+      "Sound of Music",
+      "Grease",
+      "Mamma Mia!"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which Tony Award-winning musical features the song \"Seasons of Love\"?",
+    "correctAnswer": "Rent",
+    "incorrectAnswers": [
+      "Hamilton",
+      "Dear Evan Hansen",
+      "Next to Normal"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical is set in a diner and explores the lives of its quirky staff?",
+    "correctAnswer": "Waitress",
+    "incorrectAnswers": [
+      "A Chorus Line",
+      "Chicago",
+      "Cabaret"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical tells the story of a young woman who dreams of becoming a star?",
+    "correctAnswer": "A Chorus Line",
+    "incorrectAnswers": [
+      "Chicago",
+      "Gypsy",
+      "42nd Street"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "The musical \"Hamilton\" blends hip-hop, R&B, and pop with which historical subject matter?",
+    "correctAnswer": "The life of Alexander Hamilton",
+    "incorrectAnswers": [
+      "The American Revolution",
+      "The Founding Fathers",
+      "The US Constitution"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which Stephen Sondheim musical is known for its complex plot and dark humor, revolving around a mysterious murder?",
+    "correctAnswer": "Sweeney Todd",
+    "incorrectAnswers": [
+      "Into the Woods",
+      "Company",
+      "A Little Night Music"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What Broadway musical features a character who makes a deal with the devil?",
+    "correctAnswer": "Faust",
+    "incorrectAnswers": [
+      "Damn Yankees",
+      "The Devil's Due",
+      "The Phantom of the Opera"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which long-running musical is known for its extravagant costumes and elaborate stage design?",
+    "correctAnswer": "The Phantom of the Opera",
+    "incorrectAnswers": [
+      "Cats",
+      "Les Misérables",
+      "Miss Saigon"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical, known for its feminist themes, reimagines the Greek myth of Medea?",
+    "correctAnswer": "Bloody Bloody Andrew Jackson",
+    "incorrectAnswers": [
+      "Xanadu",
+      "Hadestown",
+      "Six"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which musical is a satirical commentary on fame, fortune and the music industry?",
+    "correctAnswer": "Spring Awakening",
+    "incorrectAnswers": [
+      "Hedwig and the Angry Inch",
+      "Next to Normal",
+      "American Idiot"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical, based on a novel by E.L. James, was widely panned by critics?",
+    "correctAnswer": "Fifty Shades! The Musical",
+    "incorrectAnswers": [
+      "The Notebook",
+      "Moulin Rouge!",
+      "Pretty Woman"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who composed the music for the Broadway musical \"Into the Woods\"?",
+    "correctAnswer": "Stephen Sondheim",
+    "incorrectAnswers": [
+      "Andrew Lloyd Webber",
+      "Leonard Bernstein",
+      "Cole Porter"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which musical is loosely based on the story of the Golem of Prague?",
+    "correctAnswer": "Parade",
+    "incorrectAnswers": [
+      "Yentl",
+      "Ragtime",
+      "Fiddler on the Roof"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What Broadway musical features a character who travels through time to rescue his daughter?",
+    "correctAnswer": "Back to the Future",
+    "incorrectAnswers": [
+      "Xanadu",
+      "Footloose",
+      "Singin' in the Rain"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who directed the original Broadway production of \"Angels in America\"?",
+    "correctAnswer": "George C. Wolfe",
+    "incorrectAnswers": [
+      "Mike Nichols",
+      "August Wilson",
+      "Robert Wilson"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which lesser-known musical, a cult classic, explores themes of isolation and societal pressure in a surreal setting?",
+    "correctAnswer": "Assassins",
+    "incorrectAnswers": [
+      "Fun Home",
+      "Next to Normal",
+      "Passing Strange"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What experimental musical from the 1960s is known for its multimedia approach and avant-garde style?",
+    "correctAnswer": "Hair",
+    "incorrectAnswers": [
+      "Godspell",
+      "Jesus Christ Superstar",
+      "A Chorus Line"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which Tony Award-winning musical, known for its innovative staging, uses a revolving stage extensively?",
+    "correctAnswer": "Carousel",
+    "incorrectAnswers": [
+      "Oklahoma!",
+      "South Pacific",
+      "The King and I"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What obscure musical, despite critical acclaim, had a short Broadway run in the early 2000s and is now a cult favorite?",
+    "correctAnswer": "Urinetown",
+    "incorrectAnswers": [
+      "Reefer Madness",
+      "Bat Boy",
+      "The Toxic Avenger"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

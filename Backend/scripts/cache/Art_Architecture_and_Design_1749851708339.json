@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic architectural style is characterized by pointed arches, ribbed vaults, and flying buttresses?",
+    "correctAnswer": "Gothic",
+    "incorrectAnswers": [
+      "Romanesque",
+      "Baroque",
+      "Renaissance"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Colosseum in Rome is a prime example of what architectural style?",
+    "correctAnswer": "Roman",
+    "incorrectAnswers": [
+      "Greek",
+      "Gothic",
+      "Byzantine"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who designed the Fallingwater house, a masterpiece of organic architecture?",
+    "correctAnswer": "Frank Lloyd Wright",
+    "incorrectAnswers": [
+      "Le Corbusier",
+      "Mies van der Rohe",
+      "Philip Johnson"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What architectural movement emphasized functionality and clean lines, often using steel and glass?",
+    "correctAnswer": "Bauhaus",
+    "incorrectAnswers": [
+      "Art Nouveau",
+      "Art Deco",
+      "Postmodernism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Eiffel Tower is located in which city?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": [
+      "London",
+      "New York",
+      "Rome"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What architectural style is characterized by its ornate decoration, curves, and lavish use of materials?",
+    "correctAnswer": "Art Nouveau",
+    "incorrectAnswers": [
+      "Art Deco",
+      "Minimalism",
+      "Bauhaus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which famous architect is known for designing the Sydney Opera House?",
+    "correctAnswer": "Jørn Utzon",
+    "incorrectAnswers": [
+      "Frank Gehry",
+      "I.M. Pei",
+      "Oscar Niemeyer"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Guggenheim Museum in Bilbao is a notable example of what architectural style?",
+    "correctAnswer": "Deconstructivism",
+    "incorrectAnswers": [
+      "Modernism",
+      "Postmodernism",
+      "Futurism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the architectural style characterized by its emphasis on symmetry, balance, and classical proportions?",
+    "correctAnswer": "Neoclassical",
+    "incorrectAnswers": [
+      "Baroque",
+      "Rococo",
+      "Gothic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which architectural feature is commonly associated with ancient Greek temples?",
+    "correctAnswer": "Columns",
+    "incorrectAnswers": [
+      "Arches",
+      "Flying buttresses",
+      "Gargoyles"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The architect Antoni Gaudí is most closely associated with which city and architectural style?",
+    "correctAnswer": "Barcelona, Catalan Modernism",
+    "incorrectAnswers": [
+      "Paris, Art Nouveau",
+      "Vienna, Secession",
+      "Rome, Baroque"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What innovative building material, pioneered in the late 19th century, revolutionized skyscraper construction?",
+    "correctAnswer": "Steel Frame",
+    "incorrectAnswers": [
+      "Concrete",
+      "Reinforced Concrete",
+      "Masonry"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which architectural principle emphasizes the harmonious relationship between a building and its natural environment?",
+    "correctAnswer": "Organic Architecture",
+    "incorrectAnswers": [
+      "Brutalism",
+      "International Style",
+      "Postmodernism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the term for the study of the principles of design and construction?",
+    "correctAnswer": "Architecture",
+    "incorrectAnswers": [
+      "Urban planning",
+      "Interior design",
+      "Engineering"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Describe a key characteristic differentiating 'International Style' architecture from 'Art Deco' architecture.",
+    "correctAnswer": "International Style prioritizes functionality and minimalism, while Art Deco emphasizes ornamentation and geometric forms.",
+    "incorrectAnswers": [
+      "Both styles heavily use ornamentation.",
+      "Both styles prioritize functionality over aesthetics.",
+      "They are essentially the same style."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which architectural movement reacted against the austerity of modernism, embracing playful forms and eclectic styles?",
+    "correctAnswer": "Postmodernism",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Constructivism",
+      "De Stijl"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the architectural style characterized by the use of exposed concrete and a raw, unadorned aesthetic?",
+    "correctAnswer": "Brutalism",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Futurism",
+      "Art Deco"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who designed the iconic Pompidou Centre in Paris, known for its exposed structural elements?",
+    "correctAnswer": "Renzo Piano and Richard Rogers",
+    "incorrectAnswers": [
+      "Frank Gehry",
+      "Norman Foster",
+      "Jean Nouvel"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is a keystone in the context of architecture?",
+    "correctAnswer": "A central stone at the apex of an arch, which holds the other stones in place.",
+    "incorrectAnswers": [
+      "A type of column",
+      "A decorative element",
+      "A foundation stone"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name given to the architectural style that combines elements of several different historical styles?",
+    "correctAnswer": "Eclecticism",
+    "incorrectAnswers": [
+      "Fusion",
+      "Hybrid",
+      "Modernism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Define 'Passive Solar Design' in architectural context.",
+    "correctAnswer": "A building design strategy that utilizes solar energy for heating and cooling without active mechanical systems.",
+    "incorrectAnswers": [
+      "Using solar panels for energy",
+      "Using active heating/cooling systems",
+      "A style of architecture popular in the 1970s"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which renowned architect is known for his use of parametric design and complex, fluid forms in his buildings?",
+    "correctAnswer": "Frank Gehry",
+    "incorrectAnswers": [
+      "Zaha Hadid",
+      "Rem Koolhaas",
+      "Norman Foster"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the term for the design principle that creates a sense of visual balance and harmony between different elements?",
+    "correctAnswer": "Proportion",
+    "incorrectAnswers": [
+      "Rhythm",
+      "Emphasis",
+      "Scale"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Name the specific type of vault that is formed by the intersection of two barrel vaults at right angles.",
+    "correctAnswer": "Groin Vault",
+    "incorrectAnswers": [
+      "Rib Vault",
+      "Barrel Vault",
+      "Dome"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Identify the architectural style primarily characterized by the use of large, overhanging eaves and open floor plans, often incorporating natural materials.",
+    "correctAnswer": "Prairie School",
+    "incorrectAnswers": [
+      "Mission Revival",
+      "Craftsman",
+      "Queen Anne"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

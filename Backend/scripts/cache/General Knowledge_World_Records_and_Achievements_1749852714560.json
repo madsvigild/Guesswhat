@@ -1,0 +1,233 @@
+[
+  {
+    "question": "What country holds the record for the most Olympic gold medals won?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "China",
+      "Soviet Union",
+      "Great Britain"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who holds the record for the most career home runs in Major League Baseball?",
+    "correctAnswer": "Barry Bonds",
+    "incorrectAnswers": [
+      "Hank Aaron",
+      "Babe Ruth",
+      "Albert Pujols"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country boasts the tallest building in the world?",
+    "correctAnswer": "United Arab Emirates (Burj Khalifa)",
+    "incorrectAnswers": [
+      "China",
+      "USA",
+      "Saudi Arabia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who is the fastest man in the world (based on the 100m sprint world record)?",
+    "correctAnswer": "Usain Bolt",
+    "incorrectAnswers": [
+      "Carl Lewis",
+      "Tyson Gay",
+      "Maurice Greene"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What Guinness World Record did J. K. Rowling achieve with the Harry Potter series?",
+    "correctAnswer": "Best-selling book series of all time",
+    "incorrectAnswers": [
+      "Most translated book",
+      "Most expensive book series",
+      "Fastest selling book series"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country holds the record for the highest number of Nobel Prizes won?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "United Kingdom",
+      "Germany",
+      "France"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which animal holds the Guinness World Record for the fastest land animal?",
+    "correctAnswer": "Cheetah",
+    "incorrectAnswers": [
+      "Lion",
+      "Pronghorn Antelope",
+      "Wildebeest"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who painted the Mona Lisa, a world-famous artwork?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Approximately how many books make up the Guinness World Records book each year?",
+    "correctAnswer": "Over 60,000",
+    "incorrectAnswers": [
+      "Around 10,000",
+      "Close to 500",
+      "Around 50,000"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the largest desert in the world?",
+    "correctAnswer": "Antarctica",
+    "incorrectAnswers": [
+      "Sahara Desert",
+      "Arctic Desert",
+      "Arabian Desert"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "In what year was the first successful human-powered flight achieved?",
+    "correctAnswer": "1977",
+    "incorrectAnswers": [
+      "1903",
+      "1969",
+      "1985"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest-running Broadway show?",
+    "correctAnswer": "The Phantom of the Opera",
+    "incorrectAnswers": [
+      "Cats",
+      "Wicked",
+      "Lion King"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What record did the band Nirvana achieve with the album 'Nevermind'?",
+    "correctAnswer": "One of the best-selling albums of all time",
+    "incorrectAnswers": [
+      "Fastest selling album",
+      "Most expensive album",
+      "First album to sell over 100 million copies"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which video game holds the Guinness World Record for the highest-grossing video game of all time?",
+    "correctAnswer": "Minecraft",
+    "incorrectAnswers": [
+      "Tetris",
+      "Grand Theft Auto V",
+      "Candy Crush Saga"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest continuously running television series in the world?",
+    "correctAnswer": "Meet the Press",
+    "incorrectAnswers": [
+      "The Simpsons",
+      "Doctor Who",
+      "Saturday Night Live"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who holds the record for the most Oscars won by a single individual?",
+    "correctAnswer": "Walt Disney",
+    "incorrectAnswers": [
+      "Katharine Hepburn",
+      "Meryl Streep",
+      "Jack Nicholson"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the largest artificial lake in the world by surface area?",
+    "correctAnswer": "Lake Kariba",
+    "incorrectAnswers": [
+      "Lake Nasser",
+      "Bratsk Reservoir",
+      "Lake Volta"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who holds the record for the most consecutive Grand Slam singles titles won?",
+    "correctAnswer": "Don Budge",
+    "incorrectAnswers": [
+      "Rod Laver",
+      "Roger Federer",
+      "Rafael Nadal"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What country has won the most FIFA World Cups?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "Italy",
+      "Germany",
+      "Argentina"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who holds the record for the most appearances in the Pro Bowl (NFL)?",
+    "correctAnswer": "Jerry Rice",
+    "incorrectAnswers": [
+      "Tom Brady",
+      "Peyton Manning",
+      "Ray Lewis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest-reigning monarch in British history?",
+    "correctAnswer": "Queen Elizabeth II",
+    "incorrectAnswers": [
+      "Queen Victoria",
+      "King George III",
+      "King Henry VIII"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

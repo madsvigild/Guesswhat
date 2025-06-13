@@ -1,0 +1,266 @@
+[
+  {
+    "question": "In Navajo mythology, what are the twin heroes who slay monsters and bring balance to the world?",
+    "correctAnswer": "Monster Slayer Twins",
+    "incorrectAnswers": [
+      "Coyote and Rabbit",
+      "Sun and Moon",
+      "Sky and Earth"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Native American tribe's creation story features a Sky Woman falling to Earth?",
+    "correctAnswer": "Haudenosaunee (Iroquois)",
+    "incorrectAnswers": [
+      "Cherokee",
+      "Apache",
+      "Sioux"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the trickster figure often depicted in various Native American mythologies?",
+    "correctAnswer": "Coyote",
+    "incorrectAnswers": [
+      "Raven",
+      "Eagle",
+      "Bear"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In many Plains Native American cultures, what animal is often associated with the Sun?",
+    "correctAnswer": "Buffalo",
+    "incorrectAnswers": [
+      "Eagle",
+      "Bear",
+      "Wolf"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What powerful being is often depicted as creating the world in many Indigenous creation stories?",
+    "correctAnswer": "Great Spirit",
+    "incorrectAnswers": [
+      "Earth Mother",
+      "Sky Father",
+      "Trickster"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The Thunderbird is a significant creature in the mythology of which group of Indigenous peoples?",
+    "correctAnswer": "Many Northwest Coast tribes",
+    "incorrectAnswers": [
+      "Pueblo peoples",
+      "Plains tribes",
+      "Southeastern tribes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the giant underwater serpent found in many Indigenous mythologies of the Pacific Northwest?",
+    "correctAnswer": "Sisiutl",
+    "incorrectAnswers": [
+      "Wendigo",
+      "Chupacabra",
+      "Kraken"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some Indigenous traditions, what celestial body is often associated with death and the underworld?",
+    "correctAnswer": "The Moon",
+    "incorrectAnswers": [
+      "The Sun",
+      "Stars",
+      "Comets"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Many Native American stories feature stories of shapeshifting.  Which animal is commonly associated with shapeshifting in many traditions?",
+    "correctAnswer": "Wolves",
+    "incorrectAnswers": [
+      "Bears",
+      "Eagles",
+      "Deer"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the sacred pipe used in many Native American ceremonies?",
+    "correctAnswer": "Calumet",
+    "incorrectAnswers": [
+      "Wampum",
+      "Totem",
+      "Medicine Wheel"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Hopi mythology, what are the kachinas?",
+    "correctAnswer": "Spirits that manifest in human or animal form",
+    "incorrectAnswers": [
+      "Ancient ancestors",
+      "Trickster gods",
+      "Powerful warriors"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What significant event is often associated with the creation of the Milky Way in various Indigenous creation myths?",
+    "correctAnswer": "A spilled celestial substance",
+    "incorrectAnswers": [
+      "A battle between gods",
+      "A journey of a hero",
+      "A flood"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some Anishinaabe stories, what creature helps Nanabozho (or similar trickster figures) during his adventures?",
+    "correctAnswer": "Rabbit",
+    "incorrectAnswers": [
+      "Bear",
+      "Wolf",
+      "Otter"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the significance of the Medicine Wheel in many Indigenous cultures?",
+    "correctAnswer": "It represents the four directions and their associated elements.",
+    "incorrectAnswers": [
+      "A calendar system",
+      "A hunting tool",
+      "A shaman's ritual object"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Many Indigenous cultures have stories about a great flood.  What is often the cause of this flood in these stories?",
+    "correctAnswer": "The anger of a supernatural being",
+    "incorrectAnswers": [
+      "A meteor impact",
+      "Volcanic eruption",
+      "Climate change"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some Cherokee myths, what animal is associated with bringing fire to humanity?",
+    "correctAnswer": "Raccoon",
+    "incorrectAnswers": [
+      "Wolf",
+      "Bear",
+      "Eagle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What specific type of supernatural being is often described as inhabiting the forests in many Algonquin traditions, often causing mischief?",
+    "correctAnswer": "Woodsprites",
+    "incorrectAnswers": [
+      "Giants",
+      "Dragons",
+      "Werewolves"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The story of Sedna, a powerful sea goddess, is central to the mythology of which group?",
+    "correctAnswer": "Inuit",
+    "incorrectAnswers": [
+      "Haida",
+      "Apache",
+      "Zuni"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the creator deity in some versions of the Zuni creation myth?",
+    "correctAnswer": "Awonawilona",
+    "incorrectAnswers": [
+      "Kachina",
+      "Coyote",
+      "Chaco"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the mythology of the Winnebago people, what is the name of the great underwater panther?",
+    "correctAnswer": "Unktehi",
+    "incorrectAnswers": [
+      "Yokai",
+      "Hydra",
+      "Leviathan"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What specific type of mythical being, often associated with trickery and transformation, features prominently in the mythology of the Coast Salish peoples?",
+    "correctAnswer": "Shapeshifting spirits",
+    "incorrectAnswers": [
+      "Giant birds",
+      "Underwater serpents",
+      "Flying elk"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The Chumash people of California have a complex mythology involving a creator deity. What is a key element often associated with this deity's creative power?",
+    "correctAnswer": "The use of songs and chants",
+    "incorrectAnswers": [
+      "Magical tools",
+      "Sacrifice",
+      "Natural disasters"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some Plains Native American cultures, what is the significance of the four cardinal directions and their associated colors in cosmological beliefs?",
+    "correctAnswer": "They represent fundamental aspects of the universe and life cycles.",
+    "incorrectAnswers": [
+      "They guide navigation",
+      "They dictate social hierarchy",
+      "They are purely symbolic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the mythical being in some Alaskan Native traditions that is described as a shapeshifting entity, often taking the form of a beautiful woman to lure victims?",
+    "correctAnswer": "It varies greatly between tribes, often with local names.",
+    "incorrectAnswers": [
+      "Yuki-onna",
+      "Sedna",
+      "Siren"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

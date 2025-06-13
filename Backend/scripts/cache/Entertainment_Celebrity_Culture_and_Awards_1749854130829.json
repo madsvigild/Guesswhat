@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which award show is known for its iconic red carpet fashion?",
+    "correctAnswer": "Met Gala",
+    "incorrectAnswers": [
+      "Grammy Awards",
+      "Golden Globe Awards",
+      "Academy Awards"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who won the first ever Grammy Award for Album of the Year?",
+    "correctAnswer": "Henry Mancini",
+    "incorrectAnswers": [
+      "Frank Sinatra",
+      "Elvis Presley",
+      "The Beatles"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actress has won the most Academy Awards?",
+    "correctAnswer": "Katharine Hepburn",
+    "incorrectAnswers": [
+      "Meryl Streep",
+      "Ingrid Bergman",
+      "Vivien Leigh"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What controversial event overshadowed the 2017 Oscars?",
+    "correctAnswer": "The Best Actor and Best Actress mix-up",
+    "incorrectAnswers": [
+      "A major power outage",
+      "A celebrity protest",
+      "A significant security breach"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which award show features a coveted 'Triple Crown of Acting'?",
+    "correctAnswer": "Academy Awards, Tony Awards, Emmy Awards",
+    "incorrectAnswers": [
+      "Golden Globe Awards, Grammy Awards, Emmy Awards",
+      "BAFTA Awards, Emmy Awards, Tony Awards",
+      "Academy Awards, Grammy Awards, MTV Movie Awards"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which celebrity is known for their extensive philanthropy and humanitarian work?",
+    "correctAnswer": "Oprah Winfrey",
+    "incorrectAnswers": [
+      "Kim Kardashian",
+      "Cristiano Ronaldo",
+      "Beyoncé"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the prestigious literary award given annually in Sweden?",
+    "correctAnswer": "Nobel Prize in Literature",
+    "incorrectAnswers": [
+      "Pulitzer Prize",
+      "Man Booker Prize",
+      "Hugo Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which reality TV show launched the careers of several high-profile celebrities?",
+    "correctAnswer": "American Idol",
+    "incorrectAnswers": [
+      "The Real World",
+      "Survivor",
+      "Big Brother"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the highest-grossing film franchise of all time?",
+    "correctAnswer": "Marvel Cinematic Universe",
+    "incorrectAnswers": [
+      "Star Wars",
+      "Harry Potter",
+      "James Bond"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who famously refused to accept their Oscar award in 1974?",
+    "correctAnswer": "Marlon Brando",
+    "incorrectAnswers": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Jack Nicholson"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actress famously boycotted the Oscars in 2016 in protest against a lack of diversity?",
+    "correctAnswer": "Jada Pinkett Smith",
+    "incorrectAnswers": [
+      "Lupita Nyong'o",
+      "Viola Davis",
+      "Ava DuVernay"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director is known for their frequent collaborations with actors Leonardo DiCaprio and Tom Hanks?",
+    "correctAnswer": "Steven Spielberg",
+    "incorrectAnswers": [
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Martin Scorsese"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular music award show is known for its elaborate stage productions and controversial performances?",
+    "correctAnswer": "MTV Video Music Awards (VMAs)",
+    "incorrectAnswers": [
+      "American Music Awards (AMAs)",
+      "Billboard Music Awards (BBMAs)",
+      "Grammy Awards"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which streaming service significantly impacted the landscape of award shows and movie releases in the 2010s?",
+    "correctAnswer": "Netflix",
+    "incorrectAnswers": [
+      "Hulu",
+      "Amazon Prime Video",
+      "Disney+"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the annual award ceremony honoring achievements in video games?",
+    "correctAnswer": "The Game Awards",
+    "incorrectAnswers": [
+      "Golden Joystick Awards",
+      "D.I.C.E. Awards",
+      "BAFTA Games Awards"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which celebrity couple's wedding was famously broadcast live on television?",
+    "correctAnswer": "Prince Charles and Lady Diana Spencer",
+    "incorrectAnswers": [
+      "David Beckham and Victoria Adams",
+      "Tom Cruise and Katie Holmes",
+      "Brad Pitt and Angelina Jolie"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Beyond acting, what other significant accomplishment has Meryl Streep achieved in the entertainment industry?",
+    "correctAnswer": "Classical singing",
+    "incorrectAnswers": [
+      "Directing",
+      "Screenwriting",
+      "Producing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which influential music producer played a key role in shaping the sound of hip-hop in the 1980s?",
+    "correctAnswer": "Rick Rubin",
+    "incorrectAnswers": [
+      "Quincy Jones",
+      "Phil Spector",
+      "Dr. Dre"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the award given to the most outstanding motion picture at the Cannes Film Festival?",
+    "correctAnswer": "Palme d'Or",
+    "incorrectAnswers": [
+      "Golden Lion",
+      "Golden Bear",
+      "Golden Globe"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who was the first African American to win a competitive acting Oscar?",
+    "correctAnswer": "Hattie McDaniel",
+    "incorrectAnswers": [
+      "Sidney Poitier",
+      "Dorothy Dandridge",
+      "Halle Berry"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which controversial celebrity feud led to a significant drop in ratings for a major award show?",
+    "correctAnswer": "The Kanye West and Taylor Swift feud",
+    "incorrectAnswers": [
+      "The Mariah Carey and Jennifer Lopez feud",
+      "The Britney Spears and Christina Aguilera feud",
+      "The feud between the Olsen twins"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which lesser-known award is considered a major predictor of success at the Academy Awards?",
+    "correctAnswer": "Gotham Awards",
+    "incorrectAnswers": [
+      "Critics Choice Movie Awards",
+      "Independent Spirit Awards",
+      "Satellite Awards"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director has won the most Oscars for Best Director?",
+    "correctAnswer": "John Ford",
+    "incorrectAnswers": [
+      "Alfred Hitchcock",
+      "Frank Capra",
+      "Steven Spielberg"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What iconic moment in the history of the MTV Video Music Awards involved a live, on-stage snake?",
+    "correctAnswer": "Britney Spears' performance of 'Gimme More'",
+    "incorrectAnswers": [
+      "Madonna's kiss with Britney Spears and Christina Aguilera",
+      "Michael Jackson's moonwalk",
+      "Lady Gaga's meat dress"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

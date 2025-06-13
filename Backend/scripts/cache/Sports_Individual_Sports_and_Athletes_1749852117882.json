@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which country is widely considered the birthplace of golf?",
+    "correctAnswer": "Scotland",
+    "incorrectAnswers": [
+      "England",
+      "Ireland",
+      "Wales"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for the most Grand Slam singles titles in men's tennis?",
+    "correctAnswer": "Novak Djokovic",
+    "incorrectAnswers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Pete Sampras"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which sport would you find a 'hole-in-one'?",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Bowling",
+      "Tennis",
+      "Swimming"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who is the only woman to win Wimbledon singles seven times?",
+    "correctAnswer": "Steffi Graf",
+    "incorrectAnswers": [
+      "Martina Navratilova",
+      "Serena Williams",
+      "Billie Jean King"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which individual sport uses a 'butterfly', 'backstroke', 'breaststroke', and 'freestyle'?",
+    "correctAnswer": "Swimming",
+    "incorrectAnswers": [
+      "Gymnastics",
+      "Diving",
+      "Track and Field"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What individual sport involves hitting a shuttlecock over a net?",
+    "correctAnswer": "Badminton",
+    "incorrectAnswers": [
+      "Squash",
+      "Racquetball",
+      "Tennis"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which legendary boxer is known for his 'Rumble in the Jungle' fight?",
+    "correctAnswer": "Muhammad Ali",
+    "incorrectAnswers": [
+      "Mike Tyson",
+      "Joe Louis",
+      "Sugar Ray Robinson"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the individual time trial event in cycling?",
+    "correctAnswer": "Individual pursuit",
+    "incorrectAnswers": [
+      "Team pursuit",
+      "Criterium",
+      "Keirin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country is widely known for its strong tradition in Sumo wrestling?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": [
+      "China",
+      "Korea",
+      "Mongolia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest peak in the world that has been climbed by skiers?",
+    "correctAnswer": "Mount Everest",
+    "incorrectAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many legs does a skater use in speed skating?",
+    "correctAnswer": "Two",
+    "incorrectAnswers": [
+      "One",
+      "Four",
+      "None"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which American gymnast is known for her exceptional balance beam routines and multiple Olympic medals?",
+    "correctAnswer": "Simone Biles",
+    "incorrectAnswers": [
+      "Nadia Comăneci",
+      "Mary Lou Retton",
+      "Olga Korbut"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the scoring system used in professional darts where players throw three darts per turn?",
+    "correctAnswer": "501",
+    "incorrectAnswers": [
+      "301",
+      "1001",
+      "701"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which athlete won the 100m race in the 2008 Beijing Olympics?",
+    "correctAnswer": "Usain Bolt",
+    "incorrectAnswers": [
+      "Carl Lewis",
+      "Justin Gatlin",
+      "Maurice Greene"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who is the only person to win a gold medal in both the Summer and Winter Olympics?",
+    "correctAnswer": "Eddie Eagan",
+    "incorrectAnswers": [
+      "Bill Johnson",
+      "Michael Phelps",
+      "Shirley Babashoff"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which sport is a 'birdie' a positive score?",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Bowling",
+      "Snooker",
+      "Cricket"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which extreme sport involves jumping from high places with a parachute?",
+    "correctAnswer": "BASE Jumping",
+    "incorrectAnswers": [
+      "Skydiving",
+      "Bungee Jumping",
+      "Paragliding"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the traditional Japanese martial art that emphasizes unarmed combat and self-defense?",
+    "correctAnswer": "Judo",
+    "incorrectAnswers": [
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country is home to the most Formula 1 World Champions?",
+    "correctAnswer": "Great Britain",
+    "incorrectAnswers": [
+      "Germany",
+      "Brazil",
+      "Italy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first woman to win an individual Olympic gold medal in Alpine Skiing?",
+    "correctAnswer": "Andrea Mead Lawrence",
+    "incorrectAnswers": [
+      "Lindsey Vonn",
+      "Janica Kostelić",
+      "Vreni Schneider"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which legendary surfer is known for his innovative style and influence on the sport?",
+    "correctAnswer": "Kelly Slater",
+    "incorrectAnswers": [
+      "Laird Hamilton",
+      "Gerry Lopez",
+      "Mark Richards"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the highest scoring shot in snooker?",
+    "correctAnswer": "Maximum Break (147)",
+    "incorrectAnswers": [
+      "130 Break",
+      "120 Break",
+      "150 Break"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which climber was the first to summit K2 without supplemental oxygen?",
+    "correctAnswer": "Wanda Rutkiewicz",
+    "incorrectAnswers": [
+      "Reinhold Messner",
+      "Junko Tabei",
+      "Peter Habeler"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which year did Michael Phelps win a record-breaking eight gold medals at a single Olympics?",
+    "correctAnswer": "2008",
+    "incorrectAnswers": [
+      "2004",
+      "2012",
+      "2016"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which Celtic god is associated with healing, poetry, and medicine?",
+    "correctAnswer": "Dia/Dagda",
+    "incorrectAnswers": [
+      "Lugh",
+      "Cernunnos",
+      "Belenus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Norse creation cow whose milk created the world?",
+    "correctAnswer": "Audhumla",
+    "incorrectAnswers": [
+      "Sif",
+      "Hel",
+      "Skadi"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mischievous god in Norse mythology is associated with trickery and poetry?",
+    "correctAnswer": "Loki",
+    "incorrectAnswers": [
+      "Thor",
+      "Odin",
+      "Tyr"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Celtic mythology, what magical cauldron is often associated with abundance and rebirth?",
+    "correctAnswer": "The Cauldron of Cerridwen",
+    "incorrectAnswers": [
+      "The Dagda's Cauldron",
+      "The Cauldron of Annwn",
+      "The Black Cauldron"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Celtic hero is renowned for his strength and slaying of a monstrous boar?",
+    "correctAnswer": "Culhwch",
+    "incorrectAnswers": [
+      "Cú Chulainn",
+      "Arthur",
+      "Finn MacCool"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What type of creature is the Irish mythological Dullahan?",
+    "correctAnswer": "Headless horseman",
+    "incorrectAnswers": [
+      "Giant",
+      "Dragon",
+      "Banshee"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the great hall in Norse mythology where the gods feast?",
+    "correctAnswer": "Valhalla",
+    "incorrectAnswers": [
+      "Asgard",
+      "Jotunheim",
+      "Midgard"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What weapon is Thor, the Norse god of thunder, most famous for wielding?",
+    "correctAnswer": "Mjolnir",
+    "incorrectAnswers": [
+      "Gungnir",
+      "Draupnir",
+      "Hofund"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Celtic goddess is often associated with sovereignty, nature, and war?",
+    "correctAnswer": "Brigid",
+    "incorrectAnswers": [
+      "Morrigan",
+      "Danu",
+      "Aine"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the monstrous wolf in Norse mythology destined to kill Odin during Ragnarok?",
+    "correctAnswer": "Fenrir",
+    "incorrectAnswers": [
+      "Jormangandr",
+      "Garm",
+      "Skoll"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Celtic mythology, what is the otherworld often referred to as, a realm of faeries and magic?",
+    "correctAnswer": "Annwn",
+    "incorrectAnswers": [
+      "Tir na nOg",
+      "Avalon",
+      "Elfhame"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Germanic god is associated with cunning and trickery, often depicted as a shapeshifter?",
+    "correctAnswer": "Freyr",
+    "incorrectAnswers": [
+      "Tyr",
+      "Heimdall",
+      "Baldr"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Celtic wheel of the year, a seasonal calendar reflecting the cyclical nature of life?",
+    "correctAnswer": "The Celtic Wheel of the Year",
+    "incorrectAnswers": [
+      "The Ogham",
+      "The Calendar of Imbolc",
+      "The Druidic Cycle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mythical Celtic creature is described as a shapeshifting being, often appearing as a beautiful woman to lure men to their doom?",
+    "correctAnswer": "The Banshee",
+    "incorrectAnswers": [
+      "The Kelpie",
+      "The Leprechaun",
+      "The Púca"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Norse goddess associated with love, beauty, and fertility?",
+    "correctAnswer": "Freyja",
+    "incorrectAnswers": [
+      "Frigg",
+      "Hela",
+      "Sif"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Celtic deity is associated with the underworld and death, often depicted as a crow or raven?",
+    "correctAnswer": "The Morrigan",
+    "incorrectAnswers": [
+      "Badb",
+      "Macha",
+      "Nemain"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the giant serpent in Norse mythology that encircles Midgard?",
+    "correctAnswer": "Jörmungandr",
+    "incorrectAnswers": [
+      "Fenrir",
+      "Nidhogg",
+      "Surt"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the legendary sword of King Arthur in Arthurian legend (considered part of Celtic mythology)?",
+    "correctAnswer": "Excalibur",
+    "incorrectAnswers": [
+      "Caliburn",
+      "Clarent",
+      "Durandal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Irish mythological cycle that tells of the deeds of Finn MacCool and his Fianna warriors?",
+    "correctAnswer": "The Fenian Cycle",
+    "incorrectAnswers": [
+      "The Ulster Cycle",
+      "The Mythological Cycle",
+      "The Lebor Gabála Érenn"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the Prose Edda, who is the father of Odin?",
+    "correctAnswer": "Borr",
+    "incorrectAnswers": [
+      "Bestla",
+      "Buri",
+      "Vili"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What specific type of creature is the Irish Abhartach, known for its regenerative abilities and challenging burial rites?",
+    "correctAnswer": "A type of vampire or revenant",
+    "incorrectAnswers": [
+      "A type of fairy",
+      "A shape shifting wolf",
+      "A water spirit"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which lesser-known Celtic goddess is associated with healing springs and wells, often depicted carrying a staff?",
+    "correctAnswer": "Sirona",
+    "incorrectAnswers": [
+      "Epona",
+      "Medb",
+      "Andraste"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Norse valkyrie who is described as Odin's messenger and the leader of the Valkyries?",
+    "correctAnswer": "Hlökk",
+    "incorrectAnswers": [
+      "Brunhilde",
+      "Valkyrie",
+      "Sigrun"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the legendary Celtic sword that is said to have belonged to the Irish hero, Nuada?",
+    "correctAnswer": "Crann Tarb",
+    "incorrectAnswers": [
+      "Claiomh Solais",
+      "Fragarach",
+      "Caladbolg"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

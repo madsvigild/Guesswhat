@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which ancient Greek philosopher is credited with the concept of the 'mind-body problem'?",
+    "correctAnswer": "Plato",
+    "incorrectAnswers": [
+      "Aristotle",
+      "Socrates",
+      "Epicurus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of Descartes' famous philosophical statement asserting his own existence?",
+    "correctAnswer": "Cogito, ergo sum (I think, therefore I am)",
+    "incorrectAnswers": [
+      "Tabula rasa",
+      "A priori knowledge",
+      "The categorical imperative"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The philosophical view that mental states are identical to brain states is known as:",
+    "correctAnswer": "Identity Theory",
+    "incorrectAnswers": [
+      "Dualism",
+      "Functionalism",
+      "Behaviorism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the philosophical position that only minds and their contents exist?",
+    "correctAnswer": "Idealism",
+    "incorrectAnswers": [
+      "Materialism",
+      "Dualism",
+      "Existentialism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosophical perspective emphasizes the role of experience in shaping our understanding of the world?",
+    "correctAnswer": "Empiricism",
+    "incorrectAnswers": [
+      "Rationalism",
+      "Skepticism",
+      "Nihilism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Buddhism, what is the term for the illusion of a separate self or ego?",
+    "correctAnswer": "Anatta",
+    "incorrectAnswers": [
+      "Nirvana",
+      "Samsara",
+      "Karma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the philosophical problem that questions how physical processes in the brain give rise to subjective experience?",
+    "correctAnswer": "The Hard Problem of Consciousness",
+    "incorrectAnswers": [
+      "The Mind-Body Problem",
+      "The Problem of Other Minds",
+      "The Ship of Theseus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which theory of consciousness suggests that mental states are defined by their functional roles rather than their physical properties?",
+    "correctAnswer": "Functionalism",
+    "incorrectAnswers": [
+      "Eliminative Materialism",
+      "Property Dualism",
+      "Idealism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is qualia, in the context of the philosophy of mind?",
+    "correctAnswer": "Subjective, qualitative properties of experience",
+    "incorrectAnswers": [
+      "Objective, measurable properties of experience",
+      "Brain states",
+      "Behavioral outputs"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the philosophical position that denies the existence of free will?",
+    "correctAnswer": "Determinism",
+    "incorrectAnswers": [
+      "Libertarianism",
+      "Compatibilism",
+      "Existentialism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the main argument of Gilbert Ryle's book *The Concept of Mind*?",
+    "correctAnswer": "That the mind-body problem is a category mistake",
+    "incorrectAnswers": [
+      "That consciousness is an illusion",
+      "That the mind is a computer",
+      "That free will is an illusion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is 'extended mind' hypothesis?",
+    "correctAnswer": "The idea that cognitive processes extend beyond the brain to include aspects of the environment",
+    "incorrectAnswers": [
+      "The mind is purely internal",
+      "The mind is identical to the brain",
+      "The mind is separate from the body"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "David Chalmers' 'easy problems' of consciousness are distinguished from which more challenging problem?",
+    "correctAnswer": "The hard problem of consciousness",
+    "incorrectAnswers": [
+      "The problem of other minds",
+      "The mind-body problem",
+      "The problem of qualia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is a common criticism of materialism in the philosophy of mind?",
+    "correctAnswer": "It struggles to explain subjective experience (qualia)",
+    "incorrectAnswers": [
+      "It's too idealistic",
+      "It's too dualistic",
+      "It doesn't explain behavior"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What concept, central to phenomenology, emphasizes the importance of lived experience and consciousness?",
+    "correctAnswer": "Intentionality",
+    "incorrectAnswers": [
+      "Qualia",
+      "Subjectivity",
+      "Reductionism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which contemporary philosopher is known for their work on consciousness and the integrated information theory (IIT)?",
+    "correctAnswer": "Giulio Tononi",
+    "incorrectAnswers": [
+      "Daniel Dennett",
+      "John Searle",
+      "David Chalmers"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the philosophical position that argues against the possibility of knowing whether other people have conscious experiences?",
+    "correctAnswer": "The Problem of Other Minds",
+    "incorrectAnswers": [
+      "Solipsism",
+      "Skepticism",
+      "Idealism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the difference between 'Type' and 'Token' physicalism.",
+    "correctAnswer": "Type physicalism claims that mental types are identical to physical types, while token physicalism claims that mental tokens are identical to physical tokens.",
+    "incorrectAnswers": [
+      "They are essentially the same",
+      "Type physicalism is outdated",
+      "Token physicalism is more problematic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the Chinese Room Argument, and what philosophical position does it challenge?",
+    "correctAnswer": "It argues against strong AI and the idea that a suitably programmed computer can genuinely understand language.",
+    "incorrectAnswers": [
+      "It supports strong AI",
+      "It's a functionalist argument",
+      "It's irrelevant to the mind-body problem"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the 'Mary's Room' thought experiment in the philosophy of mind?",
+    "correctAnswer": "It argues against physicalism by suggesting that physical knowledge is not sufficient for complete knowledge of consciousness.",
+    "incorrectAnswers": [
+      "It supports physicalism",
+      "It's irrelevant to qualia",
+      "It's a thought experiment about artificial intelligence"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is eliminative materialism, and what does it propose regarding folk psychology?",
+    "correctAnswer": "It's the radical view that our common-sense understanding of mental states (folk psychology) is fundamentally flawed and should be eliminated in favor of a neuroscientific description.",
+    "incorrectAnswers": [
+      "It supports folk psychology",
+      "It's a form of dualism",
+      "It proposes a merging of folk psychology and neuroscience"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In what way does the concept of 'supervenience' relate to the mind-body problem?",
+    "correctAnswer": "It suggests that mental properties depend on, or are determined by, physical properties, without being reducible to them.",
+    "incorrectAnswers": [
+      "It denies the existence of mental properties",
+      "It asserts that mental properties are entirely independent of physical properties",
+      "It has no relation to the mind-body problem"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is a zombie in the philosophical sense, and what role does it play in debates about consciousness?",
+    "correctAnswer": "A hypothetical being physically identical to a conscious person but lacking subjective experience; used to argue against physicalism.",
+    "incorrectAnswers": [
+      "A person with severe cognitive impairment",
+      "A fictional character",
+      "A type of AI"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the Navaya Nyaya school of Indian philosophy's approach to the mind-body problem?",
+    "correctAnswer": "It posits an interactionist dualism, where the mind and body interact causally.",
+    "incorrectAnswers": [
+      "It's purely monistic",
+      "It denies the existence of a mind",
+      "It advocates for a purely idealistic approach"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

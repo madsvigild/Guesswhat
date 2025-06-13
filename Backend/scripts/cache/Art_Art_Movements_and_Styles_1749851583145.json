@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which art movement, known for its bold colors and distorted forms, was pioneered by Pablo Picasso and Georges Braque?",
+    "correctAnswer": "Cubism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Surrealism",
+      "Pop Art"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Mona Lisa is a prime example of which Renaissance art movement?",
+    "correctAnswer": "High Renaissance",
+    "incorrectAnswers": [
+      "Mannerism",
+      "Baroque",
+      "Early Renaissance"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which art movement emphasized the depiction of everyday life and ordinary people?",
+    "correctAnswer": "Realism",
+    "incorrectAnswers": [
+      "Romanticism",
+      "Impressionism",
+      "Art Nouveau"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What artistic style is characterized by its intense emotion, dramatic use of light and shadow, and focus on religious themes?",
+    "correctAnswer": "Baroque",
+    "incorrectAnswers": [
+      "Rococo",
+      "Neoclassicism",
+      "Renaissance"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement prioritized emotional expression over strict adherence to realistic representation?",
+    "correctAnswer": "Romanticism",
+    "incorrectAnswers": [
+      "Neoclassicism",
+      "Realism",
+      "Impressionism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Known for its focus on light and fleeting moments, which movement revolutionized landscape painting?",
+    "correctAnswer": "Impressionism",
+    "incorrectAnswers": [
+      "Post-Impressionism",
+      "Realism",
+      "Fauvism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement rejected traditional artistic forms and embraced chance and spontaneity?",
+    "correctAnswer": "Abstract Expressionism",
+    "incorrectAnswers": [
+      "Pop Art",
+      "Minimalism",
+      "Surrealism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Art Nouveau is characterized by its use of which of the following design elements?",
+    "correctAnswer": "Floral and flowing lines",
+    "incorrectAnswers": [
+      "Geometric shapes",
+      "Harsh lines and angles",
+      "Muted colors"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement championed the use of mass-produced imagery and consumer culture in art?",
+    "correctAnswer": "Pop Art",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Op Art",
+      "Conceptual Art"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic style, prevalent in the late 18th and early 19th centuries, emphasized order, balance, and classical ideals?",
+    "correctAnswer": "Neoclassicism",
+    "incorrectAnswers": [
+      "Romanticism",
+      "Rococo",
+      "Baroque"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The artist known for his swirling, emotionally charged paintings like 'The Starry Night' was associated with which Post-Impressionist style?",
+    "correctAnswer": "Post-Impressionism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Fauvism",
+      "Cubism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement explored the subconscious mind through dreamlike imagery and symbolic representation?",
+    "correctAnswer": "Surrealism",
+    "incorrectAnswers": [
+      "Dadaism",
+      "Futurism",
+      "Cubism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Characterized by its rejection of traditional aesthetics and embrace of found objects, which movement often used collage techniques?",
+    "correctAnswer": "Dadaism",
+    "incorrectAnswers": [
+      "Surrealism",
+      "Cubism",
+      "Futurism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement celebrated speed, technology, and the dynamism of modern life in its artistic depictions?",
+    "correctAnswer": "Futurism",
+    "incorrectAnswers": [
+      "Constructivism",
+      "De Stijl",
+      "Dadaism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What artistic movement is associated with the Bauhaus school, characterized by its emphasis on functionality and geometric forms?",
+    "correctAnswer": "Bauhaus",
+    "incorrectAnswers": [
+      "De Stijl",
+      "Art Deco",
+      "Art Nouveau"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement, prominent in the early 20th century, sought to create art that was purely abstract and non-representational?",
+    "correctAnswer": "Abstract Art",
+    "incorrectAnswers": [
+      "Surrealism",
+      "Expressionism",
+      "Cubism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What art movement is characterized by its vibrant, non-naturalistic colors and expressive brushwork?",
+    "correctAnswer": "Fauvism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Post-Impressionism",
+      "Cubism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement explored the psychological and emotional aspects of human experience through distorted forms and intense colors?",
+    "correctAnswer": "Expressionism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Realism",
+      "Surrealism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which minimalist movement emphasized simple geometric forms and primary colors, often using industrial materials?",
+    "correctAnswer": "Minimalism",
+    "incorrectAnswers": [
+      "Pop Art",
+      "Conceptual Art",
+      "Abstract Expressionism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What art movement, characterized by its rejection of traditional artistic values and focus on conceptual ideas, often resulted in works that are non-traditional or even ephemeral?",
+    "correctAnswer": "Conceptual Art",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Pop Art",
+      "Land Art"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What early 20th-century movement, strongly associated with the Netherlands, emphasized primary colors and geometric abstraction, aiming for universal harmony?",
+    "correctAnswer": "De Stijl",
+    "incorrectAnswers": [
+      "Bauhaus",
+      "Suprematism",
+      "Constructivism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Identify the art movement that prioritized the artist's subjective experience and emotional response over objective representation, often utilizing bold colors and gestural brushstrokes.",
+    "correctAnswer": "Abstract Expressionism",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Pop Art",
+      "Op Art"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which relatively short-lived, early 20th-century art movement, originating in Russia, championed non-objective art, using simple geometric forms to evoke feelings and ideas?",
+    "correctAnswer": "Suprematism",
+    "incorrectAnswers": [
+      "Constructivism",
+      "De Stijl",
+      "Cubism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Known for its sleek, streamlined forms and opulent materials, which decorative art style flourished during the 1920s and 1930s?",
+    "correctAnswer": "Art Deco",
+    "incorrectAnswers": [
+      "Art Nouveau",
+      "Bauhaus",
+      "Art Moderne"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which late 20th-century movement involved creating large-scale artworks in natural settings, often using earthworks and land formations?",
+    "correctAnswer": "Land Art",
+    "incorrectAnswers": [
+      "Environmental Art",
+      "Earth Art",
+      "Installation Art"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

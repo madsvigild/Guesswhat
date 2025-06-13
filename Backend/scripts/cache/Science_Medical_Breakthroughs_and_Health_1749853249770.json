@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which vaccine, introduced in the late 1970s, effectively eradicated smallpox globally?",
+    "correctAnswer": "Smallpox vaccine",
+    "incorrectAnswers": [
+      "Polio vaccine",
+      "Measles vaccine",
+      "Rubella vaccine"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What groundbreaking medical imaging technique uses magnetic fields and radio waves to create detailed images of the body's internal structures?",
+    "correctAnswer": "Magnetic Resonance Imaging (MRI)",
+    "incorrectAnswers": [
+      "X-ray",
+      "Ultrasound",
+      "CT scan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Penicillin, the first widely used antibiotic, was discovered by which scientist?",
+    "correctAnswer": "Alexander Fleming",
+    "incorrectAnswers": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "The development of which technology revolutionized organ transplantation by reducing the risk of rejection?",
+    "correctAnswer": "Immunosuppressant drugs",
+    "incorrectAnswers": [
+      "Antibiotics",
+      "Anesthetics",
+      "Genetic engineering"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What life-saving procedure involves bypassing blocked arteries in the heart using a balloon catheter?",
+    "correctAnswer": "Angioplasty",
+    "incorrectAnswers": [
+      "Bypass surgery",
+      "Heart transplant",
+      "Pacemaker implantation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What revolutionary technique uses CRISPR-Cas9 to precisely edit genes, offering potential cures for genetic diseases?",
+    "correctAnswer": "CRISPR-Cas9 gene editing",
+    "incorrectAnswers": [
+      "Gene therapy",
+      "Stem cell therapy",
+      "Cloning"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What surgical procedure uses a thin, flexible tube inserted through a small incision to perform minimally invasive surgeries?",
+    "correctAnswer": "Laparoscopic surgery",
+    "incorrectAnswers": [
+      "Open surgery",
+      "Robotic surgery",
+      "Endoscopic surgery"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "The discovery of which virus led to the development of vaccines preventing cervical cancer?",
+    "correctAnswer": "Human Papillomavirus (HPV)",
+    "incorrectAnswers": [
+      "HIV",
+      "Herpes",
+      "Hepatitis B"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which medical device measures blood pressure?",
+    "correctAnswer": "Sphygmomanometer",
+    "incorrectAnswers": [
+      "Stethoscope",
+      "Thermometer",
+      "Electrocardiograph"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of surgery involves replacing a diseased joint with an artificial one?",
+    "correctAnswer": "Joint replacement surgery",
+    "incorrectAnswers": [
+      "Arthroscopy",
+      "Osteotomy",
+      "Arthroplasty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the process where a patient's own blood is collected, processed, and then reinfused during or after surgery?",
+    "correctAnswer": "Autologous blood transfusion",
+    "incorrectAnswers": [
+      "Blood donation",
+      "Plasmapheresis",
+      "Hemodilution"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Developed in the late 20th century, which class of drugs revolutionized the treatment of HIV/AIDS by significantly slowing the progression of the disease?",
+    "correctAnswer": "Protease inhibitors",
+    "incorrectAnswers": [
+      "Antiretroviral drugs",
+      "Nucleoside reverse transcriptase inhibitors",
+      "Fusion inhibitors"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What innovative surgical technique uses robots to assist surgeons with enhanced precision and minimally invasive procedures?",
+    "correctAnswer": "Robotic surgery",
+    "incorrectAnswers": [
+      "Laparoscopic surgery",
+      "Minimally invasive surgery",
+      "Open surgery"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "The development of which imaging technique allowed doctors to visualize blood flow in real-time, revolutionizing the diagnosis of cardiovascular disease?",
+    "correctAnswer": "Doppler ultrasound",
+    "incorrectAnswers": [
+      "Echocardiogram",
+      "Angiography",
+      "Cardiac MRI"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What groundbreaking technology uses genetically modified viruses to deliver therapeutic genes into cells, offering hope for treating genetic disorders?",
+    "correctAnswer": "Gene therapy",
+    "incorrectAnswers": [
+      "Stem cell therapy",
+      "CRISPR-Cas9",
+      "Pharmacogenomics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the technique that uses high-frequency sound waves to create images of internal organs and tissues?",
+    "correctAnswer": "Ultrasound",
+    "incorrectAnswers": [
+      "X-ray",
+      "CT scan",
+      "MRI"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What surgical procedure aims to correct the abnormal curvature of the spine, often seen in scoliosis?",
+    "correctAnswer": "Spinal fusion",
+    "incorrectAnswers": [
+      "Laminectomy",
+      "Discectomy",
+      "Vertebroplasty"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the term for the process of using radiation therapy to precisely target and destroy cancerous cells while minimizing damage to surrounding healthy tissues?",
+    "correctAnswer": "Radiation therapy",
+    "incorrectAnswers": [
+      "Chemotherapy",
+      "Immunotherapy",
+      "Targeted therapy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What relatively new field of medicine focuses on understanding how an individual's genetic makeup influences their response to medications?",
+    "correctAnswer": "Pharmacogenomics",
+    "incorrectAnswers": [
+      "Genomics",
+      "Proteomics",
+      "Bioinformatics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the technique that uses a combination of drugs to target different pathways involved in cancer development?",
+    "correctAnswer": "Combination chemotherapy",
+    "incorrectAnswers": [
+      "Targeted therapy",
+      "Immunotherapy",
+      "Hormone therapy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What innovative technique uses induced pluripotent stem cells (iPSCs) to create tissues and organs for transplantation, potentially eliminating the need for donor organs?",
+    "correctAnswer": "iPSC-based regenerative medicine",
+    "incorrectAnswers": [
+      "3D bioprinting",
+      "Stem cell therapy",
+      "Tissue engineering"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Developed in the 1980s, what technique uses a combination of monoclonal antibodies to target specific antigens on cancer cells, enhancing the immune system's ability to fight cancer?",
+    "correctAnswer": "Monoclonal antibody therapy",
+    "incorrectAnswers": [
+      "Immunotherapy",
+      "Chemotherapy",
+      "Radiation therapy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What relatively recent advancement in cancer treatment uses genetically modified immune cells (like CAR T-cells) to target and destroy cancer cells more effectively?",
+    "correctAnswer": "CAR T-cell therapy",
+    "incorrectAnswers": [
+      "Immunotherapy",
+      "Chemotherapy",
+      "Targeted therapy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What cutting-edge medical imaging technique uses positron-emitting isotopes to visualize metabolic activity in the body, particularly useful for detecting and staging cancer?",
+    "correctAnswer": "Positron Emission Tomography (PET) scan",
+    "incorrectAnswers": [
+      "Computed tomography (CT) scan",
+      "Magnetic resonance imaging (MRI)",
+      "Single-photon emission computed tomography (SPECT)"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What advanced surgical technique uses focused ultrasound waves to precisely target and destroy tumors non-invasively, minimizing damage to surrounding tissues?",
+    "correctAnswer": "Focused ultrasound surgery",
+    "incorrectAnswers": [
+      "Radiofrequency ablation",
+      "Cryoablation",
+      "Laser ablation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

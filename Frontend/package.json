@@ -1,0 +1,46 @@
+{
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.20.0",
+    "@expo/metro-runtime": "~5.0.4",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.17",
+    "axios": "^1.9.0",
+    "babel-preset-expo": "13.1.11",
+    "expo": "^53.0.0",
+    "expo-linear-gradient": "~14.1.4",
+    "expo-status-bar": "~2.2.3",
+    "he": "*",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-circular-progress": "^1.4.1",
+    "react-native-confetti-cannon": "^1.5.2",
+    "react-native-element-dropdown": "^2.12.4",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-linear-gradient": "*",
+    "react-native-modal-dropdown": "*",
+    "react-native-paper": "5.10.3",
+    "react-native-picker-select": "^9.3.1",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.10.0",
+    "react-native-web": "^0.20.0",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.27.1",
+    "@babel/plugin-transform-runtime": "7.27.1",
+    "@react-native-community/cli": "^18.0.0"
+  },
+  "private": true
+}

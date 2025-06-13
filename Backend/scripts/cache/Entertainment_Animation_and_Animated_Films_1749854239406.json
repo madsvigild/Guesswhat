@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic Disney character famously says, \"To infinity and beyond!\"?",
+    "correctAnswer": "Buzz Lightyear",
+    "incorrectAnswers": [
+      "Woody",
+      "Mr. Potato Head",
+      "Slinky Dog"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What animation studio produced the film 'Spirited Away'?",
+    "correctAnswer": "Studio Ghibli",
+    "incorrectAnswers": [
+      "Pixar",
+      "DreamWorks Animation",
+      "Walt Disney Animation Studios"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which classic cartoon cat is known for his mischievous antics and often-repeated phrase, \"Sufferin' Succotash!\"",
+    "correctAnswer": "Felix the Cat",
+    "incorrectAnswers": [
+      "Tom Cat",
+      "Garfield",
+      "Sylvester"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the yellow family in the long-running animated sitcom \"The Simpsons\"?",
+    "correctAnswer": "The Simpsons",
+    "incorrectAnswers": [
+      "The Griffins",
+      "The Belchers",
+      "The Loud House"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which studio created the popular animated movie franchise 'Shrek'?",
+    "correctAnswer": "DreamWorks Animation",
+    "incorrectAnswers": [
+      "Pixar",
+      "Illumination",
+      "Blue Sky Studios"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who directed the critically acclaimed animated film 'Spider-Man: Into the Spider-Verse'?",
+    "correctAnswer": "Phil Lord and Chris Miller",
+    "incorrectAnswers": [
+      "Pete Docter",
+      "Brad Bird",
+      "Genndy Tartakovsky"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What technique was primarily used in the animation of the Disney film 'Snow White and the Seven Dwarfs'?",
+    "correctAnswer": "Cel animation",
+    "incorrectAnswers": [
+      "Stop motion",
+      "Computer animation",
+      "Rotoscoping"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which iconic cartoon character is known for his catchphrase, \"That's all, folks!\"",
+    "correctAnswer": "Bugs Bunny",
+    "incorrectAnswers": [
+      "Mickey Mouse",
+      "Daffy Duck",
+      "Porky Pig"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the lovable, clumsy bear in the Disney film 'Winnie the Pooh'?",
+    "correctAnswer": "Winnie the Pooh",
+    "incorrectAnswers": [
+      "Tigger",
+      "Eeyore",
+      "Piglet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which animation studio is known for its distinctive stop-motion animation style?",
+    "correctAnswer": "Aardman Animations",
+    "incorrectAnswers": [
+      "Pixar",
+      "Disney",
+      "DreamWorks"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In 'Toy Story,' what is the name of the toy cowboy doll who is Woody's best friend?",
+    "correctAnswer": "Buzz Lightyear",
+    "incorrectAnswers": [
+      "Mr. Potato Head",
+      "Slinky Dog",
+      "Rex"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What type of animation is primarily used in the 'Wallace & Gromit' films?",
+    "correctAnswer": "Claymation",
+    "incorrectAnswers": [
+      "Cel animation",
+      "Computer animation",
+      "Stop motion (not claymation)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which Japanese animation director is known for his visually striking and emotionally resonant films, including 'Princess Mononoke' and 'Spirited Away'?",
+    "correctAnswer": "Hayao Miyazaki",
+    "incorrectAnswers": [
+      "Isao Takahata",
+      "Mamoru Hosoda",
+      "Hideaki Anno"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which animated film features the song 'Let It Go,' which became a massive global hit?",
+    "correctAnswer": "Frozen",
+    "incorrectAnswers": [
+      "Moana",
+      "Tangled",
+      "Encanto"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What animation technique involves tracing live-action footage to create animated scenes?",
+    "correctAnswer": "Rotoscoping",
+    "incorrectAnswers": [
+      "Cel animation",
+      "Stop motion",
+      "Motion capture"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the fictional island nation where many of the events in the 'SpongeBob SquarePants' cartoon take place?",
+    "correctAnswer": "Bikini Bottom",
+    "incorrectAnswers": [
+      "Coral Gables",
+      "Kelp Forest",
+      "Jellyfish Fields"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which animated film famously uses a blend of 2D and 3D animation techniques?",
+    "correctAnswer": "Spider-Man: Into the Spider-Verse",
+    "incorrectAnswers": [
+      "The Incredibles",
+      "How to Train Your Dragon",
+      "Toy Story 4"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which animation studio is behind the popular 'Despicable Me' franchise?",
+    "correctAnswer": "Illumination",
+    "incorrectAnswers": [
+      "Pixar",
+      "DreamWorks Animation",
+      "Blue Sky Studios"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the rabbit who is known for his sarcastic attitude and rivalry with Bugs Bunny?",
+    "correctAnswer": "Elmer Fudd",
+    "incorrectAnswers": [
+      "Yosemite Sam",
+      "Daffy Duck",
+      "Tweety Bird"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What innovative animation technique did Disney pioneer in its classic film 'Pinocchio'?",
+    "correctAnswer": "Multiplane camera",
+    "incorrectAnswers": [
+      "Cel shading",
+      "Rotoscoping",
+      "Motion capture"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which influential animator is credited with developing the 'rubber hose' animation style?",
+    "correctAnswer": "Ub Iwerks",
+    "incorrectAnswers": [
+      "Walt Disney",
+      "Max Fleischer",
+      "Tex Avery"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What early animation technique used cut-out figures to create movement, popularized in the works of Lotte Reiniger?",
+    "correctAnswer": "Silhouette animation",
+    "incorrectAnswers": [
+      "Stop motion",
+      "Cel animation",
+      "Paper animation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which lesser-known animation studio produced the critically acclaimed film 'Fantastic Mr. Fox'?",
+    "correctAnswer": "Laika",
+    "incorrectAnswers": [
+      "Aardman Animations",
+      "Studio Ghibli",
+      "Pixar"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Name the pioneering animator whose innovative techniques in 'Steamboat Willie' significantly advanced the field of animation.",
+    "correctAnswer": "Walt Disney",
+    "incorrectAnswers": [
+      "Ub Iwerks",
+      "Winsor McCay",
+      "Max Fleischer"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What animation technique, often used in independent and experimental animation, involves manipulating existing images, such as photographs or film stills?",
+    "correctAnswer": "Photographic animation",
+    "incorrectAnswers": [
+      "Rotoscoping",
+      "Cel animation",
+      "Stop motion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

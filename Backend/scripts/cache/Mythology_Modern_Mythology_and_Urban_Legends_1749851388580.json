@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which cryptid, often depicted as a large, bipedal ape-like creature, is frequently associated with the Pacific Northwest of North America?",
+    "correctAnswer": "Bigfoot (Sasquatch)",
+    "incorrectAnswers": [
+      "Loch Ness Monster",
+      "Chupacabra",
+      "Mothman"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What urban legend warns against accepting candy or gifts from strangers, particularly around Halloween?",
+    "correctAnswer": "Stranger Danger",
+    "incorrectAnswers": [
+      "Bloody Mary",
+      "The Hookman",
+      "Slender Man"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The Slender Man, a fictional creature popularized online, is characterized by what distinct physical feature?",
+    "correctAnswer": "Unusually long, thin limbs and a featureless face",
+    "incorrectAnswers": [
+      "Large, bat-like wings",
+      "Bright red eyes",
+      "Scales and a reptilian tail"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which cryptid is said to drain the blood of livestock, originating in Puerto Rico?",
+    "correctAnswer": "Chupacabra",
+    "incorrectAnswers": [
+      "Jersey Devil",
+      "Bigfoot",
+      "Jackalope"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What modern myth claims that certain individuals possess the ability to manipulate events through sheer willpower or intention?",
+    "correctAnswer": "The Mandela Effect",
+    "incorrectAnswers": [
+      "The Placebo Effect",
+      "Confirmation Bias",
+      "Cognitive Dissonance"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What urban legend involves a mysterious figure who appears in rearview mirrors?",
+    "correctAnswer": "The Backseat Driver",
+    "incorrectAnswers": [
+      "The Vanishing Hitchhiker",
+      "The Hookman",
+      "Bloody Mary"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mythical creature, often depicted as a winged horse, is frequently associated with Pegasus in Greek mythology?",
+    "correctAnswer": "Hippogriff",
+    "incorrectAnswers": [
+      "Griffin",
+      "Centaur",
+      "Sphinx"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The legend of the Jersey Devil involves what type of creature?",
+    "correctAnswer": "A demonic or monstrous creature, often described as having features of various animals",
+    "incorrectAnswers": [
+      "A shapeshifting witch",
+      "A vampire",
+      "A giant snake"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the internet phenomenon involving mass delusion and shared false memories?",
+    "correctAnswer": "Mandela Effect",
+    "incorrectAnswers": [
+      "Collective Amnesia",
+      "False Memory Syndrome",
+      "Mass Hysteria"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Japanese folklore, what are the yokai known as 'Kappa' typically depicted as?",
+    "correctAnswer": "Turtle-like creatures that inhabit bodies of water",
+    "incorrectAnswers": [
+      "Shapeshifting foxes",
+      "Giant spiders",
+      "Tree spirits"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What modern myth surrounding the Loch Ness Monster suggests it could be a type of plesiosaur?",
+    "correctAnswer": "Extinct marine reptile survival",
+    "incorrectAnswers": [
+      "Giant eel",
+      "Optical illusion",
+      "Large otter"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which urban legend involves a killer who uses a hook to attack victims from the backseat of their car?",
+    "correctAnswer": "The Hookman",
+    "incorrectAnswers": [
+      "The Vanishing Hitchhiker",
+      "The Backseat Driver",
+      "Bloody Mary"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What creature from Slavic folklore is described as a shapeshifting being that typically takes the form of a beautiful woman?",
+    "correctAnswer": "Rusalka",
+    "incorrectAnswers": [
+      "Baba Yaga",
+      "Kikimora",
+      "Domovoi"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the cryptid associated with the Flatwoods Monster sighting in West Virginia, often described as having a large, owl-like head?",
+    "correctAnswer": "Flatwoods Monster",
+    "incorrectAnswers": [
+      "Mothman",
+      "Jersey Devil",
+      "Bigfoot"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "The Mothman, a creature from West Virginia folklore, is often associated with what type of premonition?",
+    "correctAnswer": "Catastrophic events",
+    "incorrectAnswers": [
+      "Good fortune",
+      "Love and romance",
+      "Financial prosperity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What relatively obscure cryptid, originating from the Appalachian Mountains, is often described as a dog-like creature with glowing red eyes?",
+    "correctAnswer": "Wampus Cat",
+    "incorrectAnswers": [
+      "Bigfoot",
+      "Chupacabra",
+      "Mothman"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some versions of the Skinwalker Ranch legend, what type of creature is often described as being involved?",
+    "correctAnswer": "Shapeshifting entities, often described as having supernatural abilities",
+    "incorrectAnswers": [
+      "Giant spiders",
+      "Reptilian humanoids",
+      "Large felines"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What urban legend, originating in the early 20th century, involves a ghostly hitchhiker who vanishes mysteriously?",
+    "correctAnswer": "The Vanishing Hitchhiker",
+    "incorrectAnswers": [
+      "The Hookman",
+      "The Backseat Driver",
+      "Bloody Mary"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What lesser-known cryptid from the Philippines is often described as a large, dog-like creature with a fearsome howl?",
+    "correctAnswer": "Aswang",
+    "incorrectAnswers": [
+      "Chupacabra",
+      "Bigfoot",
+      "Mothman"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which modern myth, rooted in conspiracy theories, suggests a shadowy organization manipulates global events?",
+    "correctAnswer": "The Illuminati",
+    "incorrectAnswers": [
+      "The Freemasons",
+      "The Knights Templar",
+      "The Bilderberg Group"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What cryptid, often associated with the Ozark Mountains, is sometimes described as a large, winged serpent?",
+    "correctAnswer": "Ozark Howler",
+    "incorrectAnswers": [
+      "Wampus Cat",
+      "Jersey Devil",
+      "Bigfoot"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What  relatively unknown urban legend from Britain involves a malevolent spirit attached to a specific location?",
+    "correctAnswer": "The Black Shuck",
+    "incorrectAnswers": [
+      "The Grim Reaper",
+      "The Banshee",
+      "The Green Man"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What modern myth claims that a certain event or product from the past never existed, despite widespread memories to the contrary?",
+    "correctAnswer": "Mandela Effect",
+    "incorrectAnswers": [
+      "False Memory Syndrome",
+      "Collective Amnesia",
+      "Mass Hysteria"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What cryptid, often described as a small, hairy humanoid, is associated with reports in the Himalayas?",
+    "correctAnswer": "Yeti (Abominable Snowman)",
+    "incorrectAnswers": [
+      "Bigfoot",
+      "Chupacabra",
+      "Alma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  }
+]

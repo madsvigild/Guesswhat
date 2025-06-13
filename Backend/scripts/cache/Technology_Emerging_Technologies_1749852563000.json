@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which emerging technology uses interconnected, sensor-equipped devices to collect and exchange data?",
+    "correctAnswer": "Internet of Things (IoT)",
+    "incorrectAnswers": [
+      "Artificial Intelligence (AI)",
+      "Blockchain",
+      "Quantum Computing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology allows for the creation of realistic 3D environments and objects?",
+    "correctAnswer": "Virtual Reality (VR)",
+    "incorrectAnswers": [
+      "Augmented Reality (AR)",
+      "Mixed Reality (MR)",
+      "Machine Learning (ML)"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What type of AI involves teaching computers to learn from data without explicit programming?",
+    "correctAnswer": "Machine Learning",
+    "incorrectAnswers": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Expert Systems"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology utilizes distributed ledger technology to ensure secure and transparent transactions?",
+    "correctAnswer": "Blockchain",
+    "incorrectAnswers": [
+      "Cloud Computing",
+      "Big Data",
+      "Edge Computing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology overlays computer-generated images onto the real world, enhancing the user's perception?",
+    "correctAnswer": "Augmented Reality (AR)",
+    "incorrectAnswers": [
+      "Virtual Reality (VR)",
+      "Mixed Reality (MR)",
+      "Extended Reality (XR)"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name for the technology that uses powerful computers to simulate the behavior of subatomic particles?",
+    "correctAnswer": "Quantum Computing",
+    "incorrectAnswers": [
+      "Cloud Computing",
+      "Edge Computing",
+      "Grid Computing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology uses biological systems or their derivatives to create or improve products or processes?",
+    "correctAnswer": "Biotechnology",
+    "incorrectAnswers": [
+      "Nanotechnology",
+      "Robotics",
+      "Genetic Engineering"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the general term for the technology that allows for the remote access of computing resources over the internet?",
+    "correctAnswer": "Cloud Computing",
+    "incorrectAnswers": [
+      "Edge Computing",
+      "Fog Computing",
+      "Serverless Computing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology focuses on processing data closer to its source to reduce latency and bandwidth needs?",
+    "correctAnswer": "Edge Computing",
+    "incorrectAnswers": [
+      "Cloud Computing",
+      "Fog Computing",
+      "Serverless Computing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology involves the miniaturization of materials and devices to the nanoscale?",
+    "correctAnswer": "Nanotechnology",
+    "incorrectAnswers": [
+      "Biotechnology",
+      "Robotics",
+      "Genetic Engineering"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the term for the process of using AI to analyze large datasets and identify patterns or trends?",
+    "correctAnswer": "Big Data Analytics",
+    "incorrectAnswers": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Mining"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What type of AI aims to mimic human cognitive functions like reasoning and problem-solving?",
+    "correctAnswer": "Artificial General Intelligence (AGI)",
+    "incorrectAnswers": [
+      "Artificial Narrow Intelligence (ANI)",
+      "Artificial Super Intelligence (ASI)",
+      "Machine Learning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What emerging technology uses sensors and data analysis to create smart, interconnected cities?",
+    "correctAnswer": "Smart City Technology",
+    "incorrectAnswers": [
+      "IoT",
+      "Cloud Computing",
+      "Big Data"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology uses algorithms to generate new text, images, or other forms of content?",
+    "correctAnswer": "Generative AI",
+    "incorrectAnswers": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology is used to create 3D models of real-world objects using scanners and software?",
+    "correctAnswer": "3D Scanning and Modeling",
+    "incorrectAnswers": [
+      "CAD",
+      "CAM",
+      "3D Printing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology uses DNA molecules to store data?",
+    "correctAnswer": "DNA Data Storage",
+    "incorrectAnswers": [
+      "Cloud Storage",
+      "Flash Storage",
+      "Hard Drive Storage"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology combines aspects of both VR and AR, creating immersive experiences that blend real and virtual elements?",
+    "correctAnswer": "Mixed Reality (MR)",
+    "incorrectAnswers": [
+      "Augmented Reality (AR)",
+      "Virtual Reality (VR)",
+      "Extended Reality (XR)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology involves the use of robotics and AI for surgical procedures?",
+    "correctAnswer": "Robotic Surgery",
+    "incorrectAnswers": [
+      "Telemedicine",
+      "Remote Monitoring",
+      "Virtual Reality Therapy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the term for a self-driving car's ability to understand its surroundings using sensors and software?",
+    "correctAnswer": "Autonomous Navigation",
+    "incorrectAnswers": [
+      "GPS Tracking",
+      "Path Planning",
+      "Vehicle Control"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology aims to create computer systems that can think and act like humans?",
+    "correctAnswer": "Artificial General Intelligence (AGI)",
+    "incorrectAnswers": [
+      "Narrow AI",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the proposed computing paradigm that utilizes the principles of quantum mechanics to solve complex problems beyond the capabilities of classical computers?",
+    "correctAnswer": "Quantum Computing",
+    "incorrectAnswers": [
+      "Classical Computing",
+      "Cloud Computing",
+      "Parallel Computing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What specific type of machine learning algorithm is particularly adept at identifying patterns in image and speech data, employing multiple layers of interconnected nodes?",
+    "correctAnswer": "Convolutional Neural Networks (CNNs)",
+    "incorrectAnswers": [
+      "Recurrent Neural Networks (RNNs)",
+      "Support Vector Machines (SVMs)",
+      "Decision Trees"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which emerging field combines biological principles with materials science to create new materials with unique properties, often inspired by natural systems?",
+    "correctAnswer": "Bio-inspired Materials Science",
+    "incorrectAnswers": [
+      "Biotechnology",
+      "Nanotechnology",
+      "Biomedical Engineering"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology leverages the principles of synthetic biology to design and construct new biological parts, devices, and systems?",
+    "correctAnswer": "Synthetic Biology",
+    "incorrectAnswers": [
+      "Genetic Engineering",
+      "Biotechnology",
+      "Bioinformatics"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Beyond blockchain's cryptocurrency applications, what emerging technological field utilizes its distributed ledger technology for secure and transparent data management across multiple organizations?",
+    "correctAnswer": "Enterprise Blockchain",
+    "incorrectAnswers": [
+      "Decentralized Finance (DeFi)",
+      "Non-Fungible Tokens (NFTs)",
+      "Cryptocurrency Mining"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

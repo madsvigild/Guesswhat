@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic band's 'Thriller' album is considered a landmark achievement in music video production?",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Queen",
+      "The Beatles",
+      "Led Zeppelin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What genre is primarily associated with the rise of the electric guitar in the 1950s?",
+    "correctAnswer": "Rock and Roll",
+    "incorrectAnswers": [
+      "Classical",
+      "Jazz",
+      "Folk"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which legendary singer-songwriter is known for their contributions to folk, rock, and country music?",
+    "correctAnswer": "Bob Dylan",
+    "incorrectAnswers": [
+      "Elvis Presley",
+      "Frank Sinatra",
+      "Michael Bublé"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In what decade did disco music reach its peak popularity?",
+    "correctAnswer": "1970s",
+    "incorrectAnswers": [
+      "1960s",
+      "1980s",
+      "1990s"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which artist is widely considered the 'King of Pop'?",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Prince",
+      "Elvis Presley",
+      "David Bowie"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What British band led the British Invasion in the 1960s?",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which genre emerged in the 1990s, blending hip-hop, rock, and alternative elements?",
+    "correctAnswer": "Nu Metal",
+    "incorrectAnswers": [
+      "Grunge",
+      "Britpop",
+      "Indie Pop"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What iconic female singer was known for her powerful voice and soul music?",
+    "correctAnswer": "Aretha Franklin",
+    "incorrectAnswers": [
+      "Whitney Houston",
+      "Beyoncé",
+      "Mariah Carey"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which genre pioneered by Jamaican artists heavily influenced hip-hop and reggae?",
+    "correctAnswer": "Ska",
+    "incorrectAnswers": [
+      "Calyspo",
+      "Mento",
+      "Rocksteady"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which American singer is known for their unique blend of pop, R&B, and jazz?",
+    "correctAnswer": "Ella Fitzgerald",
+    "incorrectAnswers": [
+      "Billie Holiday",
+      "Sarah Vaughan",
+      "Nina Simone"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which groundbreaking album by the Beatles is often cited for its innovative recording techniques and psychedelic influences?",
+    "correctAnswer": "Sgt. Pepper's Lonely Hearts Club Band",
+    "incorrectAnswers": [
+      "Abbey Road",
+      "Revolver",
+      "Rubber Soul"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What subgenre of punk rock, emerging in the late 1970s, emphasized speed and aggression?",
+    "correctAnswer": "Hardcore Punk",
+    "incorrectAnswers": [
+      "Post-Punk",
+      "Anarchopunk",
+      "Pop Punk"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which influential hip-hop group's album 'The Chronic' is credited with popularizing G-funk?",
+    "correctAnswer": "Dr. Dre",
+    "incorrectAnswers": [
+      "NWA",
+      "Ice Cube",
+      "Snoop Dogg"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which genre blended electronic music with elements of hip-hop and R&B in the late 1990s and early 2000s?",
+    "correctAnswer": "Trip Hop",
+    "incorrectAnswers": [
+      "Drum and Bass",
+      "Jungle",
+      "Big Beat"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which 1990s band, known for their alternative rock sound, featured a prominent female vocalist?",
+    "correctAnswer": "Cranberries",
+    "incorrectAnswers": [
+      "Smashing Pumpkins",
+      "Nirvana",
+      "Pearl Jam"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What pioneering DJ and producer is largely credited with popularizing house music in Chicago in the 1980s?",
+    "correctAnswer": "Frankie Knuckles",
+    "incorrectAnswers": [
+      "Larry Levan",
+      "Ron Hardy",
+      "Marshall Jefferson"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which influential German electronic music group pioneered Kraftwerk's distinctive style?",
+    "correctAnswer": "Kraftwerk",
+    "incorrectAnswers": [
+      "Tangerine Dream",
+      "Can",
+      "Neu!"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which British singer-songwriter's work significantly impacted the development of singer-songwriter folk rock in the 1960s and 70s?",
+    "correctAnswer": "Joni Mitchell",
+    "incorrectAnswers": [
+      "Carole King",
+      "Judy Collins",
+      "Joan Baez"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What influential dubstep producer's work helped shape the genre's sound in the early 2000s?",
+    "correctAnswer": "Burial",
+    "incorrectAnswers": [
+      "Skrillex",
+      "Diplo",
+      "Avicii"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which largely unknown British band's influence on alternative rock in the 1980s is disproportionately large compared to their commercial success?",
+    "correctAnswer": "The Smiths",
+    "incorrectAnswers": [
+      "Joy Division",
+      "Echo & the Bunnymen",
+      "The Cure"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which relatively obscure 1970s artist heavily influenced the post-punk and gothic rock genres despite limited mainstream success at the time?",
+    "correctAnswer": "Bauhaus",
+    "incorrectAnswers": [
+      "Siouxsie and the Banshees",
+      "The Damned",
+      "Public Image Ltd."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What lesser-known genre of electronic music, emerging from Detroit in the late 1980s, combined elements of techno and house with a strong emphasis on melody?",
+    "correctAnswer": "Detroit Techno",
+    "incorrectAnswers": [
+      "Acid House",
+      "Ambient Techno",
+      "Hardcore Techno"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which relatively obscure 1960s psychedelic rock band was known for its experimental use of tape loops and unconventional instruments?",
+    "correctAnswer": "The United States of America",
+    "incorrectAnswers": [
+      "The Velvet Underground",
+      "The Grateful Dead",
+      "Pink Floyd"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which early 2000s electroclash artist's dark and ironic lyrics and unique musical style gained significant cult following?",
+    "correctAnswer": "Miss Kittin",
+    "incorrectAnswers": [
+      "Peaches",
+      "Le Tigre",
+      "The Knife"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which largely underground artist is considered a pioneer of experimental electronic music and ambient techno, with a significant influence on many contemporary artists?",
+    "correctAnswer": "Aphex Twin",
+    "incorrectAnswers": [
+      "Brian Eno",
+      "Boards of Canada",
+      "Gas"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which mountain range is home to the world's highest peak, Mount Everest?",
+    "correctAnswer": "Himalayas",
+    "incorrectAnswers": [
+      "Alps",
+      "Andes",
+      "Rocky Mountains"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Amazon River is located primarily in which South American country?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "correctAnswer": "Sahara Desert",
+    "incorrectAnswers": [
+      "Arabian Desert",
+      "Gobi Desert",
+      "Mojave Desert"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the largest coral reef system in the world?",
+    "correctAnswer": "Great Barrier Reef",
+    "incorrectAnswers": [
+      "Belize Barrier Reef",
+      "New Caledonia Barrier Reef",
+      "Andros Barrier Reef"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country is home to the iconic Taj Mahal?",
+    "correctAnswer": "India",
+    "incorrectAnswers": [
+      "Pakistan",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the largest canyon in the world?",
+    "correctAnswer": "Grand Canyon",
+    "incorrectAnswers": [
+      "Fish River Canyon",
+      "Copper Canyon",
+      "Colca Canyon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which geological feature is famous for its geysers and hot springs?",
+    "correctAnswer": "Yellowstone National Park",
+    "incorrectAnswers": [
+      "Yosemite National Park",
+      "Grand Teton National Park",
+      "Zion National Park"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Serengeti is a vast grassland plain in which African country?",
+    "correctAnswer": "Tanzania",
+    "incorrectAnswers": [
+      "Kenya",
+      "South Africa",
+      "Botswana"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which large island country is known for its unique flora and fauna, including lemurs?",
+    "correctAnswer": "Madagascar",
+    "incorrectAnswers": [
+      "Sri Lanka",
+      "Cuba",
+      "New Zealand"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of landform is formed by the deposition of sediment at the mouth of a river?",
+    "correctAnswer": "Delta",
+    "incorrectAnswers": [
+      "Mesa",
+      "Canyon",
+      "Escarpment"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range forms the border between Europe and Asia?",
+    "correctAnswer": "Ural Mountains",
+    "incorrectAnswers": [
+      "Carpathian Mountains",
+      "Caucasus Mountains",
+      "Altai Mountains"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Dead Sea, known for its high salinity, is located between which two countries?",
+    "correctAnswer": "Israel and Jordan",
+    "incorrectAnswers": [
+      "Egypt and Israel",
+      "Jordan and Syria",
+      "Israel and Lebanon"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geographical feature is responsible for the unique climate of the Mediterranean region?",
+    "correctAnswer": "Mediterranean climate",
+    "incorrectAnswers": [
+      "Monsoon",
+      "Steppe",
+      "Savanna"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which peninsula is known for its diverse range of climates and landscapes, from tundra to deserts?",
+    "correctAnswer": "Arabian Peninsula",
+    "incorrectAnswers": [
+      "Iberian Peninsula",
+      "Korean Peninsula",
+      "Indian Subcontinent"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the vast, ice-covered landmass in Antarctica?",
+    "correctAnswer": "Antarctic Ice Sheet",
+    "incorrectAnswers": [
+      "Greenland Ice Sheet",
+      "Patagonian Ice Field",
+      "Laurentide Ice Sheet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which geological process is responsible for the formation of the Hawaiian Islands?",
+    "correctAnswer": "Volcanic activity",
+    "incorrectAnswers": [
+      "Glacial erosion",
+      "Tectonic plate collision",
+      "Sediment deposition"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a fjord?",
+    "correctAnswer": "A long, narrow inlet of the sea between high cliffs or mountains",
+    "incorrectAnswers": [
+      "A type of desert",
+      "A volcanic crater",
+      "A type of river"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country contains the largest portion of the Amazon rainforest?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "Peru",
+      "Colombia",
+      "Venezuela"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a karst landscape?",
+    "correctAnswer": "A landscape formed from the dissolution of soluble rocks such as limestone",
+    "incorrectAnswers": [
+      "A landscape formed by glacial action",
+      "A landscape formed by volcanic activity",
+      "A landscape formed by wind erosion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Atacama Desert, one of the driest places on Earth, is located in which country?",
+    "correctAnswer": "Chile",
+    "incorrectAnswers": [
+      "Peru",
+      "Argentina",
+      "Bolivia"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the large, endorheic basin in central Australia?",
+    "correctAnswer": "Lake Eyre Basin",
+    "incorrectAnswers": [
+      "Lake Chad Basin",
+      "Great Artesian Basin",
+      "Murray-Darling Basin"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the geological formation created by the collision of the Indian and Eurasian plates?",
+    "correctAnswer": "Himalayas",
+    "incorrectAnswers": [
+      "Alps",
+      "Andes",
+      "Rocky Mountains"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range contains the highest peak in North America?",
+    "correctAnswer": "Alaska Range",
+    "incorrectAnswers": [
+      "Rocky Mountains",
+      "Sierra Nevada",
+      "Cascade Range"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a butte?",
+    "correctAnswer": "An isolated hill with steep sides and a flat top",
+    "incorrectAnswers": [
+      "A type of valley",
+      "A type of cave",
+      "A type of mountain range"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

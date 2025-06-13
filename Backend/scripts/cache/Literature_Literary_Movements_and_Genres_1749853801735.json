@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which literary movement, flourishing in the late 18th and early 19th centuries, emphasized emotion, individualism, and the glorification of nature?",
+    "correctAnswer": "Romanticism",
+    "incorrectAnswers": [
+      "Realism",
+      "Classicism",
+      "Modernism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What genre typically features suspense, mystery, and often a detective investigating a crime?",
+    "correctAnswer": "Mystery",
+    "incorrectAnswers": [
+      "Science Fiction",
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement reacted against Romanticism, focusing on realism and objective representation of life?",
+    "correctAnswer": "Realism",
+    "incorrectAnswers": [
+      "Naturalism",
+      "Modernism",
+      "Gothic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The works of William Shakespeare primarily belong to which literary period?",
+    "correctAnswer": "Elizabethan Era",
+    "incorrectAnswers": [
+      "Victorian Era",
+      "Restoration Era",
+      "Jacobean Era"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which genre often involves supernatural elements, magic, and mythical creatures?",
+    "correctAnswer": "Fantasy",
+    "incorrectAnswers": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which genre typically focuses on the inner lives and psychological states of characters?",
+    "correctAnswer": "Psychological Fiction",
+    "incorrectAnswers": [
+      "Romance",
+      "Historical Fiction",
+      "Science Fiction"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name for a long narrative poem, often recounting heroic deeds?",
+    "correctAnswer": "Epic Poem",
+    "incorrectAnswers": [
+      "Sonnet",
+      "Haiku",
+      "Limerick"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement, prominent in the early 20th century, experimented with stream of consciousness and fragmented narratives?",
+    "correctAnswer": "Modernism",
+    "incorrectAnswers": [
+      "Postmodernism",
+      "Realism",
+      "Romanticism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which genre often explores themes of love, relationships, and emotional experiences?",
+    "correctAnswer": "Romance",
+    "incorrectAnswers": [
+      "Thriller",
+      "Horror",
+      "Science Fiction"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement emphasized the objective observation and description of life, often focusing on social issues?",
+    "correctAnswer": "Naturalism",
+    "incorrectAnswers": [
+      "Realism",
+      "Modernism",
+      "Romanticism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The Harlem Renaissance was a significant period for which genre and literary movement in the United States?",
+    "correctAnswer": "African American Literature",
+    "incorrectAnswers": [
+      "British Romanticism",
+      "Latin American Magical Realism",
+      "Irish Modernism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary genre often uses allegory and satire to criticize social and political issues?",
+    "correctAnswer": "Satire",
+    "incorrectAnswers": [
+      "Tragedy",
+      "Comedy",
+      "Epic"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the term for a short, witty poem often containing a humorous twist?",
+    "correctAnswer": "Epigram",
+    "incorrectAnswers": [
+      "Ode",
+      "Sonnet",
+      "Ballad"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement, emerging after World War II, questioned traditional narrative structures and embraced metafiction?",
+    "correctAnswer": "Postmodernism",
+    "incorrectAnswers": [
+      "Modernism",
+      "Existentialism",
+      "Surrealism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Gabriel Garcia Marquez is a prominent author associated with which literary movement known for its magical realism?",
+    "correctAnswer": "Magical Realism",
+    "incorrectAnswers": [
+      "Surrealism",
+      "Postmodernism",
+      "Existentialism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What type of poetry, often characterized by its emotional intensity and personal expression, became popular during the Romantic period?",
+    "correctAnswer": "Lyric Poetry",
+    "incorrectAnswers": [
+      "Epic Poetry",
+      "Narrative Poetry",
+      "Dramatic Poetry"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary genre blends elements of science fiction and fantasy, often involving advanced technology and magic?",
+    "correctAnswer": "Science Fantasy",
+    "incorrectAnswers": [
+      "Cyberpunk",
+      "Steampunk",
+      "Dystopian Fiction"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which subgenre of science fiction focuses on futuristic societies characterized by oppressive control and societal breakdown?",
+    "correctAnswer": "Dystopian Fiction",
+    "incorrectAnswers": [
+      "Utopian Fiction",
+      "Cyberpunk",
+      "Space Opera"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement emphasized the exploration of the human condition through stream-of-consciousness narration and psychological depth?",
+    "correctAnswer": "Modernist Literature",
+    "incorrectAnswers": [
+      "Realist Literature",
+      "Romantic Literature",
+      "Victorian Literature"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The Metaphysical poets, active primarily in 17th-century England, were known for which characteristic in their poetry?",
+    "correctAnswer": "Intellectual Conceits and Paradox",
+    "incorrectAnswers": [
+      "Simple Diction and Imagery",
+      "Emotional Restraint",
+      "Focus on Nature"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Identify the literary movement that prioritized reason, order, and classical forms, popular during the 17th and 18th centuries.",
+    "correctAnswer": "Neoclassicism",
+    "incorrectAnswers": [
+      "Romanticism",
+      "Realism",
+      "Modernism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which relatively obscure but influential literary movement, flourishing in France during the late 19th century, emphasized the depiction of the grotesque and the decadent aspects of society?",
+    "correctAnswer": "Decadence",
+    "incorrectAnswers": [
+      "Symbolism",
+      "Impressionism",
+      "Realism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Associated with authors like Virginia Woolf and James Joyce, which literary technique involves presenting the flow of thoughts and feelings of a character's mind?",
+    "correctAnswer": "Stream of Consciousness",
+    "incorrectAnswers": [
+      "Epistolary Narrative",
+      "Flashback",
+      "Foreshadowing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What specific subgenre of fantasy literature often involves a coming-of-age story set in a secondary world with elements of myth and legend?",
+    "correctAnswer": "High Fantasy",
+    "incorrectAnswers": [
+      "Dark Fantasy",
+      "Urban Fantasy",
+      "Low Fantasy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which literary movement, prevalent in the late 19th and early 20th centuries, emphasized symbolism, suggestion, and the exploration of subjective experience?",
+    "correctAnswer": "Symbolism",
+    "incorrectAnswers": [
+      "Realism",
+      "Naturalism",
+      "Modernism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

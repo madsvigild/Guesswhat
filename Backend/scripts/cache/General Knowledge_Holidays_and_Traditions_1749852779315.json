@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What holiday is celebrated on October 31st, known for costumes and trick-or-treating?",
+    "correctAnswer": "Halloween",
+    "incorrectAnswers": [
+      "Thanksgiving",
+      "Christmas",
+      "Easter"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country is credited with originating the tradition of decorating Christmas trees?",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": [
+      "England",
+      "France",
+      "Italy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the traditional food eaten on Thanksgiving in the United States?",
+    "correctAnswer": "Turkey",
+    "incorrectAnswers": [
+      "Ham",
+      "Roast Beef",
+      "Chicken"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the Jewish festival of lights?",
+    "correctAnswer": "Hanukkah",
+    "incorrectAnswers": [
+      "Passover",
+      "Purim",
+      "Rosh Hashanah"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the primary symbol of Valentine's Day?",
+    "correctAnswer": "Heart",
+    "incorrectAnswers": [
+      "Flower",
+      "Chocolate",
+      "Ring"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What month is the Hindu festival of Diwali typically celebrated in?",
+    "correctAnswer": "October or November",
+    "incorrectAnswers": [
+      "January",
+      "July",
+      "December"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which month is associated with St. Patrick's Day?",
+    "correctAnswer": "March",
+    "incorrectAnswers": [
+      "April",
+      "February",
+      "May"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What type of celebratory event is a Quinceañera?",
+    "correctAnswer": "A girl's 15th birthday",
+    "incorrectAnswers": [
+      "A wedding anniversary",
+      "A baptism",
+      "A graduation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the Chinese New Year festival?",
+    "correctAnswer": "Lunar New Year",
+    "incorrectAnswers": [
+      "Mid-Autumn Festival",
+      "Dragon Boat Festival",
+      "Qingming Festival"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is traditionally given on Easter Sunday?",
+    "correctAnswer": "Easter eggs",
+    "incorrectAnswers": [
+      "Christmas stockings",
+      "Halloween candy",
+      "Thanksgiving pumpkin pie"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What tradition involves hanging stockings by the fireplace on Christmas Eve?",
+    "correctAnswer": "Christmas stocking hanging",
+    "incorrectAnswers": [
+      "Easter egg hunt",
+      "Hanukkah menorah lighting",
+      "Kwanzaa kinara lighting"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the significance of the burning of the Yule Log in some Christmas traditions?",
+    "correctAnswer": "It symbolizes the winter solstice and the return of the sun",
+    "incorrectAnswers": [
+      "It represents the birth of Jesus",
+      "It is a way to keep warm",
+      "It is a purely decorative tradition"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the origin of the tradition of exchanging gifts during Christmas?",
+    "correctAnswer": "A combination of ancient winter solstice celebrations and the story of the three wise men",
+    "incorrectAnswers": [
+      "Exclusively a Christian tradition",
+      "Originated from Victorian England",
+      "A purely commercial invention"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "In some cultures, what is the significance of the color red during the Lunar New Year?",
+    "correctAnswer": "It represents good fortune and happiness",
+    "incorrectAnswers": [
+      "Mourning and sadness",
+      "Bad luck and misfortune",
+      "Neutrality and peace"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the significance of the seven-branched candelabrum used during Hanukkah?",
+    "correctAnswer": "It's a menorah, representing the miracle of the oil lasting eight days",
+    "incorrectAnswers": [
+      "It represents the seven days of creation",
+      "It's a symbol of Jewish mourning",
+      "It's a purely decorative object"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the traditional food associated with the Irish celebration of St. Patrick's Day?",
+    "correctAnswer": "Corned beef and cabbage",
+    "incorrectAnswers": [
+      "Shepherd's pie",
+      "Irish stew",
+      "Soda bread (while common, corned beef and cabbage is more iconic for the holiday)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the large, decorated egg used in some Easter celebrations?",
+    "correctAnswer": "Paschal egg",
+    "incorrectAnswers": [
+      "Fabergé egg",
+      "Easter bunny",
+      "Cadbury Creme Egg"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What does the 'Día de los Muertos' (Day of the Dead) celebration primarily focus on?",
+    "correctAnswer": "Remembering and honoring deceased loved ones",
+    "incorrectAnswers": [
+      "Mourning and grief",
+      "Celebrating the harvest",
+      "A festival for children"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What ancient Celtic festival is believed to be the origin of Halloween?",
+    "correctAnswer": "Samhain",
+    "incorrectAnswers": [
+      "Beltane",
+      "Imbolc",
+      "Lammas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the traditional New Year's Eve celebration in Spain, involving eating 12 grapes?",
+    "correctAnswer": "Las Doce Uvas",
+    "incorrectAnswers": [
+      "Dia de Reyes",
+      "La Tomatina",
+      "Fiesta de San Fermín"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the historical significance of the Saturnalia festival in relation to modern Christmas traditions?",
+    "correctAnswer": "It was an ancient Roman festival of revelry and gift-giving that influenced some Christmas customs",
+    "incorrectAnswers": [
+      "It was a Christian festival that predated Christmas",
+      "It had no influence on modern Christmas",
+      "It was a festival of mourning"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What specific type of evergreen tree is most commonly associated with Christmas traditions in North America?",
+    "correctAnswer": "Fraser Fir",
+    "incorrectAnswers": [
+      "Douglas Fir",
+      "Noble Fir",
+      "Scotch Pine (while common, Fraser Fir is more dominant in North America)"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "In what region of the world did the tradition of giving Advent calendars originate?",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": [
+      "France",
+      "England",
+      "Austria"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the traditional Japanese festival celebrating the arrival of spring and the blossoming of cherry trees?",
+    "correctAnswer": "Hanami",
+    "incorrectAnswers": [
+      "Obon",
+      "Shichi-Go-San",
+      "Setsubun"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

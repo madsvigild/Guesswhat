@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which city is famous for its extensive canal system, often referred to as the 'Venice of the North'?",
+    "correctAnswer": "Amsterdam",
+    "incorrectAnswers": [
+      "Hamburg",
+      "Stockholm",
+      "Copenhagen"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the sprawling urban area encompassing New York City and its surrounding suburbs?",
+    "correctAnswer": "New York Metropolitan Area",
+    "incorrectAnswers": [
+      "New England",
+      "The Tri-State Area",
+      "Greater New York"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is known for its distinctive red-roofed buildings?",
+    "correctAnswer": "Copenhagen",
+    "incorrectAnswers": [
+      "Amsterdam",
+      "Paris",
+      "Rome"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which South American city is known for its vibrant Carnival celebrations?",
+    "correctAnswer": "Rio de Janeiro",
+    "incorrectAnswers": [
+      "Buenos Aires",
+      "São Paulo",
+      "Lima"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "correctAnswer": "Tokyo",
+    "incorrectAnswers": [
+      "Kyoto",
+      "Osaka",
+      "Hiroshima"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is home to the Eiffel Tower?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": [
+      "London",
+      "Rome",
+      "Berlin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is bisected by the Bosporus strait?",
+    "correctAnswer": "Istanbul",
+    "incorrectAnswers": [
+      "Cairo",
+      "Athens",
+      "Rome"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the planned city in Brazil designed by Oscar Niemeyer?",
+    "correctAnswer": "Brasília",
+    "incorrectAnswers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is famous for its extensive network of underground tunnels and catacombs?",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": [
+      "London",
+      "Rome",
+      "New York"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The concept of 'Garden Cities', aiming to combine urban and rural living, is most closely associated with which urban planner?",
+    "correctAnswer": "Ebenezer Howard",
+    "incorrectAnswers": [
+      "Daniel Burnham",
+      "Le Corbusier",
+      "Robert Moses"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is known for its distinctive 'ring roads' designed to manage traffic flow?",
+    "correctAnswer": "Vienna",
+    "incorrectAnswers": [
+      "Berlin",
+      "Paris",
+      "Prague"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What urban planning principle emphasizes pedestrian-friendly spaces and reduced reliance on cars?",
+    "correctAnswer": "New Urbanism",
+    "incorrectAnswers": [
+      "Modernism",
+      "Postmodernism",
+      "Brutalism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city experienced significant urban renewal efforts after a devastating fire in 1666?",
+    "correctAnswer": "London",
+    "incorrectAnswers": [
+      "Rome",
+      "Paris",
+      "Amsterdam"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the large, planned community in Arizona known for its retirement community and golf courses?",
+    "correctAnswer": "Sun City",
+    "incorrectAnswers": [
+      "Celebration, Florida",
+      "The Villages, Florida",
+      "Desert Ridge, Arizona"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is famous for its extensive use of underground tunnels for transportation and utilities?",
+    "correctAnswer": "Montreal",
+    "incorrectAnswers": [
+      "Toronto",
+      "New York",
+      "Chicago"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city has the highest population density of any major city in the world?",
+    "correctAnswer": "Dhaka",
+    "incorrectAnswers": [
+      "Mumbai",
+      "Manila",
+      "Lagos"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city experienced rapid growth and development during the Industrial Revolution, leading to significant urban planning challenges?",
+    "correctAnswer": "Manchester",
+    "incorrectAnswers": [
+      "Paris",
+      "Rome",
+      "Vienna"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What urban design principle focuses on creating walkable, mixed-use neighborhoods with a focus on sustainability?",
+    "correctAnswer": "Transit-Oriented Development",
+    "incorrectAnswers": [
+      "Urban Sprawl",
+      "Suburbanization",
+      "Gentrification"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which South African city implemented radical urban planning changes during the apartheid era, resulting in severe spatial segregation?",
+    "correctAnswer": "Johannesburg",
+    "incorrectAnswers": [
+      "Cape Town",
+      "Durban",
+      "Pretoria"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What innovative urban planning concept involves creating self-sufficient and ecologically sound communities?",
+    "correctAnswer": "Eco-cities",
+    "incorrectAnswers": [
+      "Smart cities",
+      "Green cities",
+      "Sustainable cities"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The 'Congestion Charge' is a notable urban planning initiative implemented in which European capital city to manage traffic?",
+    "correctAnswer": "London",
+    "incorrectAnswers": [
+      "Paris",
+      "Berlin",
+      "Rome"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is widely considered a prime example of a successful 'megacity' that has effectively managed its growth and infrastructure?",
+    "correctAnswer": "Singapore",
+    "incorrectAnswers": [
+      "Mumbai",
+      "Jakarta",
+      "Mexico City"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which architect is famously associated with the 'Radiant City' concept, a vision of high-density, functionalist urban development?",
+    "correctAnswer": "Le Corbusier",
+    "incorrectAnswers": [
+      "Frank Lloyd Wright",
+      "Mies van der Rohe",
+      "Walter Gropius"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the urban planning movement that advocates for creating walkable, mixed-use communities with a focus on human scale and social interaction?",
+    "correctAnswer": "New Urbanism",
+    "incorrectAnswers": [
+      "Modernism",
+      "Postmodernism",
+      "Functionalism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

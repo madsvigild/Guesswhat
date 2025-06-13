@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which country is home to the largest population of people of Chinese descent outside of China?",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": [
+      "Thailand",
+      "United States",
+      "Malaysia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the largest ethnic group in Argentina?",
+    "correctAnswer": "European",
+    "incorrectAnswers": [
+      "Indigenous",
+      "African",
+      "Asian"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The linguistic diversity of Papua New Guinea is exceptionally high.  Approximately how many languages are spoken there?",
+    "correctAnswer": "Over 800",
+    "incorrectAnswers": [
+      "Under 100",
+      "Around 300",
+      "Around 500"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which city is known as the 'Cradle of Civilization' due to its significant role in the development of early Mesopotamian culture?",
+    "correctAnswer": "Mesopotamia (region, not a single city)",
+    "incorrectAnswers": [
+      "Babylon",
+      "Ur",
+      "Sumer"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the dominant religion in India?",
+    "correctAnswer": "Hinduism",
+    "incorrectAnswers": [
+      "Islam",
+      "Buddhism",
+      "Sikhism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which South American country has the highest percentage of its population identifying as mestizo (mixed European and Indigenous ancestry)?",
+    "correctAnswer": "Mexico",
+    "incorrectAnswers": [
+      "Brazil",
+      "Peru",
+      "Colombia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "correctAnswer": "Portuguese",
+    "incorrectAnswers": [
+      "Spanish",
+      "French",
+      "Dutch"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The unique cultural landscape of the Cinque Terre in Italy is characterized by what prominent geographical feature?",
+    "correctAnswer": "Terraced vineyards clinging to steep cliffs",
+    "incorrectAnswers": [
+      "Extensive olive groves",
+      "Rolling hills and pastures",
+      "Dense forests"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country is home to the largest number of officially recognized indigenous languages?",
+    "correctAnswer": "Papua New Guinea",
+    "incorrectAnswers": [
+      "Australia",
+      "Brazil",
+      "India"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the predominant religion in sub-Saharan Africa?",
+    "correctAnswer": "Christianity",
+    "incorrectAnswers": [
+      "Islam",
+      "Indigenous religions",
+      "No single dominant religion"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which geographical region is associated with the development of the Bantu languages?",
+    "correctAnswer": "Sub-Saharan Africa",
+    "incorrectAnswers": [
+      "North Africa",
+      "The Horn of Africa",
+      "Southern Africa (exclusively)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the cultural and linguistic region in Southern Africa characterized by the prevalence of Bantu languages and cultures?",
+    "correctAnswer": "Bantustan",
+    "incorrectAnswers": [
+      "Zulu Kingdom",
+      "Great Zimbabwe",
+      "Apartheid era South Africa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The unique geography of which country significantly influenced the development of its distinct maritime culture and economy?",
+    "correctAnswer": "Netherlands",
+    "incorrectAnswers": [
+      "Spain",
+      "France",
+      "England"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which geographic factor significantly contributed to the formation of distinct cultural regions in the Andes Mountains?",
+    "correctAnswer": "Altitude and varied climates",
+    "incorrectAnswers": [
+      "Abundant rainfall",
+      "Flat terrain",
+      "Proximity to the ocean"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the approximate population density of Bangladesh, making it one of the most densely populated countries globally?",
+    "correctAnswer": "Over 1000 people per square kilometer",
+    "incorrectAnswers": [
+      "Under 200",
+      "Around 500",
+      "Around 750"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country has the highest population of ethnic Kurds?",
+    "correctAnswer": "Turkey",
+    "incorrectAnswers": [
+      "Syria",
+      "Iraq",
+      "Iran"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What significant geographic barrier contributed to the relatively isolated development of unique cultures in the Himalayas?",
+    "correctAnswer": "The high mountain ranges and difficult terrain",
+    "incorrectAnswers": [
+      "Dense forests",
+      "Deserts",
+      "Large bodies of water"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The unique cultural landscape of rice paddies is strongly associated with which region of Asia?",
+    "correctAnswer": "Southeast Asia",
+    "incorrectAnswers": [
+      "Central Asia",
+      "East Asia",
+      "South Asia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the term for the process of cultural diffusion where a dominant culture absorbs or assimilates elements of a less dominant culture?",
+    "correctAnswer": "Cultural Assimilation",
+    "incorrectAnswers": [
+      "Acculturation",
+      "Cultural Hybridization",
+      "Cultural Diffusion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Explain the concept of a 'cultural hearth' and give one example.",
+    "correctAnswer": "A cultural hearth is a region where a certain culture originated and subsequently spread. Mesopotamia is an example.",
+    "incorrectAnswers": [
+      "A cultural hearth is a geographical barrier restricting cultural exchange. The Sahara Desert is an example.",
+      "A cultural hearth is a place where multiple cultures converge. New York City is an example.",
+      "A cultural hearth is a modern-day museum preserving artifacts of various cultures. The Louvre Museum is an example."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "How did the Silk Road impact cultural geography?",
+    "correctAnswer": "It facilitated the exchange of goods, ideas, and cultural practices between East and West, leading to significant cultural blending and diffusion.",
+    "incorrectAnswers": [
+      "It created a barrier between East and West cultures.",
+      "It resulted in the homogenization of Asian cultures.",
+      "It had little to no impact on the spread of cultural practices."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which specific type of migration pattern is most closely associated with the spread of the Indo-European language family?",
+    "correctAnswer": "Conquest migration",
+    "incorrectAnswers": [
+      "Chain migration",
+      "Step migration",
+      "Rural-urban migration"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the term for a geographical area where two or more cultures interact and influence each other?",
+    "correctAnswer": "Cultural borderland/contact zone",
+    "incorrectAnswers": [
+      "Cultural hearth",
+      "Cultural landscape",
+      "Cultural region"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a significant demographic factor that influences the cultural landscape of a city, impacting everything from food options to religious institutions?",
+    "correctAnswer": "Ethnic diversity",
+    "incorrectAnswers": [
+      "Climate",
+      "Elevation",
+      "Proximity to a natural resource"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  }
+]

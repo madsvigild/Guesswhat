@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What year was the World Wide Web invented?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": [
+      "1979",
+      "1999",
+      "1969"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which company developed the first commercially successful personal computer?",
+    "correctAnswer": "Apple",
+    "incorrectAnswers": [
+      "IBM",
+      "Microsoft",
+      "Commodore"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What does the acronym 'CPU' stand for?",
+    "correctAnswer": "Central Processing Unit",
+    "incorrectAnswers": [
+      "Central Power Unit",
+      "Computer Processing Unit",
+      "Control Processing Unit"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the technology that allows for wireless communication between devices?",
+    "correctAnswer": "Bluetooth",
+    "incorrectAnswers": [
+      "Ethernet",
+      "Wi-Fi",
+      "Fiber optics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who is credited with developing the first mechanical computer?",
+    "correctAnswer": "Charles Babbage",
+    "incorrectAnswers": [
+      "Alan Turing",
+      "Ada Lovelace",
+      "Gottfried Wilhelm Leibniz"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What does 'RAM' stand for in computer technology?",
+    "correctAnswer": "Random Access Memory",
+    "incorrectAnswers": [
+      "Read Access Memory",
+      "Random Active Memory",
+      "Read Active Memory"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is CRISPR-Cas9 primarily used for?",
+    "correctAnswer": "Gene editing",
+    "incorrectAnswers": [
+      "Cloning",
+      "DNA sequencing",
+      "Protein synthesis"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What groundbreaking technology revolutionized mobile communication in the late 1990s and early 2000s?",
+    "correctAnswer": "SMS (Short Message Service)",
+    "incorrectAnswers": [
+      "Email",
+      "Instant Messaging",
+      "VoIP"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of energy is harnessed by solar panels?",
+    "correctAnswer": "Solar energy",
+    "incorrectAnswers": [
+      "Wind energy",
+      "Hydroelectric energy",
+      "Geothermal energy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "The invention of the transistor is considered a pivotal moment in which technological field?",
+    "correctAnswer": "Electronics",
+    "incorrectAnswers": [
+      "Nuclear Physics",
+      "Biotechnology",
+      "Aerospace Engineering"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is Moore's Law primarily concerned with?",
+    "correctAnswer": "The number of transistors on integrated circuits",
+    "incorrectAnswers": [
+      "The speed of light",
+      "The efficiency of solar panels",
+      "The size of computer hard drives"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What technology enables the creation of three-dimensional objects from digital designs?",
+    "correctAnswer": "3D printing",
+    "incorrectAnswers": [
+      "Laser cutting",
+      "CNC machining",
+      "Subtractive manufacturing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the widely used programming language known for its versatility and use in web development?",
+    "correctAnswer": "JavaScript",
+    "incorrectAnswers": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What technological advancement significantly improved the speed and reliability of the internet in the late 20th century?",
+    "correctAnswer": "Fiber optics",
+    "incorrectAnswers": [
+      "Coaxial cable",
+      "Twisted-pair wiring",
+      "Satellite communication"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What principle underpins the operation of a modern-day laser?",
+    "correctAnswer": "Stimulated emission",
+    "incorrectAnswers": [
+      "Spontaneous emission",
+      "Absorption",
+      "Reflection"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name given to the collection of interconnected computer networks around the world?",
+    "correctAnswer": "The Internet",
+    "incorrectAnswers": [
+      "The World Wide Web",
+      "The Cloud",
+      "Intranet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What innovative material, commonly used in electronics, is known for its exceptional electrical conductivity and flexibility?",
+    "correctAnswer": "Graphene",
+    "incorrectAnswers": [
+      "Silicon",
+      "Copper",
+      "Aluminum"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the primary function of a semiconductor in electronic devices?",
+    "correctAnswer": "To control the flow of electricity",
+    "incorrectAnswers": [
+      "To generate electricity",
+      "To store electricity",
+      "To dissipate heat"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the term for the process of converting analog signals into digital signals?",
+    "correctAnswer": "Analog-to-digital conversion",
+    "incorrectAnswers": [
+      "Digital-to-analog conversion",
+      "Signal modulation",
+      "Signal amplification"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the theoretical computer designed by Alan Turing that could perform any computation?",
+    "correctAnswer": "Turing machine",
+    "incorrectAnswers": [
+      "Von Neumann machine",
+      "Finite state machine",
+      "Analytical Engine"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is quantum entanglement, and how does it impact quantum computing?",
+    "correctAnswer": "A phenomenon where two or more quantum particles become linked, regardless of distance; this allows for faster computation in quantum computers.",
+    "incorrectAnswers": [
+      "A type of quantum error correction",
+      "A method for building quantum circuits",
+      "A way to measure the speed of light in quantum systems"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Explain the difference between machine learning and deep learning.",
+    "correctAnswer": "Machine learning uses algorithms to learn from data, while deep learning uses artificial neural networks with multiple layers to learn complex patterns from large datasets.",
+    "incorrectAnswers": [
+      "They are the same thing",
+      "Deep learning is a subset of machine learning, but machine learning uses only shallow networks",
+      "Deep learning is faster, but machine learning is more accurate"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the significance of the 'von Neumann architecture' in computer design?",
+    "correctAnswer": "It describes a computer architecture where data and instructions are stored in the same memory space, influencing the structure of nearly all modern computers.",
+    "incorrectAnswers": [
+      "It describes the principles of quantum computing",
+      "It outlines the design of the first mechanical computer",
+      "It details the creation of the internet"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is a 'quantum bit' or 'qubit' and how does it differ from a classical bit?",
+    "correctAnswer": "A qubit is the fundamental unit of information in quantum computing; unlike a classical bit that can be either 0 or 1, a qubit can exist in a superposition of both states simultaneously.",
+    "incorrectAnswers": [
+      "A qubit is a faster version of a classical bit",
+      "A qubit is a type of transistor",
+      "A qubit is a unit of energy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

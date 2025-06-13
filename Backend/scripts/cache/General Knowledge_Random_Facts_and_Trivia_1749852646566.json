@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What is the only number that is spelled with the same number of letters as the number itself?",
+    "correctAnswer": "Four",
+    "incorrectAnswers": [
+      "One",
+      "Two",
+      "Seven"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the collective noun for a group of owls?",
+    "correctAnswer": "Parliament",
+    "incorrectAnswers": [
+      "Flight",
+      "Covey",
+      "Gaggle"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Approximately how many taste buds does an adult human have?",
+    "correctAnswer": "10,000",
+    "incorrectAnswers": [
+      "1,000",
+      "100,000",
+      "1,000,000"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the world's largest desert?",
+    "correctAnswer": "Antarctica",
+    "incorrectAnswers": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What fruit is used to make Worcestershire sauce?",
+    "correctAnswer": "Tamarind",
+    "incorrectAnswers": [
+      "Apples",
+      "Plums",
+      "Dates"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What country has the longest coastline in the world?",
+    "correctAnswer": "Canada",
+    "incorrectAnswers": [
+      "Russia",
+      "United States",
+      "Australia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which planet in our solar system spins on its side?",
+    "correctAnswer": "Uranus",
+    "incorrectAnswers": [
+      "Mars",
+      "Venus",
+      "Neptune"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "correctAnswer": "1912",
+    "incorrectAnswers": [
+      "1905",
+      "1920",
+      "1898"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which animal has the largest eyes relative to its body size?",
+    "correctAnswer": "Giant Squid",
+    "incorrectAnswers": [
+      "Whale",
+      "Elephant",
+      "Ostrich"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest river in the world?",
+    "correctAnswer": "Amazon River",
+    "incorrectAnswers": [
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the fear of long words?",
+    "correctAnswer": "Hippopotomonstrosesquippedaliophobia",
+    "incorrectAnswers": [
+      "Sesquipedalophobia",
+      "Logophobia",
+      "Glossophobia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the rarest blood type?",
+    "correctAnswer": "AB negative",
+    "incorrectAnswers": [
+      "O negative",
+      "A negative",
+      "B negative"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "On average, how many times does a human heart beat in a lifetime?",
+    "correctAnswer": "2.5 Billion",
+    "incorrectAnswers": [
+      "1 Billion",
+      "5 Billion",
+      "10 Billion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest bone in the human body?",
+    "correctAnswer": "Femur",
+    "incorrectAnswers": [
+      "Tibia",
+      "Fibula",
+      "Humerus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "correctAnswer": "H2O",
+    "incorrectAnswers": [
+      "CO2",
+      "NaCl",
+      "O2"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the largest ocean in the world?",
+    "correctAnswer": "Pacific Ocean",
+    "incorrectAnswers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "In what year was the first McDonald's restaurant founded?",
+    "correctAnswer": "1940",
+    "incorrectAnswers": [
+      "1955",
+      "1960",
+      "1970"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "correctAnswer": "299,792,458 meters per second",
+    "incorrectAnswers": [
+      "100,000 m/s",
+      "500,000 m/s",
+      "1,000,000 m/s"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest-running television series in the world?",
+    "correctAnswer": "Meet the Press",
+    "incorrectAnswers": [
+      "Doctor Who",
+      "The Simpsons",
+      "Law & Order"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country consumes the most coffee per capita?",
+    "correctAnswer": "Finland",
+    "incorrectAnswers": [
+      "Brazil",
+      "Colombia",
+      "United States"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

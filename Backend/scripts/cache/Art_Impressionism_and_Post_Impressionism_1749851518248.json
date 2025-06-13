@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which French painter is considered the founder of Impressionism, famous for his paintings of water lilies and Rouen Cathedral?",
+    "correctAnswer": "Claude Monet",
+    "incorrectAnswers": [
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What innovative painting technique, characterized by visible brushstrokes and an emphasis on capturing light and fleeting moments, defined Impressionism?",
+    "correctAnswer": "En plein air painting",
+    "incorrectAnswers": [
+      "Chiaroscuro",
+      "Sfumato",
+      "Trompe-l'œil"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which iconic Impressionist painting depicts a group of dancers in a rehearsal?",
+    "correctAnswer": "Edgar Degas' The Dance Class",
+    "incorrectAnswers": [
+      "Monet's Impression, Sunrise",
+      "Renoir's Bal du moulin de la Galette",
+      "Manet's Luncheon on the Grass"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Post-Impressionist artist used bold colors and expressive brushstrokes in his paintings of sunflowers and starry nights?",
+    "correctAnswer": "Vincent van Gogh",
+    "incorrectAnswers": [
+      "Paul Cézanne",
+      "Paul Gauguin",
+      "Georges Seurat"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What was the name of the first Impressionist exhibition, held in 1874?",
+    "correctAnswer": "The Anonymous Society of Painters, Sculptors, and Engravers",
+    "incorrectAnswers": [
+      "The Salon des Refusés",
+      "The Independent Exhibition",
+      "The Impressionist Salon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is known for his paintings of Parisian cafes and dancers, capturing the vibrant atmosphere of Belle Époque?",
+    "correctAnswer": "Pierre-Auguste Renoir",
+    "incorrectAnswers": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement directly followed Impressionism, characterized by a subjective approach to representing reality?",
+    "correctAnswer": "Post-Impressionism",
+    "incorrectAnswers": [
+      "Fauvism",
+      "Cubism",
+      "Surrealism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Post-Impressionist artist was deeply influenced by Japanese woodblock prints, evident in his flattened perspectives and decorative style?",
+    "correctAnswer": "Paul Gauguin",
+    "incorrectAnswers": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Georges Seurat"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What was the primary subject matter often depicted in Impressionist paintings?",
+    "correctAnswer": "Everyday life scenes and landscapes",
+    "incorrectAnswers": [
+      "Mythological scenes",
+      "Religious iconography",
+      "Historical events"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Impressionist painter was known for his depictions of ballet dancers, often capturing them from unconventional angles?",
+    "correctAnswer": "Edgar Degas",
+    "incorrectAnswers": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Paul Cézanne's work is considered a bridge between Impressionism and which subsequent art movement?",
+    "correctAnswer": "Cubism",
+    "incorrectAnswers": [
+      "Surrealism",
+      "Fauvism",
+      "Abstract Expressionism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What technique, involving the application of small dots of color to create an image, did Georges Seurat pioneer?",
+    "correctAnswer": "Pointillism",
+    "incorrectAnswers": [
+      "Impasto",
+      "Sgraffito",
+      "Stippling"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Beyond painting, which other artistic medium was significantly impacted by Impressionist sensibilities, showcasing similar emphasis on light and atmosphere?",
+    "correctAnswer": "Photography",
+    "incorrectAnswers": [
+      "Sculpture",
+      "Architecture",
+      "Printmaking"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Post-Impressionist artist is associated with the Symbolist movement, often depicting dreamlike and evocative scenes?",
+    "correctAnswer": "Gustave Moreau",
+    "incorrectAnswers": [
+      "Paul Cézanne",
+      "Vincent van Gogh",
+      "Georges Seurat"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Name a prominent art critic who initially ridiculed Impressionism but later came to acknowledge its importance.",
+    "correctAnswer": "Émile Zola",
+    "incorrectAnswers": [
+      "Charles Baudelaire",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What key aspect of artistic expression did Post-Impressionists prioritize over the objective representation of light and atmosphere that characterized Impressionism?",
+    "correctAnswer": "Subjective expression and personal emotion",
+    "incorrectAnswers": [
+      "Technical skill",
+      "Realism",
+      "Geometric forms"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Impressionist painter is celebrated for his series paintings, focusing on repeated subjects throughout various times of day or seasons?",
+    "correctAnswer": "Claude Monet",
+    "incorrectAnswers": [
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Besides their revolutionary painting techniques, what social factor significantly contributed to the Impressionists' initial rejection by the established art world?",
+    "correctAnswer": "Their rejection of academic art traditions and the Salon system",
+    "incorrectAnswers": [
+      "Their use of unconventional materials",
+      "Their political affiliations",
+      "Their lack of formal art training"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Though primarily known for painting, which Impressionist artist also produced a significant body of pastel works?",
+    "correctAnswer": "Edgar Degas",
+    "incorrectAnswers": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What specific characteristic of Van Gogh's style, often associated with his emotional intensity, is reflected in his exceptionally thick application of paint?",
+    "correctAnswer": "Impasto",
+    "incorrectAnswers": [
+      "Sfumato",
+      "Chiaroscuro",
+      "Stippling"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which lesser-known Post-Impressionist artist, associated with the Nabis group, is renowned for his innovative use of color and symbolic imagery in his paintings?",
+    "correctAnswer": "Maurice Denis",
+    "incorrectAnswers": [
+      "Pierre Bonnard",
+      "Édouard Vuillard",
+      "Paul Sérusier"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Name the influential art dealer who championed Impressionist and Post-Impressionist artists, significantly contributing to their recognition and market success.",
+    "correctAnswer": "Paul Durand-Ruel",
+    "incorrectAnswers": [
+      "Ambroise Vollard",
+      "Leo Stein",
+      "Gertrude Stein"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What philosophical movement, emphasizing the importance of subjective experience and intuition, significantly influenced the development of Post-Impressionism?",
+    "correctAnswer": "Symbolism",
+    "incorrectAnswers": [
+      "Realism",
+      "Naturalism",
+      "Positivism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which relatively unknown Post-Impressionist painter, known for his haunting landscapes and symbolist themes, significantly influenced the early works of Edvard Munch?",
+    "correctAnswer": "Odilon Redon",
+    "incorrectAnswers": [
+      "Paul Gauguin",
+      "Vincent van Gogh",
+      "Gustave Moreau"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Beyond the famous painters, which lesser-known Impressionist sculptor achieved recognition for their innovative approach to capturing movement and light in their bronze works?",
+    "correctAnswer": "Medardo Rosso",
+    "incorrectAnswers": [
+      "Auguste Rodin",
+      "Camille Claudel",
+      "Edgar Degas"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

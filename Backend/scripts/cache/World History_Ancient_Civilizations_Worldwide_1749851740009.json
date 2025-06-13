@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Which ancient civilization developed hieroglyphic writing?",
+    "correctAnswer": "Ancient Egyptians",
+    "incorrectAnswers": [
+      "Ancient Greeks",
+      "Ancient Romans",
+      "Mayans"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Hanging Gardens, one of the Seven Wonders of the Ancient World, were located in which ancient city?",
+    "correctAnswer": "Babylon",
+    "incorrectAnswers": [
+      "Alexandria",
+      "Rome",
+      "Athens"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the powerful empire that controlled much of present-day Mexico and Central America before the arrival of the Spanish?",
+    "correctAnswer": "Aztec Empire",
+    "incorrectAnswers": [
+      "Inca Empire",
+      "Maya civilization",
+      "Olmec civilization"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient civilization is credited with the invention of the wheel?",
+    "correctAnswer": "Mesopotamians",
+    "incorrectAnswers": [
+      "Egyptians",
+      "Romans",
+      "Greeks"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the extensive network of roads built by the ancient Romans?",
+    "correctAnswer": "Roman road system",
+    "incorrectAnswers": [
+      "Appian Way",
+      "Via Sacra",
+      "Milvian Bridge"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "In which ancient civilization did the concept of zero originate?",
+    "correctAnswer": "Indian",
+    "incorrectAnswers": [
+      "Chinese",
+      "Babylonian",
+      "Egyptian"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient city is considered the birthplace of democracy?",
+    "correctAnswer": "Athens",
+    "incorrectAnswers": [
+      "Sparta",
+      "Rome",
+      "Alexandria"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Terracotta Army was created to protect which emperor in the afterlife?",
+    "correctAnswer": "Qin Shi Huang",
+    "incorrectAnswers": [
+      "Han Wudi",
+      "Li Shimin",
+      "Genghis Khan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the influential legal code established in ancient Babylon?",
+    "correctAnswer": "Code of Hammurabi",
+    "incorrectAnswers": [
+      "Code of Justinian",
+      "Twelve Tables",
+      "Laws of Manu"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary cause of the decline and fall of the Roman Empire in the West?",
+    "correctAnswer": "A combination of factors including internal strife, economic instability, and barbarian invasions",
+    "incorrectAnswers": [
+      "A single catastrophic event",
+      "The invention of gunpowder",
+      "A devastating plague"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Rosetta Stone, crucial for deciphering hieroglyphs, was written in which three scripts?",
+    "correctAnswer": "Hieroglyphic, Demotic, and Ancient Greek",
+    "incorrectAnswers": [
+      "Cuneiform, Linear B, and Latin",
+      "Hieratic, Coptic, and Aramaic",
+      "Runic, Ogham, and Latin"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient civilization developed a sophisticated system of writing on clay tablets using cuneiform script?",
+    "correctAnswer": "Sumerians",
+    "incorrectAnswers": [
+      "Egyptians",
+      "Minoans",
+      "Phoenicians"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary role of the Quipu in the Inca Empire?",
+    "correctAnswer": "A system of knotted strings used for record-keeping",
+    "incorrectAnswers": [
+      "A form of religious ritual",
+      "A type of musical instrument",
+      "A system of irrigation canals"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient Greek city-state was known for its highly disciplined military and austere social system?",
+    "correctAnswer": "Sparta",
+    "incorrectAnswers": [
+      "Athens",
+      "Corinth",
+      "Thebes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major innovation in warfare contributed to the rise of the Assyrian Empire?",
+    "correctAnswer": "The use of iron weapons and cavalry",
+    "incorrectAnswers": [
+      "The development of the catapult",
+      "The invention of the chariot",
+      "The use of siege towers"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What is the name of the legendary lost city often associated with the Inca Empire?",
+    "correctAnswer": "El Dorado",
+    "incorrectAnswers": [
+      "Atlantis",
+      "Troy",
+      "Machu Picchu"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which ancient civilization built the famous ziggurats?",
+    "correctAnswer": "Mesopotamians",
+    "incorrectAnswers": [
+      "Egyptians",
+      "Mayans",
+      "Greeks"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Olmec civilization, considered a mother culture of Mesoamerica, is known for its colossal what?",
+    "correctAnswer": "Stone heads",
+    "incorrectAnswers": [
+      "Pyramids",
+      "Temples",
+      "Statues of gods"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the powerful trade route connecting the East and West in the ancient world?",
+    "correctAnswer": "Silk Road",
+    "incorrectAnswers": [
+      "Spice Route",
+      "Amber Road",
+      "Incense Route"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Indus Valley Civilization, known for its sophisticated urban planning, flourished in which present-day countries?",
+    "correctAnswer": "India and Pakistan",
+    "incorrectAnswers": [
+      "China and Vietnam",
+      "Iran and Iraq",
+      "Egypt and Sudan"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the significance of the stele of Hammurabi?",
+    "correctAnswer": "It contains the oldest known written legal code, providing insight into Mesopotamian law and society.",
+    "incorrectAnswers": [
+      "It depicts a military victory",
+      "It is a religious text",
+      "It describes the creation of the world"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the purpose of the elaborate burial chambers in the Valley of the Kings in ancient Egypt?",
+    "correctAnswer": "To house the tombs of pharaohs and other important figures of the New Kingdom.",
+    "incorrectAnswers": [
+      "To store grain and other supplies",
+      "To serve as temples for religious ceremonies",
+      "To house the royal library"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Describe the significance of the Pax Romana to the Roman Empire and its impact on society.",
+    "correctAnswer": "It refers to a period of relative peace and stability within the Roman Empire, fostering economic growth, cultural flourishing, and the expansion of infrastructure.",
+    "incorrectAnswers": [
+      "It was a period of widespread rebellion",
+      "It refers to a series of devastating wars",
+      "It was the time of the Roman Republic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

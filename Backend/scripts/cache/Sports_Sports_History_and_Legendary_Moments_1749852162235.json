@@ -1,0 +1,277 @@
+[
+  {
+    "question": "In what year did Jesse Owens win four gold medals at the Summer Olympics?",
+    "correctAnswer": "1936",
+    "incorrectAnswers": [
+      "1928",
+      "1948",
+      "1932"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the first ever FIFA World Cup in 1930?",
+    "correctAnswer": "Uruguay",
+    "incorrectAnswers": [
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for most NBA championships won as a player?",
+    "correctAnswer": "Bill Russell",
+    "incorrectAnswers": [
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "LeBron James"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which legendary boxer famously fought against Joe Frazier and George Foreman?",
+    "correctAnswer": "Muhammad Ali",
+    "incorrectAnswers": [
+      "Mike Tyson",
+      "Sugar Ray Robinson",
+      "Floyd Mayweather Jr."
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the famous cycling race that takes place annually in France?",
+    "correctAnswer": "Tour de France",
+    "incorrectAnswers": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "La Flèche Wallonne"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the first Super Bowl take place?",
+    "correctAnswer": "1967",
+    "incorrectAnswers": [
+      "1970",
+      "1965",
+      "1972"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which tennis player holds the record for most Grand Slam singles titles?",
+    "correctAnswer": "Margaret Court",
+    "incorrectAnswers": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Novak Djokovic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What team did Wayne Gretzky play for when he broke the NHL's single-season points record?",
+    "correctAnswer": "Edmonton Oilers",
+    "incorrectAnswers": [
+      "Los Angeles Kings",
+      "New York Rangers",
+      "Pittsburgh Penguins"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
+    "correctAnswer": "FIFA World Cup Trophy",
+    "incorrectAnswers": [
+      "Jules Rimet Trophy",
+      "Stanley Cup",
+      "Copa América"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what sport is the term 'Grand Slam' commonly used?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": [
+      "Golf",
+      "Baseball",
+      "Cricket"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first woman to win a Wimbledon singles title?",
+    "correctAnswer": "Maud Watson",
+    "incorrectAnswers": [
+      "Billie Jean King",
+      "Suzanne Lenglen",
+      "Venus Williams"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which American athlete won 7 consecutive Tour de France titles between 1999 and 2005, later stripped of his titles due to doping?",
+    "correctAnswer": "Lance Armstrong",
+    "incorrectAnswers": [
+      "Greg LeMond",
+      "Eddy Merckx",
+      "Bernard Hinault"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the famous upset victory in the 1980 Winter Olympics where the US hockey team defeated the heavily favored USSR?",
+    "correctAnswer": "Miracle on Ice",
+    "incorrectAnswers": [
+      "The Ice Bowl",
+      "The Clash of Titans",
+      "The Cold War Game"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which golfer achieved the 'Tiger Slam' by holding all four major championships simultaneously?",
+    "correctAnswer": "Tiger Woods",
+    "incorrectAnswers": [
+      "Jack Nicklaus",
+      "Ben Hogan",
+      "Arnold Palmer"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What year did Jackie Robinson break the color barrier in Major League Baseball?",
+    "correctAnswer": "1947",
+    "incorrectAnswers": [
+      "1954",
+      "1942",
+      "1960"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which gymnast is known for her 'balance beam' routine which is exceptionally difficult and is one of the most recognizable routines in gymnastics history?",
+    "correctAnswer": "Simone Biles",
+    "incorrectAnswers": [
+      "Nadia Comăneci",
+      "Olga Korbut",
+      "Mary Lou Retton"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the Boston Red Sox win their first World Series after an 86-year drought?",
+    "correctAnswer": "2004",
+    "incorrectAnswers": [
+      "2003",
+      "2005",
+      "2006"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NFL team famously won Super Bowl XLIX after a controversial last-second play?",
+    "correctAnswer": "New England Patriots",
+    "incorrectAnswers": [
+      "Seattle Seahawks",
+      "Denver Broncos",
+      "Green Bay Packers"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the youngest player to ever win a men's singles Wimbledon title?",
+    "correctAnswer": "Boris Becker",
+    "incorrectAnswers": [
+      "Bjorn Borg",
+      "Pete Sampras",
+      "Roger Federer"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which Formula One driver holds the record for the most World Championships?",
+    "correctAnswer": "Lewis Hamilton",
+    "incorrectAnswers": [
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Sebastian Vettel"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the infamous 'Black Sox Scandal' occur in baseball?",
+    "correctAnswer": "1919",
+    "incorrectAnswers": [
+      "1906",
+      "1927",
+      "1912"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who won the first ever Olympic marathon in 1896?",
+    "correctAnswer": "Spiridon Louis",
+    "incorrectAnswers": [
+      "Abebe Bikila",
+      "Emil Zátopek",
+      "Kenenisa Bekele"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the only horse to win the Triple Crown twice?",
+    "correctAnswer": "Citation",
+    "incorrectAnswers": [
+      "Secretariat",
+      "Seattle Slew",
+      "Man o' War"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which boxer is widely considered the greatest heavyweight boxer of all time, despite his controversial unbeaten record and later conviction for rape?",
+    "correctAnswer": "Mike Tyson",
+    "incorrectAnswers": [
+      "Muhammad Ali",
+      "Joe Louis",
+      "Rocky Marciano"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which controversial 1972 Olympic basketball game resulted in the US team not receiving gold medals?",
+    "correctAnswer": "Munich Basketball Final",
+    "incorrectAnswers": [
+      "Mexico City Basketball Final",
+      "Rome Basketball Final",
+      "Montreal Basketball Final"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "In what year was the first successful powered flight by the Wright brothers achieved?",
+    "correctAnswer": "1903",
+    "incorrectAnswers": [
+      "1899",
+      "1912",
+      "1908"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What invention revolutionized communication in the late 19th century, allowing for near-instantaneous messages across vast distances?",
+    "correctAnswer": "The telephone",
+    "incorrectAnswers": [
+      "The telegraph",
+      "The radio",
+      "The printing press"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who is credited with inventing the World Wide Web?",
+    "correctAnswer": "Tim Berners-Lee",
+    "incorrectAnswers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which groundbreaking invention significantly reduced the time and effort required to perform complex calculations?",
+    "correctAnswer": "The programmable mechanical calculator",
+    "incorrectAnswers": [
+      "The abacus",
+      "The slide rule",
+      "The astrolabe"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What invention, initially used for military communication, became pivotal in the development of broadcasting and mass media?",
+    "correctAnswer": "The radio",
+    "incorrectAnswers": [
+      "The television",
+      "The telephone",
+      "The internet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The invention of the transistor in 1947 significantly advanced what field of technology?",
+    "correctAnswer": "Electronics",
+    "incorrectAnswers": [
+      "Mechanical engineering",
+      "Civil engineering",
+      "Biotechnology"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What major technological advancement facilitated the widespread adoption of personal computers in the 1980s?",
+    "correctAnswer": "The graphical user interface (GUI)",
+    "incorrectAnswers": [
+      "The integrated circuit",
+      "The microprocessor",
+      "The internet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The development of which technology in the early 20th century revolutionized agriculture and food production?",
+    "correctAnswer": "Tractors and other agricultural machinery",
+    "incorrectAnswers": [
+      "Improved irrigation systems",
+      "Hybrid seeds",
+      "Fertilizers"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which programming language, developed in the 1970s, became foundational for the development of many operating systems?",
+    "correctAnswer": "C",
+    "incorrectAnswers": [
+      "Java",
+      "Python",
+      "FORTRAN"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The invention of the printing press significantly impacted society by:",
+    "correctAnswer": "Increasing literacy and the spread of knowledge",
+    "incorrectAnswers": [
+      "Decreasing literacy rates",
+      "Reducing the power of the church",
+      "Creating new artistic styles"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What crucial innovation allowed for the mass production of affordable automobiles, transforming transportation in the 20th century?",
+    "correctAnswer": "The assembly line",
+    "incorrectAnswers": [
+      "The internal combustion engine",
+      "The electric starter",
+      "Pneumatic tires"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The development of which technology in the late 19th century drastically reduced the time it took to cross the Atlantic Ocean?",
+    "correctAnswer": "Steamships",
+    "incorrectAnswers": [
+      "Sailing ships",
+      "Airplanes",
+      "Submarines"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What early form of computing device used punch cards to store and process data?",
+    "correctAnswer": "The Jacquard loom",
+    "incorrectAnswers": [
+      "The abacus",
+      "The Analytical Engine",
+      "The Difference Engine"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which early computer, developed during World War II, was crucial in breaking the German Enigma code?",
+    "correctAnswer": "Colossus",
+    "incorrectAnswers": [
+      "ENIAC",
+      "Atanasoff-Berry Computer",
+      "Mark I"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What significant innovation in data storage emerged in the 1950s, offering a more compact and durable alternative to magnetic tape?",
+    "correctAnswer": "Hard disk drives",
+    "incorrectAnswers": [
+      "Floppy disks",
+      "Solid-state drives",
+      "Magnetic drums"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The concept of 'Moore's Law' describes the observation that the number of transistors on a microchip doubles approximately every two years.  This directly impacts what aspect of computing?",
+    "correctAnswer": "Processing power and computing capacity",
+    "incorrectAnswers": [
+      "Memory storage",
+      "Internet speed",
+      "Software development"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What early computer programming language, developed in the 1950s, was known for its use in scientific and engineering applications and its influence on later languages like Fortran?",
+    "correctAnswer": "ALGOL",
+    "incorrectAnswers": [
+      "LISP",
+      "COBOL",
+      "BASIC"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Before the widespread adoption of silicon, what material was primarily used in the construction of early transistors and integrated circuits?",
+    "correctAnswer": "Germanium",
+    "incorrectAnswers": [
+      "Gallium arsenide",
+      "Silicon carbide",
+      "Selenium"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which lesser-known but crucial invention in the late 19th century significantly improved the efficiency and safety of mining operations, particularly in coal mines?",
+    "correctAnswer": "The safety lamp",
+    "incorrectAnswers": [
+      "The steam engine",
+      "The electric drill",
+      "The dynamite"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Developed in the early 1960s, what key component of modern computer architecture allowed for the efficient and parallel execution of instructions, fundamentally shaping the design of subsequent processors?",
+    "correctAnswer": "The pipeline",
+    "incorrectAnswers": [
+      "The cache",
+      "The register",
+      "The bus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What groundbreaking innovation in the early 19th century significantly improved the accuracy and efficiency of timekeeping, paving the way for more precise navigation and scientific measurements?",
+    "correctAnswer": "The marine chronometer",
+    "incorrectAnswers": [
+      "The pendulum clock",
+      "The hourglass",
+      "The sundial"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What early form of telegraphic communication predating Morse code, utilized a system of visual signals for communication over long distances?",
+    "correctAnswer": "Semaphore",
+    "incorrectAnswers": [
+      "Heliograph",
+      "Pigeon post",
+      "Smoke signals"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which pioneering technology, developed in the early 20th century, revolutionized the field of medical imaging, allowing doctors to visualize internal organs and structures non-invasively?",
+    "correctAnswer": "X-ray technology",
+    "incorrectAnswers": [
+      "Ultrasound",
+      "MRI",
+      "CT Scan"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The development of which technology in the late 18th century allowed for the mass production of textiles, profoundly impacting the Industrial Revolution?",
+    "correctAnswer": "The power loom",
+    "incorrectAnswers": [
+      "The spinning jenny",
+      "The cotton gin",
+      "The water frame"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

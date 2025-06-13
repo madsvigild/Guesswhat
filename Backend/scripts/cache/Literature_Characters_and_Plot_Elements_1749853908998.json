@@ -1,0 +1,277 @@
+[
+  {
+    "question": "In Shakespeare's Hamlet, who is responsible for the death of Polonius?",
+    "correctAnswer": "Hamlet",
+    "incorrectAnswers": [
+      "Laertes",
+      "Claudius",
+      "Rosencrantz"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the wizard who mentors Harry Potter in the Harry Potter series?",
+    "correctAnswer": "Albus Dumbledore",
+    "incorrectAnswers": [
+      "Severus Snape",
+      "Rubeus Hagrid",
+      "Lord Voldemort"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which character famously proclaims, \"Call me Ishmael\" in Herman Melville's Moby Dick?",
+    "correctAnswer": "The Narrator",
+    "incorrectAnswers": [
+      "Ahab",
+      "Starbuck",
+      "Queequeg"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the dystopian society in George Orwell's Nineteen Eighty-Four?",
+    "correctAnswer": "Oceania",
+    "incorrectAnswers": [
+      "Eurasia",
+      "Eastasia",
+      "Airstrip One"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"Pride and Prejudice\", who is Elizabeth Bennet's love interest?",
+    "correctAnswer": "Fitzwilliam Darcy",
+    "incorrectAnswers": [
+      "Mr. Collins",
+      "Mr. Wickham",
+      "George Wickham"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the island where Lord of the Flies is set?",
+    "correctAnswer": "Uninhabited Island",
+    "incorrectAnswers": [
+      "Devil's Island",
+      "Skull Island",
+      "Isle of the Lost"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the central conflict in Romeo and Juliet?",
+    "correctAnswer": "A feud between two families",
+    "incorrectAnswers": [
+      "A battle for a throne",
+      "A struggle against tyranny",
+      "A love triangle"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who is the protagonist of Jane Eyre?",
+    "correctAnswer": "Jane Eyre",
+    "incorrectAnswers": [
+      "Rochester",
+      "St. John Rivers",
+      "Helen Burns"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is Scout Finch's real name in To Kill a Mockingbird?",
+    "correctAnswer": "Jean Louise Finch",
+    "incorrectAnswers": [
+      "Jem Finch",
+      "Mayella Ewell",
+      "Dill Harris"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What type of creature is Aragorn in J.R.R. Tolkien's Lord of the Rings?",
+    "correctAnswer": "A Man",
+    "incorrectAnswers": [
+      "Elf",
+      "Dwarf",
+      "Hobbit"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"The Great Gatsby\", what is the significance of the green light at the end of Daisy's dock?",
+    "correctAnswer": "It symbolizes Gatsby's hopes and dreams of reuniting with Daisy.",
+    "incorrectAnswers": [
+      "It represents the wealth and extravagance of the Roaring Twenties.",
+      "It is a warning sign of impending danger.",
+      "It signifies Gatsby's desire for revenge against Tom Buchanan."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the primary motivation behind Gregor Samsa's transformation in Franz Kafka's \"The Metamorphosis\"?",
+    "correctAnswer": "The text doesn't explicitly state a reason; it's an absurd event.",
+    "incorrectAnswers": [
+      "A punishment for his disobedient behavior.",
+      "A manifestation of his feelings of alienation and insignificance.",
+      "A magical curse placed upon him by an unknown entity."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"One Hundred Years of Solitude\", what is the recurring motif associated with the Buendía family?",
+    "correctAnswer": "Recurring names and cyclical events within the family.",
+    "incorrectAnswers": [
+      "The pursuit of wealth and power.",
+      "A relentless quest for knowledge.",
+      "The destructive effects of war and violence."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What ultimately leads to the downfall of Macbeth in Shakespeare's tragedy?",
+    "correctAnswer": "His ambition and guilt.",
+    "incorrectAnswers": [
+      "His betrayal by Lady Macbeth.",
+      "His defeat in battle by Duncan's forces.",
+      "His inability to overcome his fear of Banquo."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"Crime and Punishment\", what crime does Raskolnikov commit?",
+    "correctAnswer": "Murder",
+    "incorrectAnswers": [
+      "Theft",
+      "Arson",
+      "Fraud"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What role does the concept of \"the absurd\" play in Albert Camus's \"The Stranger\"?",
+    "correctAnswer": "It shapes Meursault's detached perspective and actions.",
+    "incorrectAnswers": [
+      "It serves as a plot device to create suspense.",
+      "It represents the protagonist's overwhelming sense of guilt.",
+      "It explains the reasons behind Meursault's crime."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What literary device is heavily employed in Virginia Woolf's \"Mrs. Dalloway\"?",
+    "correctAnswer": "Stream of consciousness",
+    "incorrectAnswers": [
+      "Epistolary writing",
+      "Frame narrative",
+      "Magical realism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the significance of the scarlet letter 'A' in Nathaniel Hawthorne's \"The Scarlet Letter\"?",
+    "correctAnswer": "It represents Hester Prynne's adultery.",
+    "incorrectAnswers": [
+      "It symbolizes the Puritan community's hypocrisy.",
+      "It represents Hester's strength and resilience.",
+      "It signifies the letter's wearer's piety and devotion."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"Invisible Man\" by Ralph Ellison, what object is symbolic of the protagonist's invisibility?",
+    "correctAnswer": "The briefcase",
+    "incorrectAnswers": [
+      "The narrator's sight",
+      "The narrator's race",
+      "The narrator's father"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What specific literary movement is most closely associated with Fyodor Dostoevsky's works, such as \"Crime and Punishment\"?",
+    "correctAnswer": "Realism",
+    "incorrectAnswers": [
+      "Romanticism",
+      "Modernism",
+      "Naturalism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In \"The Canterbury Tales,\" what is the Pardoner's primary source of income?",
+    "correctAnswer": "Selling fake relics and indulgences.",
+    "incorrectAnswers": [
+      "Preaching sermons",
+      "Farming",
+      "Begging"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the symbolic significance of the labyrinth in Jorge Luis Borges's short stories?",
+    "correctAnswer": "It represents the complexities of reality and the human condition.",
+    "incorrectAnswers": [
+      "It is a literal escape route for the protagonist",
+      "It depicts a purely physical challenge.",
+      "It functions solely as a setting for the narrative."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In the epic poem \"The Odyssey,\" what specific challenge does Odysseus face in the land of the Cyclops?",
+    "correctAnswer": "He must outwit Polyphemus, a one-eyed giant.",
+    "incorrectAnswers": [
+      "He must defeat a fearsome sea monster.",
+      "He must navigate a treacherous maze.",
+      "He must solve a series of riddles to escape."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the crucial role of the character of Iago in Shakespeare's \"Othello\"?",
+    "correctAnswer": "He is the villainous antagonist who manipulates Othello into murdering Desdemona.",
+    "incorrectAnswers": [
+      "He is Othello's loyal advisor and friend.",
+      "He is a sympathetic figure who is unjustly treated.",
+      "He is a minor character with little impact on the plot."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In Chinua Achebe's \"Things Fall Apart\", what is the significance of the yam barns in Igbo culture?",
+    "correctAnswer": "They represent a man's wealth, status, and success.",
+    "incorrectAnswers": [
+      "They are sacred religious sites.",
+      "They are places of political decision-making.",
+      "They are used for ceremonial purposes only."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

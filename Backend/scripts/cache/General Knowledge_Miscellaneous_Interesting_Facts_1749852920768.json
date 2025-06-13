@@ -1,0 +1,145 @@
+[
+  {
+    "question": "What is the name of the largest ocean on Earth?",
+    "correctAnswer": "Pacific Ocean",
+    "incorrectAnswers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Cleopatra lived closer in time to the invention of which of these?",
+    "correctAnswer": "The iPhone",
+    "incorrectAnswers": [
+      "The printing press",
+      "The Roman Empire",
+      "The Pyramids"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Approximately how many bones does an adult human have?",
+    "correctAnswer": "206",
+    "incorrectAnswers": [
+      "250",
+      "150",
+      "300"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "correctAnswer": "Mars",
+    "incorrectAnswers": [
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What does the acronym 'NASA' stand for?",
+    "correctAnswer": "National Aeronautics and Space Administration",
+    "incorrectAnswers": [
+      "National Aerospace and Space Agency",
+      "North American Space Agency",
+      "National Air and Space Administration"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "How many time zones are there in the world?",
+    "correctAnswer": "24",
+    "incorrectAnswers": [
+      "12",
+      "36",
+      "48"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which planet in our solar system has the most moons?",
+    "correctAnswer": "Saturn",
+    "incorrectAnswers": [
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the largest known prime number (as of late 2023)?",
+    "correctAnswer": "It's constantly changing, but check the official sources for the current largest known Mersenne prime.",
+    "incorrectAnswers": [
+      "2^82,589,933 - 1",
+      "2^74,207,281 - 1",
+      "2^100,000,000 -1"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the phenomenon where the Earth's magnetic poles flip?",
+    "correctAnswer": "Geomagnetic Reversal",
+    "incorrectAnswers": [
+      "Magnetic Shift",
+      "Polar Drift",
+      "Earth's Wobble"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the approximate age of the universe, in years?",
+    "correctAnswer": "13.8 billion",
+    "incorrectAnswers": [
+      "10 billion",
+      "5 billion",
+      "20 billion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "In what year did the first successful powered flight occur?",
+    "correctAnswer": "1903",
+    "incorrectAnswers": [
+      "1890",
+      "1910",
+      "1920"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "incorrectAnswers": [
+      "Monaco",
+      "Nauru",
+      "San Marino"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the collective name for a group of crows?",
+    "correctAnswer": "A murder",
+    "incorrectAnswers": [
+      "A flock",
+      "A gaggle",
+      "A caw"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

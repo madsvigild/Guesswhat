@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which country is home to the most successful football (soccer) club in terms of UEFA Champions League titles?",
+    "correctAnswer": "Spain (Real Madrid)",
+    "incorrectAnswers": [
+      "England",
+      "Italy",
+      "Germany"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What professional team sport uses a puck?",
+    "correctAnswer": "Ice Hockey",
+    "incorrectAnswers": [
+      "Lacrosse",
+      "Field Hockey",
+      "Basketball"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who won the first Super Bowl?",
+    "correctAnswer": "Green Bay Packers",
+    "incorrectAnswers": [
+      "Dallas Cowboys",
+      "Kansas City Chiefs",
+      "Oakland Raiders"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which city do the Los Angeles Lakers play their home games?",
+    "correctAnswer": "Los Angeles",
+    "incorrectAnswers": [
+      "San Francisco",
+      "Sacramento",
+      "Anaheim"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which sport uses a birdie?",
+    "correctAnswer": "Badminton",
+    "incorrectAnswers": [
+      "Tennis",
+      "Golf",
+      "Squash"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the championship series in Major League Baseball?",
+    "correctAnswer": "World Series",
+    "incorrectAnswers": [
+      "Stanley Cup",
+      "NBA Finals",
+      "Super Bowl"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the first ever FIFA Women's World Cup?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "China",
+      "Germany",
+      "Norway"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the professional basketball league in the United States and Canada?",
+    "correctAnswer": "NBA",
+    "incorrectAnswers": [
+      "NFL",
+      "NHL",
+      "MLB"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the most Cricket World Cups?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": [
+      "India",
+      "West Indies",
+      "England"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NFL team has won the most Super Bowls?",
+    "correctAnswer": "Pittsburgh Steelers",
+    "incorrectAnswers": [
+      "Dallas Cowboys",
+      "San Francisco 49ers",
+      "New England Patriots"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which Formula 1 driver holds the record for the most World Championships?",
+    "correctAnswer": "Lewis Hamilton",
+    "incorrectAnswers": [
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Sebastian Vettel"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the annual professional golf tournament played in Augusta, Georgia?",
+    "correctAnswer": "The Masters Tournament",
+    "incorrectAnswers": [
+      "The US Open",
+      "The PGA Championship",
+      "The Open Championship"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In Rugby Union, what is a scrum?",
+    "correctAnswer": "A method of restarting play after a minor infringement",
+    "incorrectAnswers": [
+      "A type of kick",
+      "A defensive formation",
+      "A type of try"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NHL team is known for having the longest active playoff drought?",
+    "correctAnswer": "Arizona Coyotes",
+    "incorrectAnswers": [
+      "Buffalo Sabres",
+      "Ottawa Senators",
+      "Detroit Red Wings"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for most career home runs in MLB history?",
+    "correctAnswer": "Barry Bonds",
+    "incorrectAnswers": [
+      "Hank Aaron",
+      "Babe Ruth",
+      "Albert Pujols"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which Formula 1 team has won the most Constructors' Championships?",
+    "correctAnswer": "Ferrari",
+    "incorrectAnswers": [
+      "McLaren",
+      "Williams",
+      "Mercedes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the highest-scoring individual game in NBA history?",
+    "correctAnswer": "Wilt Chamberlain's 100-point game",
+    "incorrectAnswers": [
+      "Kobe Bryant's 81-point game",
+      "Michael Jordan's 69-point game",
+      "LeBron James' 61-point game"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which professional team sport was the first to have a televised game?",
+    "correctAnswer": "Baseball",
+    "incorrectAnswers": [
+      "Basketball",
+      "Football",
+      "Hockey"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the first official FIFA World Cup take place?",
+    "correctAnswer": "1930",
+    "incorrectAnswers": [
+      "1928",
+      "1932",
+      "1934"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which cricketer holds the record for most Test match centuries?",
+    "correctAnswer": "Sachin Tendulkar",
+    "incorrectAnswers": [
+      "Ricky Ponting",
+      "Brian Lara",
+      "Jacques Kallis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the annual cycling race held in France, considered one of the most prestigious in the world?",
+    "correctAnswer": "Tour de France",
+    "incorrectAnswers": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Paris-Roubaix"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first woman to win the Daytona 500?",
+    "correctAnswer": "Janet Guthrie",
+    "incorrectAnswers": [
+      "Danica Patrick",
+      "Sarah Fisher",
+      "Patty Moise"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NFL team played its home games at the Los Angeles Memorial Coliseum before moving to SoFi Stadium?",
+    "correctAnswer": "Los Angeles Rams",
+    "incorrectAnswers": [
+      "Los Angeles Chargers",
+      "Oakland Raiders",
+      "San Diego Chargers"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the National Women's Hockey League (NWHL) become the Premier Hockey Federation (PHF)?",
+    "correctAnswer": "2021",
+    "incorrectAnswers": [
+      "2019",
+      "2020",
+      "2022"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

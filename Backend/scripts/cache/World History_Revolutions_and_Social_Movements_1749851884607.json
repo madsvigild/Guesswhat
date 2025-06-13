@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which revolution, beginning in 1789, significantly altered the political landscape of Europe and inspired other revolutionary movements worldwide?",
+    "correctAnswer": "The French Revolution",
+    "incorrectAnswers": [
+      "The American Revolution",
+      "The Russian Revolution",
+      "The Glorious Revolution"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What document, adopted in 1776, declared the independence of the thirteen American colonies from Great Britain?",
+    "correctAnswer": "The Declaration of Independence",
+    "incorrectAnswers": [
+      "The Articles of Confederation",
+      "The Magna Carta",
+      "The Bill of Rights"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who led the Bolshevik revolution in Russia, resulting in the establishment of the Soviet Union?",
+    "correctAnswer": "Vladimir Lenin",
+    "incorrectAnswers": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nicholas II"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Civil Rights Movement in the United States primarily aimed to end what form of discrimination?",
+    "correctAnswer": "Racial segregation and discrimination",
+    "incorrectAnswers": [
+      "Religious persecution",
+      "Gender inequality",
+      "Economic disparity"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Salt March, a significant act of civil disobedience, was led by which prominent Indian leader?",
+    "correctAnswer": "Mahatma Gandhi",
+    "incorrectAnswers": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which iconic event symbolized the fall of the Berlin Wall and the end of the Cold War?",
+    "correctAnswer": "The opening of the Berlin Wall",
+    "incorrectAnswers": [
+      "The Cuban Missile Crisis",
+      "The signing of the Helsinki Accords",
+      "The Prague Spring"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Anti-Apartheid Movement primarily fought against what oppressive system in South Africa?",
+    "correctAnswer": "Apartheid",
+    "incorrectAnswers": [
+      "Colonialism",
+      "Imperialism",
+      "Fascism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What movement, beginning in the 1960s, advocated for peace, love, and social change, often associated with psychedelic culture?",
+    "correctAnswer": "The counterculture movement",
+    "incorrectAnswers": [
+      "The hippie movement",
+      "The feminist movement",
+      "The environmental movement"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Suffragette movement primarily fought for what right for women?",
+    "correctAnswer": "The right to vote",
+    "incorrectAnswers": [
+      "Equal pay",
+      "Reproductive rights",
+      "The right to own property"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Tiananmen Square protests of 1989 primarily focused on demands for what?",
+    "correctAnswer": "Greater democracy and freedom of speech",
+    "incorrectAnswers": [
+      "Economic reform",
+      "Religious freedom",
+      "National reunification"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Arab Spring, a series of anti-government protests and uprisings, began in which country in 2010?",
+    "correctAnswer": "Tunisia",
+    "incorrectAnswers": [
+      "Egypt",
+      "Libya",
+      "Syria"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What pivotal event in 1917 triggered the Russian Revolution's success?",
+    "correctAnswer": "The February Revolution",
+    "incorrectAnswers": [
+      "The October Revolution",
+      "The assassination of Rasputin",
+      "The Russo-Japanese War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The May Fourth Movement in China was a reaction against which event?",
+    "correctAnswer": "The Treaty of Versailles",
+    "incorrectAnswers": [
+      "The Boxer Rebellion",
+      "The Taiping Rebellion",
+      "The Sino-Japanese War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which South American revolutionary leader played a key role in liberating several nations from Spanish rule in the early 19th century?",
+    "correctAnswer": "Simón Bolívar",
+    "incorrectAnswers": [
+      "José de San Martín",
+      "Miguel Hidalgo",
+      "Augustín de Iturbide"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Seneca Falls Convention of 1848 is widely considered the start of which major social movement in the United States?",
+    "correctAnswer": "The women's rights movement",
+    "incorrectAnswers": [
+      "The abolitionist movement",
+      "The temperance movement",
+      "The labor movement"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant event in 1968 sparked widespread protests and social unrest across numerous countries?",
+    "correctAnswer": "The assassination of Martin Luther King Jr.",
+    "incorrectAnswers": [
+      "The Prague Spring",
+      "The Tet Offensive",
+      "The Cultural Revolution"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The rise of the Khmer Rouge in Cambodia was marked by which horrific regime and period of genocide?",
+    "correctAnswer": "The Cambodian genocide",
+    "incorrectAnswers": [
+      "The Rwandan genocide",
+      "The Holocaust",
+      "The Armenian genocide"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Green Revolution, beginning in the mid-20th century, primarily focused on increasing what?",
+    "correctAnswer": "Agricultural productivity",
+    "incorrectAnswers": [
+      "Environmental conservation",
+      "Industrial output",
+      "Social equality"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Solidarity movement in Poland, crucial in the fall of communism in Eastern Europe, was primarily led by whom?",
+    "correctAnswer": "Lech Wałęsa",
+    "incorrectAnswers": [
+      "Mikhail Gorbachev",
+      "Ronald Reagan",
+      "Margaret Thatcher"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Zapatista Army of National Liberation (EZLN) launched a rebellion in which country in 1994?",
+    "correctAnswer": "Mexico",
+    "incorrectAnswers": [
+      "Guatemala",
+      "Colombia",
+      "Nicaragua"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The 1979 Iranian Revolution led to the establishment of which type of government?",
+    "correctAnswer": "Theocratic republic",
+    "incorrectAnswers": [
+      "Monarchy",
+      "Secular democracy",
+      "Military dictatorship"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary cause of the Mau Mau Uprising in Kenya during the 1950s?",
+    "correctAnswer": "Land dispossession and racial discrimination by British colonial authorities",
+    "incorrectAnswers": [
+      "Religious conflict",
+      "Tribal warfare",
+      "Economic inequality among Kenyans"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Algerian War of Independence was fought against which colonial power?",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "Spain",
+      "Italy",
+      "Great Britain"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which revolutionary movement, active in the late 19th and early 20th centuries, advocated for the overthrow of Tsarist Russia through violent means?",
+    "correctAnswer": "The Narodnaya Volya",
+    "incorrectAnswers": [
+      "The Mensheviks",
+      "The Constitutional Democrats",
+      "The Socialist Revolutionaries"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Boxer Rebellion, a major uprising in China at the turn of the 20th century, was primarily against which influence?",
+    "correctAnswer": "Foreign imperialism",
+    "incorrectAnswers": [
+      "Internal corruption",
+      "The Qing Dynasty",
+      "Confucianism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

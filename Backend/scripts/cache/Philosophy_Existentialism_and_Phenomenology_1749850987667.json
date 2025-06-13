@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which philosopher is widely considered the father of existentialism?",
+    "correctAnswer": "Søren Kierkegaard",
+    "incorrectAnswers": [
+      "Jean-Paul Sartre",
+      "Friedrich Nietzsche",
+      "Albert Camus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central concept in existentialism that emphasizes individual freedom and responsibility?",
+    "correctAnswer": "Existence precedes essence",
+    "incorrectAnswers": [
+      "Essence precedes existence",
+      "Nihilism",
+      "Determinism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which existentialist philosopher famously wrote 'Being and Nothingness'?",
+    "correctAnswer": "Jean-Paul Sartre",
+    "incorrectAnswers": [
+      "Simone de Beauvoir",
+      "Albert Camus",
+      "Martin Heidegger"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The concept of 'bad faith' is central to the philosophy of which thinker?",
+    "correctAnswer": "Jean-Paul Sartre",
+    "incorrectAnswers": [
+      "Martin Heidegger",
+      "Edmund Husserl",
+      "Maurice Merleau-Ponty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Phenomenology emphasizes the study of what?",
+    "correctAnswer": "Consciousness and experience",
+    "incorrectAnswers": [
+      "The unconscious mind",
+      "Abstract concepts",
+      "Scientific laws"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Who is considered the founder of phenomenology?",
+    "correctAnswer": "Edmund Husserl",
+    "incorrectAnswers": [
+      "Martin Heidegger",
+      "Jean-Paul Sartre",
+      "Maurice Merleau-Ponty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the feeling of absurdity or meaninglessness in a seemingly meaningless universe, often discussed by existentialists?",
+    "correctAnswer": "Absurdism",
+    "incorrectAnswers": [
+      "Nihilism",
+      "Existentialism",
+      "Rationalism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which existentialist novel explores the themes of rebellion and the absurd?",
+    "correctAnswer": "The Stranger by Albert Camus",
+    "incorrectAnswers": [
+      "Nausea by Jean-Paul Sartre",
+      "The Myth of Sisyphus by Albert Camus",
+      "Being and Nothingness by Jean-Paul Sartre"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In existentialist thought, what is the concept of 'angst' or 'anxiety' often associated with?",
+    "correctAnswer": "The freedom and responsibility of choice",
+    "incorrectAnswers": [
+      "Lack of free will",
+      "Conformity to social norms",
+      "Acceptance of fate"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is 'epoche' in phenomenological methodology?",
+    "correctAnswer": "The suspension of judgment about the existence of the external world",
+    "incorrectAnswers": [
+      "Acceptance of scientific truth",
+      "Focus on subjective experience only",
+      "Rejection of all knowledge"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does Sartre's concept of 'being-in-itself' differ from 'being-for-itself'?",
+    "correctAnswer": "Being-in-itself is static and unchanging, while being-for-itself is conscious and free.",
+    "incorrectAnswers": [
+      "They are identical concepts",
+      "Being-in-itself is conscious and free, while being-for-itself is static",
+      "The terms are not relevant to Sartre's work"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the key difference between Husserl's transcendental phenomenology and Heidegger's existential phenomenology.",
+    "correctAnswer": "Husserl focused on the structures of consciousness, while Heidegger emphasized Being and Dasein's engagement with the world.",
+    "incorrectAnswers": [
+      "They are essentially the same",
+      "Husserl was concerned with Being, Heidegger with consciousness",
+      "Heidegger rejected Husserl's work entirely"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of 'Dasein' in Heidegger's philosophy?",
+    "correctAnswer": "It refers to human existence, emphasizing its temporality and engagement with the world.",
+    "incorrectAnswers": [
+      "It's a synonym for 'being'",
+      "It represents pure consciousness",
+      "It's an irrelevant term in existentialism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does Simone de Beauvoir's existentialism differ from Sartre's?",
+    "correctAnswer": "She incorporated feminist perspectives, emphasizing the impact of social structures on women's existence.",
+    "incorrectAnswers": [
+      "They held identical views",
+      "She rejected Sartre's ideas entirely",
+      "Her work lacked philosophical rigor"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept of 'facticity' in existentialist thought?",
+    "correctAnswer": "The givens of our existence, including our past, our body, our social situation.",
+    "incorrectAnswers": [
+      "Our freedom to choose",
+      "Our essential nature",
+      "Our potential for transcendence"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Merleau-Ponty's phenomenology emphasizes which aspect of human experience?",
+    "correctAnswer": "The body's role in shaping perception and understanding of the world.",
+    "incorrectAnswers": [
+      "Pure consciousness devoid of bodily experience",
+      "The dominance of reason over bodily sensations",
+      "The irrelevance of the body to philosophical inquiry"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the concept of 'thrownness' relate to Heidegger's understanding of human existence?",
+    "correctAnswer": "It highlights that we are 'thrown' into the world without choosing our circumstances.",
+    "incorrectAnswers": [
+      "It signifies our absolute freedom",
+      "It's a metaphor for death",
+      "It's unrelated to Heidegger's thought"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the 'gaze' in the context of Merleau-Ponty's phenomenology?",
+    "correctAnswer": "A way of perceiving and being perceived, highlighting the intertwining of subject and object.",
+    "incorrectAnswers": [
+      "A purely subjective experience",
+      "An objective and detached observation",
+      "An irrelevant concept in phenomenology"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the meaning of 'transcendental ego' in Husserl's phenomenology?",
+    "correctAnswer": "The pure consciousness that constitutes the conditions for all experience.",
+    "incorrectAnswers": [
+      "The unconscious mind",
+      "The individual self",
+      "The external world"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the influence of Kierkegaard's 'leap of faith' on later existentialist thought.",
+    "correctAnswer": "It emphasized the importance of subjective commitment and the possibility of belief despite the lack of rational proof.",
+    "incorrectAnswers": [
+      "It was completely rejected by later existentialists",
+      "It had minimal impact on subsequent existential thought",
+      "It promoted a purely rational approach to faith"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Compare and contrast the concepts of authenticity and inauthenticity in Sartre's and Heidegger's philosophies.",
+    "correctAnswer": "Both emphasize the importance of self-awareness and responsible engagement with the world, but differ in their emphasis on freedom versus Being.",
+    "incorrectAnswers": [
+      "They use the terms identically",
+      "Heidegger's concept is purely ontological, Sartre's purely ethical",
+      "The concepts are mutually exclusive"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Analyze the relationship between phenomenology and existentialism, highlighting points of convergence and divergence.",
+    "correctAnswer": "Phenomenology provides a method for investigating lived experience, while existentialism uses this to explore themes of freedom, responsibility, and existence.",
+    "incorrectAnswers": [
+      "They are completely separate schools of thought",
+      "Existentialism is a rejection of phenomenology",
+      "Phenomenology is a subset of existentialism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the concept of 'intersubjectivity' play a role in Merleau-Ponty's phenomenology?",
+    "correctAnswer": "It highlights the mutual recognition and understanding between individuals through shared bodily experiences and perception.",
+    "incorrectAnswers": [
+      "It's irrelevant to Merleau-Ponty",
+      "It emphasizes isolated subjective experience",
+      "It's a purely objective concept"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Critically evaluate the influence of Eastern philosophical traditions, such as Buddhism, on the development of existentialist thought.",
+    "correctAnswer": "Concepts like impermanence, suffering, and the search for meaning resonate with existential themes but differ in their emphasis on transcendence versus immanence.",
+    "incorrectAnswers": [
+      "Eastern thought had no influence on existentialism",
+      "Eastern and Western philosophies are entirely incompatible",
+      "Existentialism is a direct derivative of Buddhism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

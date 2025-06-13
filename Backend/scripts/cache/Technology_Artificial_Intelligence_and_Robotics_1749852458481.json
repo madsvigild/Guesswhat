@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Which company developed the Roomba robotic vacuum cleaner?",
+    "correctAnswer": "iRobot",
+    "incorrectAnswers": [
+      "Samsung",
+      "LG",
+      "Sony"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which test assesses a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human?",
+    "correctAnswer": "Turing Test",
+    "incorrectAnswers": [
+      "Von Neumann Test",
+      "Lovelace Test",
+      "Shannon Test"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Siri, Alexa, and Google Assistant are examples of what type of AI?",
+    "correctAnswer": "Virtual Assistants",
+    "incorrectAnswers": [
+      "Expert Systems",
+      "Robotics",
+      "Machine Learning Algorithms"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The concept of a 'singularity' in AI refers to:",
+    "correctAnswer": "A hypothetical point where AI surpasses human intelligence",
+    "incorrectAnswers": [
+      "The merging of human and artificial intelligence",
+      "The creation of self-replicating robots",
+      "The development of artificial general intelligence"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the humanoid robot developed by Boston Dynamics known for its impressive parkour abilities?",
+    "correctAnswer": "Atlas",
+    "incorrectAnswers": [
+      "Spot",
+      "Handle",
+      "BigDog"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What type of learning algorithm allows AI systems to learn from data without explicit programming?",
+    "correctAnswer": "Machine Learning",
+    "incorrectAnswers": [
+      "Symbolic Reasoning",
+      "Rule-Based Systems",
+      "Expert Systems"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the primary function of a convolutional neural network (CNN)?",
+    "correctAnswer": "Image recognition and processing",
+    "incorrectAnswers": [
+      "Natural language processing",
+      "Robotics control",
+      "Data mining"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "In robotics, what does 'degrees of freedom' refer to?",
+    "correctAnswer": "The number of independent movements a robot can make",
+    "incorrectAnswers": [
+      "The robot's processing speed",
+      "The robot's power source",
+      "The robot's memory capacity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a common concern regarding the ethical implications of AI?",
+    "correctAnswer": "Bias in algorithms leading to unfair or discriminatory outcomes",
+    "incorrectAnswers": [
+      "Lack of creativity in AI systems",
+      "Excessive reliance on human input",
+      "The high cost of AI development"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is 'reinforcement learning' in the context of AI?",
+    "correctAnswer": "An AI learns through trial and error by receiving rewards and penalties",
+    "incorrectAnswers": [
+      "An AI learns by observing human behavior",
+      "An AI learns by analyzing large datasets",
+      "An AI learns through direct programming"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which AI technique focuses on creating systems that can understand, interpret, and generate human language?",
+    "correctAnswer": "Natural Language Processing (NLP)",
+    "incorrectAnswers": [
+      "Computer Vision",
+      "Robotics",
+      "Machine Learning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a recurrent neural network (RNN) particularly well-suited for?",
+    "correctAnswer": "Processing sequential data like text and time series",
+    "incorrectAnswers": [
+      "Image classification",
+      "Game playing",
+      "Robotics control"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised machine learning?",
+    "correctAnswer": "Supervised learning uses labeled data, while unsupervised learning uses unlabeled data.",
+    "incorrectAnswers": [
+      "Supervised learning is faster, unsupervised is more accurate.",
+      "Supervised learning is for robots, unsupervised is for AI.",
+      "They are the same thing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does GAN stand for in the context of AI, and what is its main function?",
+    "correctAnswer": "Generative Adversarial Network; generating new data instances that resemble the training data",
+    "incorrectAnswers": [
+      "General Artificial Network; general-purpose AI",
+      "Graphical Artificial Network; image processing",
+      "Guided Artificial Network; supervised learning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the concept of a 'robot operating system' (ROS).",
+    "correctAnswer": "A flexible framework of software libraries and tools that simplifies the development of complex robot behaviors.",
+    "incorrectAnswers": [
+      "A specific type of robot controller",
+      "An operating system exclusively for robotic arms",
+      "A programming language for robots"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a significant challenge in developing truly autonomous vehicles?",
+    "correctAnswer": "Handling unpredictable situations and edge cases not present in training data.",
+    "incorrectAnswers": [
+      "The high cost of sensors",
+      "Lack of powerful enough processors",
+      "Insufficient battery technology"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Describe the difference between symbolic AI and connectionist AI.",
+    "correctAnswer": "Symbolic AI uses logic and rules, while connectionist AI (neural networks) uses interconnected nodes.",
+    "incorrectAnswers": [
+      "Symbolic AI is outdated, connectionist AI is superior",
+      "They are the same thing",
+      "Symbolic AI is faster, connectionist AI is more accurate"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is 'explainable AI' (XAI) and why is it important?",
+    "correctAnswer": "XAI focuses on creating AI systems whose decision-making processes are transparent and understandable; crucial for building trust and ensuring accountability.",
+    "incorrectAnswers": [
+      "A type of AI that can teach humans",
+      "AI that operates at extremely fast speeds",
+      "AI that can solve any problem"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the 'backpropagation' algorithm in neural networks?",
+    "correctAnswer": "It's an algorithm used to train neural networks by adjusting the weights of connections based on the error in the output.",
+    "incorrectAnswers": [
+      "It's a data compression algorithm",
+      "It's a type of neural network architecture",
+      "It's used for network security"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a key difference between a traditional expert system and a modern machine learning approach to AI?",
+    "correctAnswer": "Expert systems rely on explicitly programmed rules, while machine learning systems learn patterns from data.",
+    "incorrectAnswers": [
+      "Expert systems are more accurate",
+      "Machine learning requires less data",
+      "They are functionally identical"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "In the context of AI safety, what is the problem of 'value alignment'?",
+    "correctAnswer": "Ensuring that an AI's goals and actions align with human values and intentions, preventing unintended consequences.",
+    "incorrectAnswers": [
+      "Ensuring AI systems are energy-efficient",
+      "Preventing AI systems from accessing the internet",
+      "Making AI systems more user-friendly"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the role of 'transfer learning' in AI development?",
+    "correctAnswer": "Using knowledge gained from solving one problem to improve performance on a related task, saving time and resources.",
+    "incorrectAnswers": [
+      "Transferring data between different AI systems",
+      "Transferring AI algorithms to different hardware",
+      "Transferring AI systems between different countries"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a common challenge faced in the development of humanoid robots?",
+    "correctAnswer": "Mimicking the dexterity, adaptability, and robustness of the human body.",
+    "incorrectAnswers": [
+      "Finding appropriate power sources",
+      "Developing suitable programming languages",
+      "Designing aesthetically pleasing robots"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which ethical theory emphasizes the consequences of actions to determine their morality?",
+    "correctAnswer": "Consequentialism",
+    "incorrectAnswers": [
+      "Deontology",
+      "Virtue Ethics",
+      "Existentialism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The Golden Rule, advocating treating others as you wish to be treated, is a cornerstone principle of which ethical framework?",
+    "correctAnswer": "Many ethical systems",
+    "incorrectAnswers": [
+      "Only Utilitarianism",
+      "Only Deontology",
+      "Only Virtue Ethics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher is most closely associated with the concept of the categorical imperative?",
+    "correctAnswer": "Immanuel Kant",
+    "incorrectAnswers": [
+      "John Stuart Mill",
+      "Aristotle",
+      "Confucius"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the ethical theory that focuses on developing virtuous character traits?",
+    "correctAnswer": "Virtue Ethics",
+    "incorrectAnswers": [
+      "Utilitarianism",
+      "Deontology",
+      "Egoism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which ancient Greek philosopher is considered the founder of Western ethics?",
+    "correctAnswer": "Socrates",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "Epicurus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Utilitarianism aims to maximize what?",
+    "correctAnswer": "Overall happiness or well-being",
+    "incorrectAnswers": [
+      "Individual rights",
+      "Moral duties",
+      "Personal virtue"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "The concept of 'ahimsa,' meaning non-violence, is central to which ethical tradition?",
+    "correctAnswer": "Jainism and Buddhism",
+    "incorrectAnswers": [
+      "Confucianism",
+      "Taoism",
+      "Stoicism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the main focus of ethical egoism?",
+    "correctAnswer": "Self-interest",
+    "incorrectAnswers": [
+      "Altruism",
+      "Universal happiness",
+      "Social justice"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher greatly influenced the development of modern political philosophy through his work on the social contract?",
+    "correctAnswer": "John Locke",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "Hobbes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central concept in Kantian ethics?",
+    "correctAnswer": "Categorical Imperative",
+    "incorrectAnswers": [
+      "Greatest Happiness Principle",
+      "Golden Mean",
+      "Ethical Egoism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the difference between act utilitarianism and rule utilitarianism.",
+    "correctAnswer": "Act utilitarianism judges each action based on its consequences, while rule utilitarianism judges actions based on whether they follow rules that generally maximize happiness.",
+    "incorrectAnswers": [
+      "They are the same.",
+      "Act utilitarianism is more concerned with rules.",
+      "Rule utilitarianism is more concerned with individual actions."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the concept of moral relativism challenge universal ethical principles?",
+    "correctAnswer": "Moral relativism suggests that morality is subjective and dependent on cultural norms, contradicting the idea of universally applicable ethical standards.",
+    "incorrectAnswers": [
+      "Moral relativism supports universal ethical principles.",
+      "Moral relativism is irrelevant to ethical debates.",
+      "Moral relativism is a form of ethical egoism."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Describe the concept of 'the veil of ignorance' as proposed by John Rawls.",
+    "correctAnswer": "A hypothetical scenario where individuals choose principles of justice without knowing their future social position or advantages.",
+    "incorrectAnswers": [
+      "A metaphorical barrier between different cultures.",
+      "A veil concealing the true nature of morality.",
+      "A strategy for deception in political negotiations."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Compare and contrast the ethical philosophies of Aristotle and Immanuel Kant.",
+    "correctAnswer": "Aristotle focused on virtue ethics (character development), while Kant emphasized deontology (duty and rules).  Both aimed for moral action, but through different approaches.",
+    "incorrectAnswers": [
+      "They held identical views.",
+      "Aristotle was a consequentialist, Kant a utilitarian.",
+      "Their philosophies are unrelated."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the role of emotions in ethical decision-making, referencing at least one philosophical perspective.",
+    "correctAnswer": "Some argue emotions are crucial for moral judgments (e.g., sentimentalism), while others prioritize reason.  However, even rationalist approaches acknowledge the influence of emotions, albeit indirectly.",
+    "incorrectAnswers": [
+      "Emotions are entirely irrelevant to ethics.",
+      "Emotions always lead to immoral actions.",
+      "Only reason determines moral action."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the Trolley Problem in ethical thought?",
+    "correctAnswer": "It's a thought experiment illustrating the conflict between deontological and consequentialist approaches to ethical dilemmas involving harm.",
+    "incorrectAnswers": [
+      "It proves consequentialism is superior.",
+      "It disproves the existence of morality.",
+      "It's a historical event."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'care ethics' and its critique of traditional ethical frameworks.",
+    "correctAnswer": "Care ethics emphasizes relationships and responsibilities towards others, challenging the impartiality and abstract reasoning often found in traditional theories like deontology and utilitarianism.",
+    "incorrectAnswers": [
+      "Care ethics is a form of egoism.",
+      "Care ethics is identical to virtue ethics.",
+      "Care ethics has no criticisms of traditional ethics."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does Nietzsche's concept of the 'will to power' relate to his critique of traditional morality?",
+    "correctAnswer": "Nietzsche saw traditional morality as a 'slave morality' that suppressed the life-affirming 'will to power,' a drive for self-overcoming and mastery.",
+    "incorrectAnswers": [
+      "Nietzsche supported traditional morality.",
+      "The 'will to power' is a purely political concept.",
+      "Nietzsche's concept had no effect on ethics."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between meta-ethics and normative ethics?",
+    "correctAnswer": "Meta-ethics examines the nature of morality itself (e.g., what is goodness?), while normative ethics explores principles for determining right and wrong action.",
+    "incorrectAnswers": [
+      "They are identical.",
+      "Meta-ethics dictates moral actions, normative ethics does not.",
+      "They are unrelated branches of philosophy."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Articulate the core tenets of Confucian ethics and its emphasis on social harmony.",
+    "correctAnswer": "Confucianism prioritizes ren (benevolence), li (ritual propriety), and xiao (filial piety) to foster harmonious relationships and social order.",
+    "incorrectAnswers": [
+      "Confucianism is solely focused on individual morality.",
+      "Confucianism rejects social hierarchy.",
+      "Confucianism is a purely religious system."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the ethical implications of artificial intelligence, particularly concerning algorithmic bias.",
+    "correctAnswer": "Algorithmic bias in AI systems can perpetuate and amplify existing societal inequalities, raising ethical concerns about fairness, accountability, and transparency.",
+    "incorrectAnswers": [
+      "AI poses no ethical challenges.",
+      "Algorithmic bias is easily solved.",
+      "AI ethics is only a concern for computer scientists."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Analyze the challenges posed by existentialist ethics to traditional moral frameworks.",
+    "correctAnswer": "Existentialism emphasizes individual freedom and responsibility, challenging the notion of pre-determined moral rules or objective values, creating a focus on authentic self-creation and subjective meaning.",
+    "incorrectAnswers": [
+      "Existentialism fully supports traditional ethics.",
+      "Existentialism is a purely theoretical philosophy.",
+      "Existentialism has no ethical implications."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Compare and contrast the ethical frameworks of deontology and virtue ethics in their approach to professional ethics, particularly within the medical field.",
+    "correctAnswer": "Deontology emphasizes adherence to professional codes and duties, while virtue ethics focuses on cultivating virtuous character traits (e.g., compassion, integrity) among medical professionals. Both contribute to ethical medical practice, but with different emphases.",
+    "incorrectAnswers": [
+      "They are identical.",
+      "Deontology is irrelevant to medical ethics.",
+      "Virtue ethics is only applicable to personal, not professional life."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explore the ethical considerations surrounding genetic engineering and its potential impact on human evolution.",
+    "correctAnswer": "Genetic engineering raises profound ethical questions about altering the human germline, impacting future generations, and the potential for exacerbating social inequalities.",
+    "incorrectAnswers": [
+      "Genetic engineering poses no ethical problems.",
+      "The impact on human evolution is negligible.",
+      "Ethical considerations are only relevant after widespread application."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'moral luck' and its implications for assessing moral responsibility.",
+    "correctAnswer": "Moral luck refers to cases where the moral worth of an action depends on factors beyond the agent's control (e.g., luck, circumstance), challenging traditional notions of responsibility.",
+    "incorrectAnswers": [
+      "Moral luck is irrelevant to moral responsibility.",
+      "Moral luck is easily accounted for in moral judgment.",
+      "Moral luck is a minor philosophical issue."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

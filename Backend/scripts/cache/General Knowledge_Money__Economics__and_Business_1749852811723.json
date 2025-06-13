@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What does GDP stand for in economics?",
+    "correctAnswer": "Gross Domestic Product",
+    "incorrectAnswers": [
+      "Gross Domestic Progress",
+      "Global Domestic Product",
+      "General Development Program"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the central bank of the United States?",
+    "correctAnswer": "The Federal Reserve",
+    "incorrectAnswers": [
+      "The Bank of America",
+      "The World Bank",
+      "The Treasury Department"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What does 'IPO' stand for in the context of the stock market?",
+    "correctAnswer": "Initial Public Offering",
+    "incorrectAnswers": [
+      "International Public Offering",
+      "Initial Private Offering",
+      "Incorporated Public Organization"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which currency is used in Japan?",
+    "correctAnswer": "Yen",
+    "incorrectAnswers": [
+      "Yuan",
+      "Won",
+      "Rupee"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for a period of sustained economic decline?",
+    "correctAnswer": "Recession",
+    "incorrectAnswers": [
+      "Inflation",
+      "Depression",
+      "Deflation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the main function of a stock exchange?",
+    "correctAnswer": "To facilitate the buying and selling of company shares",
+    "incorrectAnswers": [
+      "To regulate banking activity",
+      "To print currency",
+      "To set interest rates"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What does the acronym 'BRICS' represent in global economics?",
+    "correctAnswer": "Brazil, Russia, India, China, South Africa",
+    "incorrectAnswers": [
+      "Britain, Russia, Indonesia, Canada, Spain",
+      "Brazil, Romania, Italy, Canada, South Korea",
+      "Belgium, Russia, India, China, Sweden"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a common term for a sudden, significant drop in the value of a currency?",
+    "correctAnswer": "Devaluation",
+    "incorrectAnswers": [
+      "Inflation",
+      "Appreciation",
+      "Deflation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a budget deficit?",
+    "correctAnswer": "When a government spends more money than it receives in revenue",
+    "incorrectAnswers": [
+      "When a government spends less money than it receives in revenue",
+      "When a company makes a profit",
+      "When a country exports more than it imports"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name for a tax levied on goods and services?",
+    "correctAnswer": "Sales tax (or Value Added Tax/VAT)",
+    "incorrectAnswers": [
+      "Income tax",
+      "Property tax",
+      "Corporate tax"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What economic theory suggests that government intervention in the economy should be minimal?",
+    "correctAnswer": "Laissez-faire economics",
+    "incorrectAnswers": [
+      "Keynesian economics",
+      "Marxist economics",
+      "Monetarism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the 'invisible hand' in Adam Smith's economic theory?",
+    "correctAnswer": "The self-regulating nature of the marketplace",
+    "incorrectAnswers": [
+      "Government intervention",
+      "Central bank control",
+      "Market manipulation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a 'bear market' in finance?",
+    "correctAnswer": "A prolonged period of falling stock prices",
+    "incorrectAnswers": [
+      "A prolonged period of rising stock prices",
+      "A period of high inflation",
+      "A period of low unemployment"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is arbitrage in finance?",
+    "correctAnswer": "Profiting from price differences of the same asset in different markets",
+    "incorrectAnswers": [
+      "Investing in high-risk stocks",
+      "Short selling",
+      "Diversifying investments"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a derivative in finance?",
+    "correctAnswer": "A financial contract whose value is derived from an underlying asset",
+    "incorrectAnswers": [
+      "A type of stock",
+      "A bond",
+      "A commodity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the purpose of a balance sheet in accounting?",
+    "correctAnswer": "To show a company's assets, liabilities, and equity at a specific point in time",
+    "incorrectAnswers": [
+      "To show a company's cash flow",
+      "To show a company's profits and losses",
+      "To show a company's market share"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What economic indicator measures the change in prices paid by consumers for goods and services?",
+    "correctAnswer": "Consumer Price Index (CPI)",
+    "incorrectAnswers": [
+      "Producer Price Index (PPI)",
+      "Gross Domestic Product (GDP)",
+      "Unemployment rate"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the 'Phillips curve' in economics?",
+    "correctAnswer": "A supposed inverse relationship between inflation and unemployment",
+    "incorrectAnswers": [
+      "A direct relationship between inflation and unemployment",
+      "A measure of economic growth",
+      "A measure of income inequality"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a 'hedging' strategy in finance?",
+    "correctAnswer": "Reducing risk by taking a position that offsets potential losses",
+    "incorrectAnswers": [
+      "Increasing risk to maximize potential gains",
+      "Diversifying investments",
+      "Investing only in safe assets"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is quantitative easing (QE)?",
+    "correctAnswer": "A monetary policy where a central bank injects liquidity into money markets by purchasing assets.",
+    "incorrectAnswers": [
+      "Raising interest rates",
+      "Lowering taxes",
+      "Increasing government spending"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Who is considered the father of modern economics?",
+    "correctAnswer": "Adam Smith",
+    "incorrectAnswers": [
+      "Karl Marx",
+      "John Maynard Keynes",
+      "David Ricardo"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the Gini coefficient used to measure?",
+    "correctAnswer": "Income inequality",
+    "incorrectAnswers": [
+      "Inflation",
+      "Economic growth",
+      "Unemployment"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a 'Ponzi scheme'?",
+    "correctAnswer": "A fraudulent investment operation that pays returns to investors from their own money or the money paid by subsequent investors.",
+    "incorrectAnswers": [
+      "A legitimate investment strategy",
+      "A type of insurance",
+      "A form of tax evasion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the efficient market hypothesis?",
+    "correctAnswer": "The theory that asset prices fully reflect all available information.",
+    "incorrectAnswers": [
+      "The theory that asset prices are always undervalued",
+      "The theory that asset prices are always overvalued",
+      "The theory that asset prices are completely unpredictable"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which company launched the first iPhone?",
+    "correctAnswer": "Apple",
+    "incorrectAnswers": [
+      "Samsung",
+      "Google",
+      "Nokia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'SMS' stand for in mobile communication?",
+    "correctAnswer": "Short Message Service",
+    "incorrectAnswers": [
+      "Simple Messaging System",
+      "Short Mail Service",
+      "Secure Message System"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which operating system is primarily used on iPhones?",
+    "correctAnswer": "iOS",
+    "incorrectAnswers": [
+      "Android",
+      "Windows Phone",
+      "BlackBerry OS"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of Google's mobile operating system?",
+    "correctAnswer": "Android",
+    "incorrectAnswers": [
+      "iOS",
+      "Windows Mobile",
+      "BlackBerry OS"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which mobile payment system is associated with Apple?",
+    "correctAnswer": "Apple Pay",
+    "incorrectAnswers": [
+      "Google Pay",
+      "Samsung Pay",
+      "PayPal"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the term 'app' stand for in the context of mobile technology?",
+    "correctAnswer": "Application",
+    "incorrectAnswers": [
+      "Accessory",
+      "Attachment",
+      "Add-on"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the primary function of a mobile device's accelerometer?",
+    "correctAnswer": "To detect orientation and movement",
+    "incorrectAnswers": [
+      "To measure temperature",
+      "To manage battery life",
+      "To control screen brightness"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology enables smartphones to connect to the internet wirelessly?",
+    "correctAnswer": "Wi-Fi",
+    "incorrectAnswers": [
+      "Bluetooth",
+      "NFC",
+      "Ethernet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which feature allows users to unlock their phones using their fingerprints?",
+    "correctAnswer": "Fingerprint sensor",
+    "incorrectAnswers": [
+      "Voice recognition",
+      "Facial recognition",
+      "PIN code"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the term 'mobile app' refer to?",
+    "correctAnswer": "Software application designed for mobile devices",
+    "incorrectAnswers": [
+      "A type of hardware",
+      "A mobile phone accessory",
+      "A specific type of phone case"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the 'Rosetta Stone' in the context of mobile operating systems?",
+    "correctAnswer": "It allows iOS apps to run on Apple Silicon Macs",
+    "incorrectAnswers": [
+      "It's a security protocol for Android",
+      "It's a type of mobile processor",
+      "It's a defunct mobile OS"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a significant difference between native and hybrid mobile apps?",
+    "correctAnswer": "Native apps are built for a specific OS, while hybrid apps can run on multiple OSes",
+    "incorrectAnswers": [
+      "Native apps are always free, while hybrid apps are paid",
+      "Native apps are less secure than hybrid apps",
+      "Hybrid apps are always faster than native apps"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology enables contactless payments on smartphones?",
+    "correctAnswer": "Near Field Communication (NFC)",
+    "incorrectAnswers": [
+      "Bluetooth",
+      "Wi-Fi",
+      "Infrared"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the purpose of a mobile device's GPS?",
+    "correctAnswer": "To determine the device's location using satellites",
+    "incorrectAnswers": [
+      "To manage cellular data usage",
+      "To control the screen's brightness",
+      "To encrypt data"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does API stand for in the context of mobile app development?",
+    "correctAnswer": "Application Programming Interface",
+    "incorrectAnswers": [
+      "Application Processing Interface",
+      "Advanced Programming Interface",
+      "Application Protocol Interface"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a significant societal impact of widespread mobile phone adoption?",
+    "correctAnswer": "Increased social connectivity and global communication",
+    "incorrectAnswers": [
+      "A decrease in global literacy rates",
+      "A significant reduction in overall economic productivity",
+      "A complete halt to face-to-face communication"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a major privacy concern related to mobile app usage?",
+    "correctAnswer": "Collection and use of personal data",
+    "incorrectAnswers": [
+      "App incompatibility",
+      "App store fees",
+      "Mobile data limitations"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the role of a mobile device's SIM card?",
+    "correctAnswer": "It identifies the subscriber on a mobile network",
+    "incorrectAnswers": [
+      "It stores photos and videos",
+      "It controls the device's operating system",
+      "It manages the device's battery power"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology is used to power the always-on display feature in some smartphones?",
+    "correctAnswer": "Low-temperature polysilicon (LTPS) or OLED technology",
+    "incorrectAnswers": [
+      "LCD technology",
+      "Incandescent lighting",
+      "Standard LED technology"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the Qualcomm Snapdragon processor in the mobile technology industry?",
+    "correctAnswer": "It's a leading mobile system-on-a-chip (SoC) platform",
+    "incorrectAnswers": [
+      "A type of mobile operating system",
+      "A mobile app development framework",
+      "A mobile security protocol"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the technical term for the process of converting analog signals into digital data in a mobile device?",
+    "correctAnswer": "Analog-to-digital conversion (ADC)",
+    "incorrectAnswers": [
+      "Digital-to-analog conversion (DAC)",
+      "Frequency modulation (FM)",
+      "Amplitude modulation (AM)"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the difference between a mobile device's RAM and ROM.",
+    "correctAnswer": "RAM is volatile memory used for running apps, ROM is non-volatile memory storing the OS and firmware.",
+    "incorrectAnswers": [
+      "RAM stores the operating system, ROM stores user data",
+      "RAM is faster than ROM only in Android devices",
+      "Both RAM and ROM are volatile memory"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the 'Carrier Aggregation' technology in 4G and 5G networks?",
+    "correctAnswer": "It combines multiple frequency bands to increase bandwidth and speed",
+    "incorrectAnswers": [
+      "It improves battery life",
+      "It increases security",
+      "It reduces signal latency only in specific regions"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a key difference between LTE and 5G cellular technologies beyond speed?",
+    "correctAnswer": "5G utilizes higher frequency bands and a more complex network architecture",
+    "incorrectAnswers": [
+      "LTE is more secure than 5G",
+      "LTE uses more bandwidth than 5G",
+      "5G is only compatible with specific devices"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a major challenge in the development of truly immersive augmented reality (AR) mobile applications?",
+    "correctAnswer": "Accurate and robust real-time 3D environment mapping and object recognition",
+    "incorrectAnswers": [
+      "High energy consumption of AR apps",
+      "Lack of developer interest",
+      "Limited consumer adoption of AR technology"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

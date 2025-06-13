@@ -1,0 +1,266 @@
+[
+  {
+    "question": "In Egyptian mythology, who is the god of the underworld?",
+    "correctAnswer": "Osiris",
+    "incorrectAnswers": [
+      "Ra",
+      "Horus",
+      "Thoth"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What creature, often depicted as a winged lion, is prominent in Mesopotamian mythology?",
+    "correctAnswer": "Lamassu",
+    "incorrectAnswers": [
+      "Sphinx",
+      "Griffin",
+      "Phoenix"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Yoruba mythology, who is the supreme creator god?",
+    "correctAnswer": "Olodumare",
+    "incorrectAnswers": [
+      "Shango",
+      "Oya",
+      "Eshu"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Egyptian sun god often depicted with a hawk's head?",
+    "correctAnswer": "Ra",
+    "incorrectAnswers": [
+      "Anubis",
+      "Set",
+      "Ptah"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Babylonian deity is known as the goddess of love, beauty, and war?",
+    "correctAnswer": "Ishtar",
+    "incorrectAnswers": [
+      "Inanna",
+      "Shamash",
+      "Ninhursag"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mythical bird, associated with rebirth and the sun, features prominently in Egyptian mythology?",
+    "correctAnswer": "Phoenix",
+    "incorrectAnswers": [
+      "Anubis",
+      "Bastet",
+      "Serket"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In many African mythologies, what role do trickster figures often play?",
+    "correctAnswer": "To disrupt order and challenge authority",
+    "incorrectAnswers": [
+      "To maintain cosmic balance",
+      "To guide heroes on quests",
+      "To protect the innocent"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which god in ancient Egyptian mythology judged the souls of the dead?",
+    "correctAnswer": "Anubis",
+    "incorrectAnswers": [
+      "Thoth",
+      "Osiris",
+      "Horus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the serpent associated with chaos and destruction in Egyptian mythology?",
+    "correctAnswer": "Apep",
+    "incorrectAnswers": [
+      "Isis",
+      "Seth",
+      "Horus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the Epic of Gilgamesh, what is the name of the plant that grants immortality, which is ultimately lost?",
+    "correctAnswer": "The plant of rejuvenation",
+    "incorrectAnswers": [
+      "The flower of life",
+      "The tree of knowledge",
+      "The fruit of immortality"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the significance of the Ankh symbol in ancient Egyptian mythology?",
+    "correctAnswer": "It represents life and eternity",
+    "incorrectAnswers": [
+      "Death and rebirth",
+      "Royal power",
+      "Fertility and prosperity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Yoruba mythology, what is the significance of the divination system known as Ifa?",
+    "correctAnswer": "It is used to communicate with the Orishas and gain insight into the future",
+    "incorrectAnswers": [
+      "It is used for medicinal purposes",
+      "It is a form of martial art",
+      "It is a system of social hierarchy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the sun-disk deity worshipped in ancient Egypt, often depicted as a winged sun?",
+    "correctAnswer": "Aten",
+    "incorrectAnswers": [
+      "Ra-Horakhty",
+      "Horus",
+      "Amun"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In some African creation myths, what is often cited as the origin of humanity?",
+    "correctAnswer": "The earth or a specific natural element",
+    "incorrectAnswers": [
+      "Extraterrestrial beings",
+      "A divine creator alone",
+      "A celestial event like a supernova"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Mesopotamian goddess is associated with wisdom, writing, and magic?",
+    "correctAnswer": "Ninsun",
+    "incorrectAnswers": [
+      "Ishtar",
+      "Inanna",
+      "Ereshkigal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What important role does the Nile River play in many ancient Egyptian myths?",
+    "correctAnswer": "It's the source of life, fertility, and a vital element of the cosmos",
+    "incorrectAnswers": [
+      "A barrier between the living and the dead",
+      "A pathway to the underworld",
+      "A symbol of chaos and destruction"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Egyptian god is often depicted as a jackal-headed figure, associated with mummification and the afterlife?",
+    "correctAnswer": "Anubis",
+    "incorrectAnswers": [
+      "Thoth",
+      "Osiris",
+      "Horus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the context of Egyptian mythology, what is a 'Book of the Dead'?",
+    "correctAnswer": "A collection of spells and prayers intended to guide the deceased through the afterlife",
+    "incorrectAnswers": [
+      "A historical record of pharaohs",
+      "A magical artifact granting immortality",
+      "A collection of hymns to the gods"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What lesser-known Egyptian deity is associated with healing and medicine?",
+    "correctAnswer": "Sekhmet",
+    "incorrectAnswers": [
+      "Isis",
+      "Thoth",
+      "Bes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In ancient Egyptian mythology, what was the significance of the weighing of the heart ceremony?",
+    "correctAnswer": "To determine if a person's heart was lighter than a feather, signifying worthiness for the afterlife",
+    "incorrectAnswers": [
+      "To assess a person's physical strength",
+      "To predict the future",
+      "To determine social status"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the powerful, protective amulet often depicted as a scarab beetle, revered in ancient Egypt?",
+    "correctAnswer": "Scarab",
+    "incorrectAnswers": [
+      "Eye of Horus",
+      "Ankh",
+      "Was Scepter"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Identify the specific type of  ancient Egyptian funerary text found on sarcophagi and coffin lids, distinct from the Book of the Dead.",
+    "correctAnswer": "Coffin Texts",
+    "incorrectAnswers": [
+      "Pyramid Texts",
+      "Temple Texts",
+      "Funerary Hymns"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Dogon mythology, what is the significance of the Nommo figures?",
+    "correctAnswer": "They are amphibious beings, creators of humanity, and mediators between the heavens and earth.",
+    "incorrectAnswers": [
+      "Powerful sorcerers",
+      "Ancient kings",
+      "Spirits of the ancestors"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which lesser-known West African deity is associated with the ironworking craft and is sometimes considered a trickster figure?",
+    "correctAnswer": "Ogun",
+    "incorrectAnswers": [
+      "Oshun",
+      "Shango",
+      "Eshu"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

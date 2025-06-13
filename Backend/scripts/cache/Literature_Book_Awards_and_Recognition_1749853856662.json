@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which prestigious award is given annually for outstanding literary achievement in the United Kingdom and the Commonwealth?",
+    "correctAnswer": "The Booker Prize",
+    "incorrectAnswers": [
+      "The Pulitzer Prize",
+      "The Nobel Prize in Literature",
+      "The National Book Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What American award, established in 1917, recognizes distinguished fiction, non-fiction, poetry, and drama?",
+    "correctAnswer": "The Pulitzer Prize",
+    "incorrectAnswers": [
+      "The Newberry Award",
+      "The Hugo Award",
+      "The Booker Prize"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award is specifically for children's literature in the United States?",
+    "correctAnswer": "The Newbery Medal",
+    "incorrectAnswers": [
+      "The Caldecott Medal",
+      "The Printz Award",
+      "The Coretta Scott King Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award honors the best illustrated children's book published in the United States?",
+    "correctAnswer": "The Caldecott Medal",
+    "incorrectAnswers": [
+      "The Newbery Medal",
+      "The Pura Belpré Award",
+      "The Kate Greenaway Medal"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Toni Morrison's groundbreaking novel, *Beloved*, won which prestigious literary award?",
+    "correctAnswer": "The Pulitzer Prize",
+    "incorrectAnswers": [
+      "The National Book Award",
+      "The Booker Prize",
+      "The Hugo Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award is given for outstanding achievement in science fiction and fantasy literature?",
+    "correctAnswer": "The Hugo Award",
+    "incorrectAnswers": [
+      "The Nebula Award",
+      "The Bram Stoker Award",
+      "The World Fantasy Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award, often considered the highest honor in American literature, is presented by the American Academy of Arts and Letters?",
+    "correctAnswer": "The William Dean Howells Medal",
+    "incorrectAnswers": [
+      "The National Book Award",
+      "The Pulitzer Prize",
+      "The PEN/Faulkner Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Gabriel García Márquez's *One Hundred Years of Solitude* initially won which major literary prize?",
+    "correctAnswer": "The Rómulo Gallegos Prize",
+    "incorrectAnswers": [
+      "The Nobel Prize in Literature",
+      "The Miguel de Cervantes Prize",
+      "The Booker Prize"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which prestigious French literary award is often compared to the Booker Prize in its influence and prestige?",
+    "correctAnswer": "The Prix Goncourt",
+    "incorrectAnswers": [
+      "The Prix Femina",
+      "The Grand Prix du roman de l'Académie française",
+      "The Prix Médicis"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Name the award given annually by the American Library Association for the most distinguished contribution to American literature for children.",
+    "correctAnswer": "The Newbery Medal",
+    "incorrectAnswers": [
+      "The Caldecott Medal",
+      "The Coretta Scott King Award",
+      "The Pura Belpré Award"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award, established in 1936, honors the year's best work of fiction written by an American author?",
+    "correctAnswer": "The National Book Award for Fiction",
+    "incorrectAnswers": [
+      "The Pulitzer Prize for Fiction",
+      "The PEN/Faulkner Award",
+      "The Dayton Literary Peace Prize"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "While not a solely literary award, which prize often recognizes authors for their contributions to world literature?",
+    "correctAnswer": "The Nobel Prize in Literature",
+    "incorrectAnswers": [
+      "The Pulitzer Prize",
+      "The Booker Prize",
+      "The National Book Award"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award, presented by the Poetry Society of America, is a significant recognition for American poets?",
+    "correctAnswer": "The Frost Medal",
+    "incorrectAnswers": [
+      "The Pulitzer Prize for Poetry",
+      "The National Book Award for Poetry",
+      "The T.S. Eliot Prize"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Besides the Booker Prize, what other prestigious UK literary award is given annually for fiction?",
+    "correctAnswer": "The Costa Book Award",
+    "incorrectAnswers": [
+      "The Goldsmiths Prize",
+      "The Baileys Women's Prize for Fiction",
+      "The Dylan Thomas Prize"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What literary award, established in 1961, is given to an author for a first novel of outstanding merit?",
+    "correctAnswer": "The Somerset Maugham Award",
+    "incorrectAnswers": [
+      "The Betty Trask Award",
+      "The Encore Award",
+      "The Guardian First Book Award"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award, presented by the Royal Society of Literature, recognizes a body of work of exceptional literary merit by a writer of the Commonwealth?",
+    "correctAnswer": "The Queen's Gold Medal for Poetry",
+    "incorrectAnswers": [
+      "The Cholmondeley Award",
+      "The Forward Prize for Poetry",
+      "The Griffin Poetry Prize"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award is specifically dedicated to recognizing outstanding works of translated literature in the United States?",
+    "correctAnswer": "The Best Translated Book Award",
+    "incorrectAnswers": [
+      "The International IMPAC Dublin Literary Award",
+      "The Independent Foreign Fiction Prize",
+      "The Man Booker International Prize"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Established in 1992, which literary award focuses specifically on recognizing works of literary fiction in the English language, irrespective of the author's nationality?",
+    "correctAnswer": "The Man Booker International Prize (currently the International Booker Prize)",
+    "incorrectAnswers": [
+      "The Booker Prize",
+      "The IMPAC Dublin Literary Award",
+      "The Commonwealth Writers' Prize"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Japanese literary award, established in 1935, is one of the most prestigious in Japan, often considered their equivalent of the Nobel Prize?",
+    "correctAnswer": "The Tanizaki Jun'ichirō Prize",
+    "incorrectAnswers": [
+      "The Akutagawa Prize",
+      "The Naoki Prize",
+      "The Yomiuri Prize"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What award, given for lifetime achievement in children's literature, is named after a renowned illustrator?",
+    "correctAnswer": "The Kate Greenaway Medal",
+    "incorrectAnswers": [
+      "The Newbery Medal",
+      "The Caldecott Medal",
+      "The Hans Christian Andersen Award"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award, celebrating excellence in science fiction and fantasy, is presented by the Science Fiction and Fantasy Writers of America?",
+    "correctAnswer": "The Nebula Award",
+    "incorrectAnswers": [
+      "The Hugo Award",
+      "The World Fantasy Award",
+      "The Bram Stoker Award"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award focuses specifically on books that promote peace and understanding between people and nations?",
+    "correctAnswer": "The Dayton Literary Peace Prize",
+    "incorrectAnswers": [
+      "The Nobel Peace Prize",
+      "The National Book Award",
+      "The Pulitzer Prize"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which award is given annually for the best first novel written by an author who is a citizen or resident of the United States?",
+    "correctAnswer": "The PEN/Hemingway Award",
+    "incorrectAnswers": [
+      "The PEN/Faulkner Award",
+      "The Whiting Award",
+      "The Orange Prize"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which prestigious literary award is given for works of poetry published in the previous year by a British or Irish poet?",
+    "correctAnswer": "The T.S. Eliot Prize",
+    "incorrectAnswers": [
+      "The Forward Prize for Poetry",
+      "The Griffin Poetry Prize",
+      "The Pulitzer Prize for Poetry"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  }
+]

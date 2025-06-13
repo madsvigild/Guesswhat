@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which famous poet penned the line, \"Shall I compare thee to a summer's day?\"",
+    "correctAnswer": "William Shakespeare",
+    "incorrectAnswers": [
+      "John Milton",
+      "Edmund Spenser",
+      "Christopher Marlowe"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'The Raven'?",
+    "correctAnswer": "Edgar Allan Poe",
+    "incorrectAnswers": [
+      "H.P. Lovecraft",
+      "Nathaniel Hawthorne",
+      "Henry Wadsworth Longfellow"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the famous collection of poems by Walt Whitman?",
+    "correctAnswer": "Leaves of Grass",
+    "incorrectAnswers": [
+      "Song of Myself",
+      "O Captain! My Captain!",
+      "When Lilacs Last in the Dooryard Bloom'd"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Romantic poet famously wrote 'I wandered lonely as a cloud'?",
+    "correctAnswer": "William Wordsworth",
+    "incorrectAnswers": [
+      "Lord Byron",
+      "Percy Bysshe Shelley",
+      "John Keats"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which poet is associated with the Harlem Renaissance?",
+    "correctAnswer": "Langston Hughes",
+    "incorrectAnswers": [
+      "Robert Frost",
+      "Emily Dickinson",
+      "Ernest Hemingway"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which female poet is known for her exploration of nature and death?",
+    "correctAnswer": "Emily Dickinson",
+    "incorrectAnswers": [
+      "Sylvia Plath",
+      "Maya Angelou",
+      "Anne Sexton"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'The Canterbury Tales,' a collection of stories in verse?",
+    "correctAnswer": "Geoffrey Chaucer",
+    "incorrectAnswers": [
+      "William Langland",
+      "John Gower",
+      "Thomas Malory"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which poet is famous for their work 'The Waste Land'?",
+    "correctAnswer": "T.S. Eliot",
+    "incorrectAnswers": [
+      "Ezra Pound",
+      "W.B. Yeats",
+      "James Joyce"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of Pablo Neruda's famous collection of love poems?",
+    "correctAnswer": "Twenty Love Poems and a Song of Despair",
+    "incorrectAnswers": [
+      "The Captain's Verses",
+      "Residence on Earth",
+      "Elemental Odes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which renowned poet wrote 'The Love Song of J. Alfred Prufrock'?",
+    "correctAnswer": "T.S. Eliot",
+    "incorrectAnswers": [
+      "Robert Frost",
+      "Ezra Pound",
+      "Wallace Stevens"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' famously uses what kind of meter?",
+    "correctAnswer": "Iambic tetrameter",
+    "incorrectAnswers": [
+      "Iambic pentameter",
+      "Trochaic octameter",
+      "Spondaic hexameter"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the central theme explored in Sylvia Plath's 'Daddy'?",
+    "correctAnswer": "A complex relationship with her father and the legacy of trauma",
+    "incorrectAnswers": [
+      "Celebration of motherhood",
+      "Ode to nature's beauty",
+      "Exploration of romantic love"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which movement is associated with poets like William Blake, William Wordsworth, and Samuel Taylor Coleridge?",
+    "correctAnswer": "Romanticism",
+    "incorrectAnswers": [
+      "Metaphysical poetry",
+      "Victorian poetry",
+      "Modernism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which poet wrote 'Ozymandias,' a sonnet about the ephemeral nature of power?",
+    "correctAnswer": "Percy Bysshe Shelley",
+    "incorrectAnswers": [
+      "Lord Byron",
+      "John Keats",
+      "William Wordsworth"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What form of poetry is traditionally associated with Japanese culture and typically contains 17 syllables?",
+    "correctAnswer": "Haiku",
+    "incorrectAnswers": [
+      "Tanka",
+      "Rondeau",
+      "Sonnet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which poet is known for their use of free verse and confessional poetry?",
+    "correctAnswer": "Sylvia Plath",
+    "incorrectAnswers": [
+      "Elizabeth Barrett Browning",
+      "Christina Rossetti",
+      "Emily Dickinson"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the poetic form consisting of 14 lines and a specific rhyme scheme?",
+    "correctAnswer": "Sonnet",
+    "incorrectAnswers": [
+      "Haiku",
+      "Limerick",
+      "Ode"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which contemporary poet is known for their work 'The Wild Swans at Coole Park'?",
+    "correctAnswer": "William Butler Yeats",
+    "incorrectAnswers": [
+      "Seamus Heaney",
+      "W.H. Auden",
+      "Dylan Thomas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which poet heavily influenced the Beat Generation with their work 'Howl'?",
+    "correctAnswer": "Allen Ginsberg",
+    "incorrectAnswers": [
+      "Jack Kerouac",
+      "William S. Burroughs",
+      "Neal Cassady"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which 17th-century metaphysical poet wrote 'The Flea'?",
+    "correctAnswer": "John Donne",
+    "incorrectAnswers": [
+      "Andrew Marvell",
+      "George Herbert",
+      "John Milton"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the lengthy, narrative poem by Lord Byron about the exiled Don Juan?",
+    "correctAnswer": "Don Juan",
+    "incorrectAnswers": [
+      "Childe Harold's Pilgrimage",
+      "Manfred",
+      "Cain"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which lesser-known but influential Modernist poet penned the collection 'Paterson'?",
+    "correctAnswer": "William Carlos Williams",
+    "incorrectAnswers": [
+      "Wallace Stevens",
+      "Ezra Pound",
+      "H.D."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which female poet, known for her surrealist style, wrote 'The Unicorn'?",
+    "correctAnswer": "H.D. (Hilda Doolittle)",
+    "incorrectAnswers": [
+      "Marianne Moore",
+      "Amy Lowell",
+      "Edna St. Vincent Millay"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The 'Imagist' movement was closely associated with which early 20th-century poets?",
+    "correctAnswer": "Ezra Pound, H.D., and Amy Lowell",
+    "incorrectAnswers": [
+      "T.S. Eliot, William Carlos Williams, and Wallace Stevens",
+      "Robert Frost, Edna St. Vincent Millay, and Elinor Wylie",
+      "W.B. Yeats, A.E. Housman, and Thomas Hardy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which African American poet, a central figure of the Black Arts Movement, is known for 'For Malcolm, X'?",
+    "correctAnswer": "Nikki Giovanni",
+    "incorrectAnswers": [
+      "Gwendolyn Brooks",
+      "Maya Angelou",
+      "Amiri Baraka"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

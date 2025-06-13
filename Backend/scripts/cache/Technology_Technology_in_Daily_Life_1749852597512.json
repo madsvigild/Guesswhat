@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What everyday device uses GPS technology to provide directions and location services?",
+    "correctAnswer": "Smartphone",
+    "incorrectAnswers": [
+      "Smartwatch",
+      "Laptop",
+      "Tablet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which social media platform is known for its short-form video content?",
+    "correctAnswer": "TikTok",
+    "incorrectAnswers": [
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology allows you to wirelessly connect devices to the internet?",
+    "correctAnswer": "Wi-Fi",
+    "incorrectAnswers": [
+      "Bluetooth",
+      "Ethernet",
+      "USB"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What operating system is predominantly used on Apple smartphones?",
+    "correctAnswer": "iOS",
+    "incorrectAnswers": [
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the widely used web browser developed by Google?",
+    "correctAnswer": "Chrome",
+    "incorrectAnswers": [
+      "Firefox",
+      "Safari",
+      "Edge"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology enables contactless payments using smartphones or smartwatches?",
+    "correctAnswer": "NFC (Near Field Communication)",
+    "incorrectAnswers": [
+      "Bluetooth",
+      "Wi-Fi",
+      "RFID"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the primary function of a CPU in a computer?",
+    "correctAnswer": "Processing information",
+    "incorrectAnswers": [
+      "Storing data",
+      "Displaying output",
+      "Connecting to the internet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which technology allows for voice-activated commands and virtual assistants?",
+    "correctAnswer": "Speech Recognition",
+    "incorrectAnswers": [
+      "Biometrics",
+      "Facial Recognition",
+      "OCR"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What type of storage device is typically used for saving large amounts of data?",
+    "correctAnswer": "Hard Drive",
+    "incorrectAnswers": [
+      "RAM",
+      "ROM",
+      "Cache"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'URL' stand for in the context of the internet?",
+    "correctAnswer": "Uniform Resource Locator",
+    "incorrectAnswers": [
+      "Universal Resource Link",
+      "Uniform Resource Location",
+      "Unique Resource Locator"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the term for unsolicited bulk email messages?",
+    "correctAnswer": "Spam",
+    "incorrectAnswers": [
+      "Phishing",
+      "Malware",
+      "Virus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology allows users to access and manipulate digital content remotely using a variety of devices?",
+    "correctAnswer": "Cloud Computing",
+    "incorrectAnswers": [
+      "Data Mining",
+      "Big Data",
+      "Artificial Intelligence"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the technology that uses algorithms to learn from data and improve its performance over time?",
+    "correctAnswer": "Machine Learning",
+    "incorrectAnswers": [
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'IoT' stand for in the context of interconnected devices?",
+    "correctAnswer": "Internet of Things",
+    "incorrectAnswers": [
+      "Internet of Technology",
+      "Interconnected Objects Technology",
+      "Interactive Online Technology"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What type of malicious software is designed to replicate itself and spread to other computers without the user's knowledge?",
+    "correctAnswer": "Virus",
+    "incorrectAnswers": [
+      "Trojan",
+      "Worm",
+      "Spyware"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology utilizes a network of interconnected computers to solve complex problems that would be difficult for a single computer to handle?",
+    "correctAnswer": "Distributed Computing",
+    "incorrectAnswers": [
+      "Cloud Computing",
+      "Parallel Processing",
+      "Grid Computing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the technology that uses radio waves to transmit data wirelessly over short distances?",
+    "correctAnswer": "Bluetooth",
+    "incorrectAnswers": [
+      "Wi-Fi",
+      "Zigbee",
+      "Z-Wave"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the process of converting analog signals into digital signals called?",
+    "correctAnswer": "Analog-to-digital conversion",
+    "incorrectAnswers": [
+      "Digital-to-analog conversion",
+      "Modulation",
+      "Demodulation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology uses biometrics to verify a user's identity?",
+    "correctAnswer": "Biometric Authentication",
+    "incorrectAnswers": [
+      "Two-factor authentication",
+      "Password authentication",
+      "CAPTCHA"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What early computing device used punch cards for input?",
+    "correctAnswer": "Jacquard Loom",
+    "incorrectAnswers": [
+      "Abacus",
+      "Analytical Engine",
+      "Difference Engine"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the algorithm that powers many search engines, ranking web pages based on their relevance and authority?",
+    "correctAnswer": "PageRank",
+    "incorrectAnswers": [
+      "Google Search Algorithm",
+      "BackRub",
+      "Hyperlink-Induced Topic Search"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a 'blockchain' in the context of cryptocurrency and distributed ledger technology?",
+    "correctAnswer": "A shared, immutable ledger of transactions",
+    "incorrectAnswers": [
+      "A type of cryptocurrency",
+      "A form of encryption",
+      "A decentralized database"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the difference between RAM and ROM in computer systems?",
+    "correctAnswer": "RAM is volatile (data is lost when power is off), while ROM is non-volatile (data persists even when power is off)",
+    "incorrectAnswers": [
+      "RAM is faster than ROM, ROM is used for long-term storage",
+      "RAM is for processing, ROM is for storage",
+      "RAM is read-only, ROM is read-write"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What groundbreaking technology, developed in the 1960s, revolutionized the processing and transmission of digital data using integrated circuits?",
+    "correctAnswer": "Integrated Circuit (IC) or Microchip",
+    "incorrectAnswers": [
+      "Transistor",
+      "Vacuum Tube",
+      "Microprocessor"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the term for the process of using algorithms to analyze large datasets and identify patterns or trends?",
+    "correctAnswer": "Data Mining",
+    "incorrectAnswers": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Deep Learning"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

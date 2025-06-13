@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What does CPU stand for in computer science?",
+    "correctAnswer": "Central Processing Unit",
+    "incorrectAnswers": [
+      "Central Power Unit",
+      "Computer Processing Unit",
+      "Command Processing Unit"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which programming language is known for its use in web development and is renowned for its ease of use?",
+    "correctAnswer": "JavaScript",
+    "incorrectAnswers": [
+      "Python",
+      "C++",
+      "Java"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does RAM stand for in computer terminology?",
+    "correctAnswer": "Random Access Memory",
+    "incorrectAnswers": [
+      "Read Access Memory",
+      "Random Address Memory",
+      "Ready Access Memory"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which operating system is primarily developed by Apple?",
+    "correctAnswer": "macOS",
+    "incorrectAnswers": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the programming language developed by Google known for its focus on data science and machine learning?",
+    "correctAnswer": "Python",
+    "incorrectAnswers": [
+      "Java",
+      "C#",
+      "JavaScript"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'HTML' stand for in web development?",
+    "correctAnswer": "HyperText Markup Language",
+    "incorrectAnswers": [
+      "Hyperlink Text Markup Language",
+      "High Text Markup Language",
+      "HyperText Machine Language"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the term for a self-contained piece of code that performs a specific task within a larger program?",
+    "correctAnswer": "Function",
+    "incorrectAnswers": [
+      "Variable",
+      "Class",
+      "Algorithm"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who is widely considered to be the father of computer science?",
+    "correctAnswer": "Charles Babbage",
+    "incorrectAnswers": [
+      "Alan Turing",
+      "Ada Lovelace",
+      "Bill Gates"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the binary representation of the decimal number 10?",
+    "correctAnswer": "1010",
+    "incorrectAnswers": [
+      "1000",
+      "1001",
+      "1100"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'SQL' stand for in database management?",
+    "correctAnswer": "Structured Query Language",
+    "incorrectAnswers": [
+      "Statistical Query Language",
+      "Simple Query Language",
+      "Structured Query Logic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the purpose of a compiler in computer science?",
+    "correctAnswer": "To translate source code into machine code",
+    "incorrectAnswers": [
+      "To debug code",
+      "To run code",
+      "To design algorithms"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the difference between a while loop and a for loop in programming.",
+    "correctAnswer": "A while loop repeats a block of code as long as a condition is true, while a for loop iterates over a sequence (like a list or array) or executes a set number of times.",
+    "incorrectAnswers": [
+      "They are functionally identical.",
+      "While loops are faster, for loops are easier to read.",
+      "For loops are only used with numbers."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is an algorithm in computer science?",
+    "correctAnswer": "A step-by-step procedure or formula for solving a problem or accomplishing a task.",
+    "incorrectAnswers": [
+      "A programming language",
+      "A type of data structure",
+      "A computer program"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the role of an operating system in a computer system?",
+    "correctAnswer": "To manage hardware and software resources, providing a platform for applications to run.",
+    "incorrectAnswers": [
+      "To write software applications",
+      "To store data",
+      "To connect to the internet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does OOP stand for in the context of programming paradigms?",
+    "correctAnswer": "Object-Oriented Programming",
+    "incorrectAnswers": [
+      "Open-Source Programming",
+      "Out-of-Place Programming",
+      "Order-Oriented Programming"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a 'binary tree' in computer science?",
+    "correctAnswer": "A tree data structure where each node has at most two children, referred to as the left child and the right child.",
+    "incorrectAnswers": [
+      "A type of database",
+      "A network topology",
+      "A sorting algorithm"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the purpose of version control systems like Git?",
+    "correctAnswer": "To track changes to source code over time, facilitating collaboration and allowing for easy rollback to previous versions.",
+    "incorrectAnswers": [
+      "To encrypt code",
+      "To compile code",
+      "To test code"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the difference between a 'stack' and a 'queue' data structure?",
+    "correctAnswer": "A stack follows the LIFO (Last-In, First-Out) principle, while a queue follows the FIFO (First-In, First-Out) principle.",
+    "incorrectAnswers": [
+      "They are both FIFO structures.",
+      "They are both LIFO structures.",
+      "Stacks are used for sorting, queues are not."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a software development methodology that emphasizes iterative development, testing, and collaboration?",
+    "correctAnswer": "Agile",
+    "incorrectAnswers": [
+      "Waterfall",
+      "Spiral",
+      "RAD"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the Turing Test in the field of artificial intelligence?",
+    "correctAnswer": "It assesses a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.",
+    "incorrectAnswers": [
+      "To measure processing speed",
+      "To evaluate memory capacity",
+      "To test programming skills"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is Von Neumann architecture and why is it significant?",
+    "correctAnswer": "A computer architecture where data and instructions are stored in the same memory space, enabling efficient program execution.",
+    "incorrectAnswers": [
+      "A type of parallel processing",
+      "A network architecture",
+      "An outdated design"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the concept of 'Big O' notation in algorithm analysis.",
+    "correctAnswer": "A mathematical notation describing the limiting behavior of a function when the argument tends towards a particular value or infinity, used to classify algorithms by how their runtime or space requirements grow as the input size grows.",
+    "incorrectAnswers": [
+      "A type of data structure",
+      "A programming language",
+      "A measure of code complexity"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a 'cache' in computer architecture, and how does it improve performance?",
+    "correctAnswer": "A smaller, faster memory that stores frequently accessed data, reducing the time it takes to retrieve information from slower main memory.",
+    "incorrectAnswers": [
+      "A type of operating system",
+      "A programming language feature",
+      "A type of network"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the 'Halting Problem' in computer science?",
+    "correctAnswer": "It proves that it's impossible to create a general algorithm that can determine whether an arbitrary program will eventually halt or run forever.",
+    "incorrectAnswers": [
+      "It's a problem easily solved by modern computers",
+      "It only applies to specific programming languages",
+      "It's irrelevant to modern computing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Describe the concept of 'recursion' in programming and give a simple example.",
+    "correctAnswer": "A technique where a function calls itself within its own definition, often used to solve problems that can be broken down into smaller, self-similar subproblems.  Example: calculating a factorial.",
+    "incorrectAnswers": [
+      "A type of loop",
+      "A data structure",
+      "A type of error handling"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

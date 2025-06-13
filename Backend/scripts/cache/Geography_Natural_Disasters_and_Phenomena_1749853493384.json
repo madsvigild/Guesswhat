@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which country is most frequently hit by typhoons?",
+    "correctAnswer": "Philippines",
+    "incorrectAnswers": [
+      "Japan",
+      "China",
+      "Vietnam"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of natural disaster is most associated with the Ring of Fire?",
+    "correctAnswer": "Earthquakes and Volcanoes",
+    "incorrectAnswers": [
+      "Hurricanes",
+      "Floods",
+      "Droughts"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Sahara Desert is located on which continent?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": [
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country is home to the Atacama Desert, one of the driest places on Earth?",
+    "correctAnswer": "Chile",
+    "incorrectAnswers": [
+      "Peru",
+      "Argentina",
+      "Bolivia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geographical feature is largely responsible for the monsoon season in South Asia?",
+    "correctAnswer": "Himalayas",
+    "incorrectAnswers": [
+      "Ganges River",
+      "Deccan Plateau",
+      "Arabian Sea"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which major river is frequently associated with devastating floods in Bangladesh?",
+    "correctAnswer": "Ganges River",
+    "incorrectAnswers": [
+      "Yangtze River",
+      "Amazon River",
+      "Nile River"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What natural disaster is commonly associated with the formation of tsunamis?",
+    "correctAnswer": "Undersea Earthquakes",
+    "incorrectAnswers": [
+      "Volcanic Eruptions",
+      "Landslides",
+      "Hurricanes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country is known for its frequent occurrences of wildfires due to its unique Mediterranean climate?",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": [
+      "Canada",
+      "United States",
+      "Brazil"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the tectonic plate largely responsible for the seismic activity in Japan?",
+    "correctAnswer": "Pacific Plate",
+    "incorrectAnswers": [
+      "North American Plate",
+      "Eurasian Plate",
+      "African Plate"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which continent experiences the most frequent and intense tornadoes?",
+    "correctAnswer": "North America",
+    "incorrectAnswers": [
+      "Europe",
+      "Asia",
+      "Australia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Dust Bowl of the 1930s primarily affected which region of the United States?",
+    "correctAnswer": "Great Plains",
+    "incorrectAnswers": [
+      "Northeast",
+      "Southeast",
+      "Southwest"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geographical factor contributes significantly to the severity of flooding in the Netherlands?",
+    "correctAnswer": "Low-lying land and sea level rise",
+    "incorrectAnswers": [
+      "High rainfall",
+      "Lack of drainage systems",
+      "Deforestation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range is largely responsible for the rain shadow effect causing arid conditions in parts of Eastern Washington state?",
+    "correctAnswer": "Cascade Range",
+    "incorrectAnswers": [
+      "Rocky Mountains",
+      "Sierra Nevada",
+      "Appalachian Mountains"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What specific type of volcanic eruption is characterized by pyroclastic flows, posing significant danger to nearby populations?",
+    "correctAnswer": "Plinian eruption",
+    "incorrectAnswers": [
+      "Hawaiian eruption",
+      "Strombolian eruption",
+      "Vulcanian eruption"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The 1986 Chernobyl disaster resulted in widespread contamination of what geographical region?",
+    "correctAnswer": "Pripyat and surrounding areas of Ukraine and Belarus",
+    "incorrectAnswers": [
+      "Southern Russia",
+      "Poland",
+      "Romania"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which region is most vulnerable to desertification due to climate change and unsustainable land management practices?",
+    "correctAnswer": "Sahel region of Africa",
+    "incorrectAnswers": [
+      "Amazon rainforest",
+      "Mediterranean basin",
+      "Siberian taiga"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geographical phenomenon is responsible for the unique and diverse ecosystems found in the Galapagos Islands?",
+    "correctAnswer": "Ocean currents and volcanic activity",
+    "incorrectAnswers": [
+      "High altitude",
+      "Tropical climate",
+      "Glaciation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which specific type of glacier is responsible for creating U-shaped valleys?",
+    "correctAnswer": "Alpine glacier",
+    "incorrectAnswers": [
+      "Continental glacier",
+      "Piedmont glacier",
+      "Valley glacier"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geological formation is largely responsible for the high incidence of earthquakes in Nepal?",
+    "correctAnswer": "The collision of the Indian and Eurasian tectonic plates",
+    "incorrectAnswers": [
+      "Volcanic activity",
+      "Subduction zones",
+      "Fault lines in the Himalayas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The 2004 Indian Ocean tsunami was triggered by an undersea earthquake off the coast of which island?",
+    "correctAnswer": "Sumatra",
+    "incorrectAnswers": [
+      "Java",
+      "Borneo",
+      "Bali"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the large-scale, long-term climate pattern characterized by unusually warm surface temperatures in the eastern tropical Pacific Ocean?",
+    "correctAnswer": "El Niño",
+    "incorrectAnswers": [
+      "La Niña",
+      "Southern Oscillation",
+      "Monsoon"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What specific type of mass wasting event involves the rapid movement of a cohesive mass of soil and rock down a slope?",
+    "correctAnswer": "Landslide",
+    "incorrectAnswers": [
+      "Debris flow",
+      "Rockfall",
+      "Creep"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which geographical area is particularly vulnerable to lahars, dangerous volcanic mudflows?",
+    "correctAnswer": "Volcanic slopes near rivers or glacial meltwater",
+    "incorrectAnswers": [
+      "Coastal plains",
+      "Desert regions",
+      "High-altitude plateaus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The formation of sinkholes is primarily associated with which type of bedrock?",
+    "correctAnswer": "Limestone",
+    "incorrectAnswers": [
+      "Granite",
+      "Basalt",
+      "Sandstone"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What specific type of climate is most conducive to the formation of permafrost?",
+    "correctAnswer": "High-latitude, subarctic climates",
+    "incorrectAnswers": [
+      "Tropical rainforest climates",
+      "Mediterranean climates",
+      "Temperate climates"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

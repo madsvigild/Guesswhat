@@ -1,0 +1,244 @@
+[
+  {
+    "question": "Which river is the longest in the world?",
+    "correctAnswer": "Amazon River",
+    "incorrectAnswers": [
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Grand Canyon is a prominent feature of which US state?",
+    "correctAnswer": "Arizona",
+    "incorrectAnswers": [
+      "California",
+      "Colorado",
+      "Utah"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the longest river in Europe?",
+    "correctAnswer": "Volga River",
+    "incorrectAnswers": [
+      "Danube River",
+      "Rhine River",
+      "Don River"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Niagara Falls is located on the border of which two countries?",
+    "correctAnswer": "United States and Canada",
+    "incorrectAnswers": [
+      "Canada and Mexico",
+      "United States and Mexico",
+      "Canada and Greenland"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which famous desert features the Sahara's Erg Chebbi dunes?",
+    "correctAnswer": "Sahara Desert",
+    "incorrectAnswers": [
+      "Arabian Desert",
+      "Gobi Desert",
+      "Namib Desert"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the largest freshwater lake in the world by surface area?",
+    "correctAnswer": "Lake Superior",
+    "incorrectAnswers": [
+      "Lake Victoria",
+      "Lake Michigan",
+      "Caspian Sea"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range is home to the Matterhorn?",
+    "correctAnswer": "Alps",
+    "incorrectAnswers": [
+      "Pyrenees",
+      "Carpathians",
+      "Apennines"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Okavango Delta is a unique inland river delta located in which African country?",
+    "correctAnswer": "Botswana",
+    "incorrectAnswers": [
+      "Namibia",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of natural feature is the Great Barrier Reef?",
+    "correctAnswer": "Coral reef",
+    "incorrectAnswers": [
+      "Volcanic island chain",
+      "Sand dune system",
+      "Mangrove forest"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which river forms the border between Argentina and Uruguay?",
+    "correctAnswer": "Uruguay River",
+    "incorrectAnswers": [
+      "Parana River",
+      "Amazon River",
+      "Rio de la Plata"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range contains the highest peak in the contiguous United States?",
+    "correctAnswer": "Alaska Range",
+    "incorrectAnswers": [
+      "Rocky Mountains",
+      "Sierra Nevada",
+      "Appalachian Mountains"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the large canyon system carved by the Colorado River in Utah?",
+    "correctAnswer": "Canyonlands",
+    "incorrectAnswers": [
+      "Zion Canyon",
+      "Bryce Canyon",
+      "Grand Canyon (Arizona)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which significant river flows through the Amazon rainforest?",
+    "correctAnswer": "Amazon River",
+    "incorrectAnswers": [
+      "Orinoco River",
+      "Paraná River",
+      "Negro River"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geological process primarily forms fjords?",
+    "correctAnswer": "Glacial erosion",
+    "incorrectAnswers": [
+      "Volcanic activity",
+      "Tectonic plate movement",
+      "River erosion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "In which country is the world's largest known cave system, the Sistema Huautla?",
+    "correctAnswer": "Mexico",
+    "incorrectAnswers": [
+      "China",
+      "United States",
+      "Malaysia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a Karst landscape primarily characterized by?",
+    "correctAnswer": "Limestone formations and caves",
+    "incorrectAnswers": [
+      "Volcanic activity",
+      "Glacial erosion",
+      "Sand dunes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the highest mountain in the Himalayas?",
+    "correctAnswer": "Mount Everest",
+    "incorrectAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range is home to the world's highest peak outside of Asia?",
+    "correctAnswer": "Andes Mountains",
+    "incorrectAnswers": [
+      "Rocky Mountains",
+      "Alps",
+      "Himalayas"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a meandering river?",
+    "correctAnswer": "A river with many curves and bends",
+    "incorrectAnswers": [
+      "A river flowing straight",
+      "A river with many tributaries",
+      "A river with a very fast current"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the deepest lake in the world?",
+    "correctAnswer": "Lake Baikal",
+    "incorrectAnswers": [
+      "Caspian Sea",
+      "Lake Tanganyika",
+      "Lake Superior"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What causes the phenomenon of a 'hanging valley' in mountainous regions?",
+    "correctAnswer": "Glacial erosion of a tributary valley",
+    "incorrectAnswers": [
+      "Tectonic uplift",
+      "Volcanic activity",
+      "River erosion"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which mountain range forms the backbone of the Italian peninsula?",
+    "correctAnswer": "Apennines",
+    "incorrectAnswers": [
+      "Alps",
+      "Pyrenees",
+      "Carpathians"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

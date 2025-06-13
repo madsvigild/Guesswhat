@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which painting technique involves applying layers of paint to create depth and luminosity?",
+    "correctAnswer": "Glazing",
+    "incorrectAnswers": [
+      "Sgraffito",
+      "Impasto",
+      "Frottage"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the primary binder in tempera paint?",
+    "correctAnswer": "Egg yolk",
+    "incorrectAnswers": [
+      "Linseed oil",
+      "Water",
+      "Acrylic resin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What sculpting technique involves building a form by adding material, such as clay?",
+    "correctAnswer": "Additive Sculpture",
+    "incorrectAnswers": [
+      "Subtractive Sculpture",
+      "Casting",
+      "Assemblage"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What type of paint is known for its quick-drying properties and vibrant colors?",
+    "correctAnswer": "Acrylic",
+    "incorrectAnswers": [
+      "Oil paint",
+      "Watercolor",
+      "Gouache"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the process of creating a three-dimensional form from a mold?",
+    "correctAnswer": "Casting",
+    "incorrectAnswers": [
+      "Carving",
+      "Modeling",
+      "Assemblage"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which art technique involves scratching into a surface to reveal a contrasting layer beneath?",
+    "correctAnswer": "Sgraffito",
+    "incorrectAnswers": [
+      "Encaustic",
+      "Fresco",
+      "Mosaic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name for a painting technique where pigment is mixed with a water-soluble binder?",
+    "correctAnswer": "Watercolor",
+    "incorrectAnswers": [
+      "Oil painting",
+      "Tempera",
+      "Acrylic"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the traditional method of painting on freshly applied plaster?",
+    "correctAnswer": "Fresco",
+    "incorrectAnswers": [
+      "Encaustic",
+      "Tempera",
+      "Gouache"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the main pigment used in creating ultramarine blue?",
+    "correctAnswer": "Lapis Lazuli",
+    "incorrectAnswers": [
+      "Azurite",
+      "Cobalt",
+      "Indigo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which technique involves rubbing a crayon or charcoal over paper placed on a textured surface?",
+    "correctAnswer": "Frottage",
+    "incorrectAnswers": [
+      "Pochoir",
+      "Collograph",
+      "Monotype"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name for the process of applying thin, translucent layers of paint over a base layer, allowing light to pass through?",
+    "correctAnswer": "Glazing",
+    "incorrectAnswers": [
+      "Scumbling",
+      "Impasto",
+      "Dry Brushing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "In printmaking, what technique involves carving into a surface to create a raised design that is then inked and printed?",
+    "correctAnswer": "Relief Printing",
+    "incorrectAnswers": [
+      "Intaglio",
+      "Lithography",
+      "Screen Printing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What ancient painting technique uses heated wax mixed with pigment?",
+    "correctAnswer": "Encaustic",
+    "incorrectAnswers": [
+      "Fresco",
+      "Tempera",
+      "Gouache"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which type of sculpture is created by subtracting material from a larger block?",
+    "correctAnswer": "Subtractive Sculpture",
+    "incorrectAnswers": [
+      "Additive Sculpture",
+      "Assemblage",
+      "Casting"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the process of creating a stencil by cutting away parts of a sheet of material?",
+    "correctAnswer": "Pochoir",
+    "incorrectAnswers": [
+      "Serigraphy",
+      "Lithography",
+      "Woodcut"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the technique of applying paint thickly to create texture and form?",
+    "correctAnswer": "Impasto",
+    "incorrectAnswers": [
+      "Sfumato",
+      "Glazing",
+      "Scumbling"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "In what type of printmaking is an image created by drawing on a flat stone or metal plate with a greasy substance?",
+    "correctAnswer": "Lithography",
+    "incorrectAnswers": [
+      "Woodcut",
+      "Etching",
+      "Screenprinting"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name given to the method of applying paint in thin, semi-transparent layers to create a soft, hazy effect?",
+    "correctAnswer": "Scumbling",
+    "incorrectAnswers": [
+      "Impasto",
+      "Sgraffito",
+      "Glazing"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What type of paint is commonly used for murals and requires a specialized plaster surface?",
+    "correctAnswer": "Buon Fresco",
+    "incorrectAnswers": [
+      "Secco Fresco",
+      "Acrylic",
+      "Tempera"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the technique of creating a painting by using only dots of color?",
+    "correctAnswer": "Pointillism",
+    "incorrectAnswers": [
+      "Impasto",
+      "Stippling",
+      "Sfumato"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name for the process of creating a print by etching lines into a metal plate using an acid?",
+    "correctAnswer": "Etching",
+    "incorrectAnswers": [
+      "Drypoint",
+      "Mezzotint",
+      "Aquatint"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which printmaking method uses a matrix with incised lines that hold the ink, creating a sharp, detailed image?",
+    "correctAnswer": "Intaglio",
+    "incorrectAnswers": [
+      "Relief",
+      "Lithography",
+      "Screen Printing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name for the technique in which pigments are suspended in a gum arabic solution?",
+    "correctAnswer": "Gouache",
+    "incorrectAnswers": [
+      "Tempera",
+      "Watercolor",
+      "Acrylic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What specialized type of painting involves applying pigment to a wet plaster surface?",
+    "correctAnswer": "Secco Fresco",
+    "incorrectAnswers": [
+      "Buon Fresco",
+      "Encaustic",
+      "Sgraffito"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "In sculpture, what is the process of joining found or pre-made objects to create an artwork?",
+    "correctAnswer": "Assemblage",
+    "incorrectAnswers": [
+      "Modeling",
+      "Casting",
+      "Carving"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

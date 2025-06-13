@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic actress starred in \"Casablanca\" (1942)?",
+    "correctAnswer": "Ingrid Bergman",
+    "incorrectAnswers": [
+      "Vivien Leigh",
+      "Katharine Hepburn",
+      "Greta Garbo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What classic film features the unforgettable line, \"Frankly, my dear, I don't give a damn\"?",
+    "correctAnswer": "Gone with the Wind",
+    "incorrectAnswers": [
+      "The Wizard of Oz",
+      "Casablanca",
+      "Citizen Kane"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actor played the iconic role of Rhett Butler in \"Gone with the Wind\"?",
+    "correctAnswer": "Clark Gable",
+    "incorrectAnswers": [
+      "Humphrey Bogart",
+      "Gary Cooper",
+      "Cary Grant"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In what classic film does Dorothy Gale follow the Yellow Brick Road?",
+    "correctAnswer": "The Wizard of Oz",
+    "incorrectAnswers": [
+      "Snow White and the Seven Dwarfs",
+      "The Sound of Music",
+      "Singin' in the Rain"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actress played the role of Scarlett O'Hara in \"Gone with the Wind\"?",
+    "correctAnswer": "Vivien Leigh",
+    "incorrectAnswers": [
+      "Olivia de Havilland",
+      "Bette Davis",
+      "Katharine Hepburn"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What year was Alfred Hitchcock's \"Psycho\" released?",
+    "correctAnswer": "1960",
+    "incorrectAnswers": [
+      "1950",
+      "1970",
+      "1940"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who directed the groundbreaking film \"Citizen Kane\" (1941)?",
+    "correctAnswer": "Orson Welles",
+    "incorrectAnswers": [
+      "Alfred Hitchcock",
+      "Frank Capra",
+      "John Ford"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which musical features the memorable song \"Singin' in the Rain\"?",
+    "correctAnswer": "Singin' in the Rain",
+    "incorrectAnswers": [
+      "The Sound of Music",
+      "My Fair Lady",
+      "West Side Story"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What classic film features a young girl who befriends a scarecrow, tin man, and cowardly lion?",
+    "correctAnswer": "The Wizard of Oz",
+    "incorrectAnswers": [
+      "Alice in Wonderland",
+      "Peter Pan",
+      "Sleeping Beauty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actor famously played the role of James Bond in several classic films?",
+    "correctAnswer": "Sean Connery",
+    "incorrectAnswers": [
+      "Roger Moore",
+      "Pierce Brosnan",
+      "Daniel Craig"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What classic film noir features Humphrey Bogart as a cynical private investigator?",
+    "correctAnswer": "The Maltese Falcon",
+    "incorrectAnswers": [
+      "Casablanca",
+      "The Big Sleep",
+      "Out of the Past"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director is known for his collaborations with John Wayne, including \"The Searchers\"?",
+    "correctAnswer": "John Ford",
+    "incorrectAnswers": [
+      "Howard Hawks",
+      "Sergio Leone",
+      "Sam Peckinpah"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which actress won an Oscar for her performance in \"A Streetcar Named Desire\" (1951)?",
+    "correctAnswer": "Vivien Leigh",
+    "incorrectAnswers": [
+      "Marlon Brando",
+      "Kim Hunter",
+      "Karl Malden"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What iconic film features a shower scene that redefined horror cinema?",
+    "correctAnswer": "Psycho",
+    "incorrectAnswers": [
+      "The Birds",
+      "Rear Window",
+      "Vertigo"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which film, starring Marilyn Monroe, is a comedic classic about a showgirl who accidentally becomes a millionaire?",
+    "correctAnswer": "Gentlemen Prefer Blondes",
+    "incorrectAnswers": [
+      "Some Like It Hot",
+      "The Seven Year Itch",
+      "Bus Stop"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What classic Western features a legendary gunfight at the O.K. Corral?",
+    "correctAnswer": "Gunfight at the O.K. Corral",
+    "incorrectAnswers": [
+      "The Magnificent Seven",
+      "High Noon",
+      "Shane"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which film, starring Marlon Brando, is considered a groundbreaking work of Method acting?",
+    "correctAnswer": "A Streetcar Named Desire",
+    "incorrectAnswers": [
+      "On the Waterfront",
+      "The Godfather",
+      "Apocalypse Now"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What 1967 film, directed by Arthur Penn, features a memorable shootout scene in a small town?",
+    "correctAnswer": "Bonnie and Clyde",
+    "incorrectAnswers": [
+      "The Wild Bunch",
+      "Easy Rider",
+      "Butch Cassidy and the Sundance Kid"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What musical, starring Julie Andrews, is set in the Austrian Alps?",
+    "correctAnswer": "The Sound of Music",
+    "incorrectAnswers": [
+      "My Fair Lady",
+      "The King and I",
+      "Oklahoma!"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which director's distinctive visual style is heavily featured in \"Rebel Without a Cause\" (1955)?",
+    "correctAnswer": "Nicholas Ray",
+    "incorrectAnswers": [
+      "Stanley Kubrick",
+      "Martin Scorsese",
+      "Francis Ford Coppola"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What classic film, based on a Truman Capote novella, depicts the murder of a wealthy family in Kansas?",
+    "correctAnswer": "In Cold Blood",
+    "incorrectAnswers": [
+      "To Kill a Mockingbird",
+      "The Grapes of Wrath",
+      "East of Eden"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which lesser-known film noir features Robert Mitchum as a private investigator framed for murder?",
+    "correctAnswer": "Out of the Past",
+    "incorrectAnswers": [
+      "The Big Sleep",
+      "Double Indemnity",
+      "Murder, My Sweet"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who composed the iconic score for Alfred Hitchcock's \"Vertigo\" (1958)?",
+    "correctAnswer": "Bernard Herrmann",
+    "incorrectAnswers": [
+      "John Williams",
+      "Ennio Morricone",
+      "Miklós Rózsa"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which largely forgotten film, starring Montgomery Clift, explores themes of alienation and social isolation in post-war America?",
+    "correctAnswer": "A Place in the Sun",
+    "incorrectAnswers": [
+      "From Here to Eternity",
+      "On the Waterfront",
+      "East of Eden"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What critically acclaimed film, directed by Elia Kazan, features intense performances by Marlon Brando and Karl Malden?",
+    "correctAnswer": "A Streetcar Named Desire",
+    "incorrectAnswers": [
+      "On the Waterfront",
+      "East of Eden",
+      "Rebel Without a Cause"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

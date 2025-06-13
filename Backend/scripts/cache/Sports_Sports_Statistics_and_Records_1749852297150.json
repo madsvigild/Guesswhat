@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which NBA player holds the record for most career points?",
+    "correctAnswer": "Kareem Abdul-Jabbar",
+    "incorrectAnswers": [
+      "Michael Jordan",
+      "LeBron James",
+      "Wilt Chamberlain"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many World Cups has the Brazilian national football team won?",
+    "correctAnswer": "5",
+    "incorrectAnswers": [
+      "4",
+      "6",
+      "3"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for most home runs in a single MLB season?",
+    "correctAnswer": "Barry Bonds",
+    "incorrectAnswers": [
+      "Babe Ruth",
+      "Hank Aaron",
+      "Mark McGwire"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which golfer holds the record for most career major championship wins?",
+    "correctAnswer": "Jack Nicklaus",
+    "incorrectAnswers": [
+      "Tiger Woods",
+      "Ben Hogan",
+      "Sam Snead"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest individual score ever achieved in a single Test cricket innings?",
+    "correctAnswer": "903",
+    "incorrectAnswers": [
+      "800",
+      "700",
+      "1000"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which year did Wayne Gretzky achieve his record-breaking 894 NHL assists?",
+    "correctAnswer": "1991",
+    "incorrectAnswers": [
+      "1986",
+      "1995",
+      "1989"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which team won the first ever Super Bowl?",
+    "correctAnswer": "Green Bay Packers",
+    "incorrectAnswers": [
+      "Kansas City Chiefs",
+      "Dallas Cowboys",
+      "New York Giants"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many Grand Slam titles did Serena Williams win?",
+    "correctAnswer": "23",
+    "incorrectAnswers": [
+      "18",
+      "25",
+      "21"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for the fastest ever Formula 1 lap?",
+    "correctAnswer": "Juan Manuel Fangio",
+    "incorrectAnswers": [
+      "Ayrton Senna",
+      "Lewis Hamilton",
+      "Michael Schumacher"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NHL player holds the record for most career goals?",
+    "correctAnswer": "Wayne Gretzky",
+    "incorrectAnswers": [
+      "Gordie Howe",
+      "Jaromir Jagr",
+      "Alex Ovechkin"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the longest winning streak in NBA history?",
+    "correctAnswer": "33",
+    "incorrectAnswers": [
+      "24",
+      "44",
+      "27"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which athlete has won the most Olympic gold medals?",
+    "correctAnswer": "Michael Phelps",
+    "incorrectAnswers": [
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Mark Spitz"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the longest undefeated streak in college football?",
+    "correctAnswer": "70",
+    "incorrectAnswers": [
+      "63",
+      "55",
+      "80"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which year did Roger Federer win his first Wimbledon title?",
+    "correctAnswer": "2003",
+    "incorrectAnswers": [
+      "2001",
+      "2005",
+      "2007"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which MLB team holds the record for the most consecutive games won?",
+    "correctAnswer": "Cleveland Indians",
+    "incorrectAnswers": [
+      "New York Yankees",
+      "Boston Red Sox",
+      "St. Louis Cardinals"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest-scoring game in NFL history?",
+    "correctAnswer": "103",
+    "incorrectAnswers": [
+      "88",
+      "97",
+      "112"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which Formula 1 driver has the most pole positions?",
+    "correctAnswer": "Lewis Hamilton",
+    "incorrectAnswers": [
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Alain Prost"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the record for most consecutive wins in the Indianapolis 500?",
+    "correctAnswer": "3",
+    "incorrectAnswers": [
+      "1",
+      "4",
+      "5"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest ever score recorded in an official FIFA World Cup match?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "8",
+      "12",
+      "6"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who holds the record for most assists in a single UEFA Champions League season?",
+    "correctAnswer": "Thierry Henry",
+    "incorrectAnswers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Zinedine Zidane"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the highest-scoring game in women’s FIFA World Cup history?",
+    "correctAnswer": "13",
+    "incorrectAnswers": [
+      "10",
+      "11",
+      "14"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the longest undefeated streak in professional boxing at heavyweight?",
+    "correctAnswer": "15",
+    "incorrectAnswers": [
+      "12",
+      "18",
+      "20"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NBA player holds the record for most consecutive games scoring 20 or more points?",
+    "correctAnswer": "Wilt Chamberlain",
+    "incorrectAnswers": [
+      "Michael Jordan",
+      "LeBron James",
+      "Kobe Bryant"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which NHL team holds the record for most consecutive Stanley Cup championships?",
+    "correctAnswer": "Montreal Canadians",
+    "incorrectAnswers": [
+      "Detroit Red Wings",
+      "Toronto Maple Leafs",
+      "Chicago Blackhawks"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the largest margin of victory in a Super Bowl?",
+    "correctAnswer": "45",
+    "incorrectAnswers": [
+      "35",
+      "40",
+      "50"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

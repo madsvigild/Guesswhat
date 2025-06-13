@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which city were the first modern Olympic Games held?",
+    "correctAnswer": "Athens",
+    "incorrectAnswers": [
+      "Rome",
+      "London",
+      "Paris"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country is known as the 'home of cricket'?",
+    "correctAnswer": "England",
+    "incorrectAnswers": [
+      "India",
+      "Australia",
+      "Pakistan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who won the men's singles title at Wimbledon in 2023?",
+    "correctAnswer": "Carlos Alcaraz",
+    "incorrectAnswers": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Roger Federer"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the premier international club football competition in Europe?",
+    "correctAnswer": "UEFA Champions League",
+    "incorrectAnswers": [
+      "Europa League",
+      "FIFA Club World Cup",
+      "Copa Libertadores"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Serena Williams has won how many Grand Slam singles titles?",
+    "correctAnswer": "23",
+    "incorrectAnswers": [
+      "18",
+      "25",
+      "30"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which sport does a 'grand slam' refer to winning all four major tournaments in a single year?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": [
+      "Golf",
+      "Swimming",
+      "Athletics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the first ever Cricket World Cup?",
+    "correctAnswer": "West Indies",
+    "incorrectAnswers": [
+      "England",
+      "Australia",
+      "India"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Usain Bolt holds the world record for the 100m and 200m sprints.  In what country was he born?",
+    "correctAnswer": "Jamaica",
+    "incorrectAnswers": [
+      "USA",
+      "Trinidad and Tobago",
+      "Bahamas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which Formula 1 driver has won the most World Championships?",
+    "correctAnswer": "Lewis Hamilton",
+    "incorrectAnswers": [
+      "Michael Schumacher",
+      "Max Verstappen",
+      "Ayrton Senna"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the inaugural FIFA Women's World Cup in 1991?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "Norway",
+      "Germany",
+      "China"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "The Ryder Cup is a biennial men's golf competition between which two teams?",
+    "correctAnswer": "Europe and the United States",
+    "incorrectAnswers": [
+      "Europe and Asia",
+      "USA and South America",
+      "Europe and Australia"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country hosted the most Summer Olympic Games?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "Great Britain",
+      "France",
+      "Germany"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first non-European to win the Wimbledon Men's Singles title?",
+    "correctAnswer": "Rod Laver",
+    "incorrectAnswers": [
+      "Ken Rosewall",
+      "John Newcombe",
+      "Lew Hoad"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the international basketball competition contested by men's national teams?",
+    "correctAnswer": "FIBA Basketball World Cup",
+    "incorrectAnswers": [
+      "EuroBasket",
+      "NBA Playoffs",
+      "NCAA Tournament"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which cycling race is often called 'The Grand Tour'?",
+    "correctAnswer": "Tour de France",
+    "incorrectAnswers": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Paris-Roubaix"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the international competition for women's national football teams?",
+    "correctAnswer": "FIFA Women's World Cup",
+    "incorrectAnswers": [
+      "UEFA Women's Championship",
+      "SheBelieves Cup",
+      "Olympics Women's Football"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the Soviet Union boycott the Summer Olympics?",
+    "correctAnswer": "1984",
+    "incorrectAnswers": [
+      "1976",
+      "1980",
+      "1988"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which nation has won the most medals in the history of the Paralympic Games?",
+    "correctAnswer": "Great Britain",
+    "incorrectAnswers": [
+      "United States",
+      "China",
+      "Australia"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which athlete won three gold medals in swimming at the 1972 Munich Olympics, setting three world records?",
+    "correctAnswer": "Mark Spitz",
+    "incorrectAnswers": [
+      "Michael Phelps",
+      "David Popovici",
+      "Caeleb Dressel"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "The Davis Cup is a prestigious international competition in which sport?",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": [
+      "Golf",
+      "Badminton",
+      "Table Tennis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country won the inaugural FIFA Beach Soccer World Cup in 1995?",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "Portugal",
+      "France",
+      "Italy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which year did the first Cricket World Cup take place?",
+    "correctAnswer": "1975",
+    "incorrectAnswers": [
+      "1972",
+      "1980",
+      "1983"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

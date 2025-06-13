@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What is the largest land animal on Earth?",
+    "correctAnswer": "African bush elephant",
+    "incorrectAnswers": [
+      "Giraffe",
+      "Hippopotamus",
+      "Polar bear"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which process converts sunlight into chemical energy in plants?",
+    "correctAnswer": "Photosynthesis",
+    "incorrectAnswers": [
+      "Respiration",
+      "Transpiration",
+      "Chemosynthesis"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the primary function of a hummingbird's long beak?",
+    "correctAnswer": "Reaching nectar in flowers",
+    "incorrectAnswers": [
+      "Catching insects",
+      "Probing tree bark",
+      "Defense against predators"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of symbiotic relationship exists between a bee and a flower?",
+    "correctAnswer": "Mutualism",
+    "incorrectAnswers": [
+      "Parasitism",
+      "Commensalism",
+      "Competition"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which gas is primarily responsible for the greenhouse effect?",
+    "correctAnswer": "Carbon dioxide",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the largest known living organism on Earth?",
+    "correctAnswer": "Honey fungus (Armillaria ostoyae)",
+    "incorrectAnswers": [
+      "Blue whale",
+      "Giant sequoia",
+      "Great Barrier Reef"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process by which animals maintain a constant internal body temperature?",
+    "correctAnswer": "Thermoregulation",
+    "incorrectAnswers": [
+      "Homeostasis",
+      "Osmoregulation",
+      "Metabolism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of camouflage involves an organism blending in with its background?",
+    "correctAnswer": "Crypsis",
+    "incorrectAnswers": [
+      "Mimicry",
+      "Aposematism",
+      "Disruptive coloration"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the scientific term for the study of bird life?",
+    "correctAnswer": "Ornithology",
+    "incorrectAnswers": [
+      "Entomology",
+      "Mammalogy",
+      "Herpetology"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is bioluminescence?",
+    "correctAnswer": "The production and emission of light by a living organism.",
+    "incorrectAnswers": [
+      "The ability to generate electricity",
+      "The process of photosynthesis",
+      "The absorption of light by a living organism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the role of mycorrhizae in the ecosystem?",
+    "correctAnswer": "Symbiotic relationship between plant roots and fungi that enhances nutrient uptake.",
+    "incorrectAnswers": [
+      "Parasitizing plant roots",
+      "Competing with plants for nutrients",
+      "Decomposing organic matter independently of plants"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the ecological term for a non-native species that outcompetes native species?",
+    "correctAnswer": "Invasive species",
+    "incorrectAnswers": [
+      "Endemic species",
+      "Keystone species",
+      "Indicator species"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the difference between a food chain and a food web?",
+    "correctAnswer": "A food chain is a linear sequence, while a food web is a complex network of interconnected food chains.",
+    "incorrectAnswers": [
+      "There is no difference",
+      "A food web is simpler than a food chain",
+      "A food chain is only found in aquatic ecosystems"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which biome is characterized by permafrost and low-lying vegetation?",
+    "correctAnswer": "Tundra",
+    "incorrectAnswers": [
+      "Taiga",
+      "Savanna",
+      "Desert"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process of converting nitrogen gas into ammonia?",
+    "correctAnswer": "Nitrogen fixation",
+    "incorrectAnswers": [
+      "Nitrification",
+      "Denitrification",
+      "Assimilation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the scientific name for the giant panda?",
+    "correctAnswer": "Ailuropoda melanoleuca",
+    "incorrectAnswers": [
+      "Ursus arctos",
+      "Panthera tigris",
+      "Felis catus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the phenomenon where animals migrate based on Earth's magnetic field?",
+    "correctAnswer": "Magnetoreception",
+    "incorrectAnswers": [
+      "Echolocation",
+      "Electroreception",
+      "Chemoreception"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is a keystone species and provide an example?",
+    "correctAnswer": "A species whose presence and role within an ecosystem disproportionately affects biodiversity; e.g., the sea otter.",
+    "incorrectAnswers": [
+      "A species with a large population size",
+      "A species that is easily observable",
+      "A species with a wide geographic range"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Explain the concept of 'island biogeography' and its implications for conservation.",
+    "correctAnswer": "It describes the relationship between island size, distance from the mainland, and species richness; smaller, more isolated islands have lower biodiversity and are more vulnerable.",
+    "incorrectAnswers": [
+      "It refers to the study of island geology",
+      "It focuses exclusively on oceanic islands",
+      "It suggests that all island species are endemic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the difference between 'r-selected' and 'K-selected' species?",
+    "correctAnswer": "r-selected species produce many offspring with little parental care, while K-selected species produce few offspring with extensive parental care.",
+    "incorrectAnswers": [
+      "They are interchangeable terms",
+      "r-selection leads to larger body size",
+      "K-selection is favored in unstable environments"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the function of the crepuscular niche?",
+    "correctAnswer": "It's the ecological niche occupied by animals active primarily during twilight hours (dawn and dusk).",
+    "incorrectAnswers": [
+      "It describes the deepest part of the ocean",
+      "It refers to a specific type of forest",
+      "It refers to an animal's sleep cycle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process called where an animal sheds its exoskeleton?",
+    "correctAnswer": "Ecdysis",
+    "incorrectAnswers": [
+      "Metamorphosis",
+      "Molting (While often used synonymously, ecdysis is the more technically precise term)",
+      "Regeneration"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the term for the symbiotic relationship where one organism benefits and the other is neither harmed nor helped?",
+    "correctAnswer": "Commensalism",
+    "incorrectAnswers": [
+      "Mutualism",
+      "Parasitism",
+      "Predation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which animal is known for its echolocation abilities?",
+    "correctAnswer": "Bat",
+    "incorrectAnswers": [
+      "Eagle",
+      "Shark",
+      "Giraffe"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  }
+]

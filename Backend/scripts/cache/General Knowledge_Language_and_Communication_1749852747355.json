@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What is the most spoken language in the world by native speakers?",
+    "correctAnswer": "Mandarin Chinese",
+    "incorrectAnswers": [
+      "English",
+      "Spanish",
+      "Hindi"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which language family does English belong to?",
+    "correctAnswer": "Indo-European",
+    "incorrectAnswers": [
+      "Sino-Tibetan",
+      "Afro-Asiatic",
+      "Austronesian"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the study of the origin and development of words called?",
+    "correctAnswer": "Etymology",
+    "incorrectAnswers": [
+      "Semantics",
+      "Syntax",
+      "Phonetics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a nonverbal communication technique involving hand gestures?",
+    "correctAnswer": "Sign language",
+    "incorrectAnswers": [
+      "Body language",
+      "Facial expressions",
+      "Proxemics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for the smallest unit of meaning in a language?",
+    "correctAnswer": "Morpheme",
+    "incorrectAnswers": [
+      "Phoneme",
+      "Syllable",
+      "Lexicon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country is known for using the most emojis in online communication?",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "United States",
+      "Japan",
+      "South Korea"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for the systematic study of language structure?",
+    "correctAnswer": "Linguistics",
+    "incorrectAnswers": [
+      "Lexicography",
+      "Philology",
+      "Semantics"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name for the deliberate misrepresentation of facts?",
+    "correctAnswer": "Disinformation",
+    "incorrectAnswers": [
+      "Misinformation",
+      "Propaganda",
+      "Fake news"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the process of translating spoken words into written text called?",
+    "correctAnswer": "Transcription",
+    "incorrectAnswers": [
+      "Translation",
+      "Interpretation",
+      "Subtitling"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which famous author wrote the novel '1984' which explores the manipulation of language?",
+    "correctAnswer": "George Orwell",
+    "incorrectAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Isaac Asimov"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the Sapir-Whorf hypothesis also known as?",
+    "correctAnswer": "Linguistic relativity",
+    "incorrectAnswers": [
+      "Universal grammar",
+      "Chomsky's theory",
+      "Generative grammar"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the difference between a dialect and a language?",
+    "correctAnswer": "Mutual intelligibility",
+    "incorrectAnswers": [
+      "Number of speakers",
+      "Geographical location",
+      "Grammatical complexity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for the study of how sounds are organized and used in language?",
+    "correctAnswer": "Phonology",
+    "incorrectAnswers": [
+      "Morphology",
+      "Syntax",
+      "Semantics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is 'code-switching' in linguistics?",
+    "correctAnswer": "Alternating between two or more languages within a single conversation",
+    "incorrectAnswers": [
+      "Translating a language",
+      "Interpreting a language",
+      "Using slang"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a pidgin language?",
+    "correctAnswer": "A simplified language that develops between two or more groups of people who do not share a common language",
+    "incorrectAnswers": [
+      "A creole language",
+      "A dialect",
+      "A slang"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for the study of how meaning is created in language?",
+    "correctAnswer": "Semantics",
+    "incorrectAnswers": [
+      "Pragmatics",
+      "Syntax",
+      "Phonetics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the difference between prescriptive and descriptive linguistics?",
+    "correctAnswer": "Prescriptive linguistics describes how language *should* be used, while descriptive linguistics describes how language *is* used.",
+    "incorrectAnswers": [
+      "Prescriptive focuses on pronunciation, descriptive on grammar",
+      "Prescriptive is historical, descriptive is modern",
+      "Prescriptive is subjective, descriptive is objective (but both are descriptive)"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is kinesics in the field of communication?",
+    "correctAnswer": "The study of body language",
+    "incorrectAnswers": [
+      "The study of vocal cues",
+      "The study of paralanguage",
+      "The study of proxemics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the field of study that analyzes how people use language in social contexts?",
+    "correctAnswer": "Sociolinguistics",
+    "incorrectAnswers": [
+      "Psycholinguistics",
+      "Historical linguistics",
+      "Computational linguistics"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which language family is considered to be the oldest?",
+    "correctAnswer": "There is no consensus on the oldest language family.",
+    "incorrectAnswers": [
+      "Indo-European",
+      "Sino-Tibetan",
+      "Afro-Asiatic"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a 'logograph' in writing systems?",
+    "correctAnswer": "A written symbol representing a word or morpheme",
+    "incorrectAnswers": [
+      "A written symbol representing a sound",
+      "A written symbol representing a syllable",
+      "A written symbol representing a sentence"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the difference between a 'register' and a 'dialect' in linguistics?",
+    "correctAnswer": "A register is a variety of language used in a particular social setting or context, while a dialect is a variety of language used by a specific group of people.",
+    "incorrectAnswers": [
+      "Registers are more formal, dialects are informal",
+      "Registers are geographically bound, dialects are situationally bound",
+      "Registers are variations in grammar, dialects are variations in vocabulary"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name for the study of the relationship between language and thought?",
+    "correctAnswer": "Psycholinguistics",
+    "incorrectAnswers": [
+      "Sociolinguistics",
+      "Neurolinguistics",
+      "Cognitive linguistics"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is 'metalinguistic awareness'?",
+    "correctAnswer": "The ability to reflect on and analyze language as an object",
+    "incorrectAnswers": [
+      "The ability to understand multiple languages",
+      "The ability to communicate effectively",
+      "The ability to speak fluently"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

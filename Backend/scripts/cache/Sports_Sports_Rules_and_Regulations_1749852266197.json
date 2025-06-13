@@ -1,0 +1,266 @@
+[
+  {
+    "question": "In basketball, how many points is a successful three-point shot worth?",
+    "correctAnswer": "3 points",
+    "incorrectAnswers": [
+      "1 point",
+      "2 points",
+      "4 points"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the penalty in soccer (football) where a player is ejected from the game?",
+    "correctAnswer": "Red card",
+    "incorrectAnswers": [
+      "Yellow card",
+      "Penalty kick",
+      "Free kick"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In baseball, how many outs are allowed per inning?",
+    "correctAnswer": "3",
+    "incorrectAnswers": [
+      "1",
+      "2",
+      "4"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many players are on the field for a cricket team during a match?",
+    "correctAnswer": "11",
+    "incorrectAnswers": [
+      "7",
+      "9",
+      "15"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In American football, how many downs does a team have to gain ten yards or score?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "2",
+      "5"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the term for a tie in golf?",
+    "correctAnswer": "Tie",
+    "incorrectAnswers": [
+      "Draw",
+      "Stalemate",
+      "Deadlock"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In tennis, what is the term for a point won when your opponent fails to return the ball?",
+    "correctAnswer": "Ace",
+    "incorrectAnswers": [
+      "Fault",
+      "Let",
+      "Advantage"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In hockey, what is awarded for a major penalty?",
+    "correctAnswer": "Penalty time in the penalty box",
+    "incorrectAnswers": [
+      "Free shot on goal",
+      "Automatic goal for the other team",
+      "Loss of a player for the game"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the term for the penalty in rugby where a player is temporarily removed from the field?",
+    "correctAnswer": "Sin Bin",
+    "incorrectAnswers": [
+      "Yellow Card",
+      "Penalty Try",
+      "Scrum"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In volleyball, how many players are on a team on the court at one time?",
+    "correctAnswer": "6",
+    "incorrectAnswers": [
+      "5",
+      "7",
+      "4"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In Formula 1, how many points does the winner of a race receive?",
+    "correctAnswer": "25",
+    "incorrectAnswers": [
+      "20",
+      "30",
+      "10"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the time-out period in professional basketball where coaches can strategize?",
+    "correctAnswer": "Timeout",
+    "incorrectAnswers": [
+      "Intermission",
+      "Break",
+      "Substitution"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In boxing, what is a count of eight?",
+    "correctAnswer": "The referee's count after a knockdown to allow a boxer to recover.",
+    "incorrectAnswers": [
+      "A technical knockout",
+      "A warning for illegal punches",
+      "A point deduction for a foul"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In the sport of curling, what is the name of the large, circular target area?",
+    "correctAnswer": "The House",
+    "incorrectAnswers": [
+      "The Ring",
+      "The Target",
+      "The Center"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is a 'fair catch' in American Football?",
+    "correctAnswer": "Catching a punt or kickoff cleanly and signaling for it",
+    "incorrectAnswers": [
+      "Catching a forward pass",
+      "Interception",
+      "A successful field goal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what sport is a 'sudden-death' overtime commonly used to decide a winner?",
+    "correctAnswer": "Multiple sports, including Hockey, Soccer and Basketball",
+    "incorrectAnswers": [
+      "Baseball",
+      "Golf",
+      "Bowling"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the term for a legal maneuver in American football where a receiver changes direction to avoid defenders?",
+    "correctAnswer": "Route running",
+    "incorrectAnswers": [
+      "Blocking",
+      "Tackling",
+      "Handoff"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In professional wrestling, what signifies the end of a match when a wrestler's shoulders are pinned to the mat for a three-count?",
+    "correctAnswer": "Pinfall",
+    "incorrectAnswers": [
+      "Submission",
+      "Disqualification",
+      "Knockout"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In equestrian sports, what does 'dressage' refer to?",
+    "correctAnswer": "A discipline emphasizing precise movements and obedience between horse and rider.",
+    "incorrectAnswers": [
+      "Jumping",
+      "Racing",
+      "Polo"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is a 'no-hitter' in baseball?",
+    "correctAnswer": "A complete game pitched without allowing the opposing team to get a hit.",
+    "incorrectAnswers": [
+      "A shutout",
+      "A perfect game",
+      "A complete game"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In the sport of Sumo, what is a 'yorikiri'?",
+    "correctAnswer": "A winning technique involving forcing the opponent out of the ring.",
+    "incorrectAnswers": [
+      "A throw",
+      "A slap",
+      "A kick"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the 'offside' rule in association football (soccer)?",
+    "correctAnswer": "A player is in an offside position if they are closer to the opponent's goal line than both the ball and the second-to-last defender when the ball is played to them.",
+    "incorrectAnswers": [
+      "A foul committed by handling the ball",
+      "A foul committed by tripping an opponent",
+      "A foul committed by using excessive force"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In cricket, what is a 'beamer'?",
+    "correctAnswer": "A dangerously high full-toss that passes over the batsman's head and is illegal.",
+    "incorrectAnswers": [
+      "A perfectly bowled ball",
+      "A ball that bounces high",
+      "A wide ball"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In ice hockey, what is a 'too many men on the ice' penalty?",
+    "correctAnswer": "A penalty for having more than the allowed number of players on the ice at one time.",
+    "incorrectAnswers": [
+      "A penalty for slashing",
+      "A penalty for tripping",
+      "A penalty for holding"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

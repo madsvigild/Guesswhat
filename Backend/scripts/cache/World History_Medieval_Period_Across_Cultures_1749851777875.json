@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which powerful empire ruled much of the Middle East and North Africa during the medieval period?",
+    "correctAnswer": "Abbasid Caliphate",
+    "incorrectAnswers": [
+      "Byzantine Empire",
+      "Umayyad Caliphate",
+      "Mongol Empire"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant trade route connected East and West during the medieval period?",
+    "correctAnswer": "Silk Road",
+    "incorrectAnswers": [
+      "Spice Route",
+      "Amber Route",
+      "Incense Route"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "In what century did the Black Death plague devastate Europe?",
+    "correctAnswer": "14th Century",
+    "incorrectAnswers": [
+      "12th Century",
+      "15th Century",
+      "13th Century"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which medieval Japanese period is known for its samurai warriors and feudal system?",
+    "correctAnswer": "Kamakura Period",
+    "incorrectAnswers": [
+      "Heian Period",
+      "Muromachi Period",
+      "Edo Period"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the largest empire in pre-Columbian America during the medieval period?",
+    "correctAnswer": "Inca Empire",
+    "incorrectAnswers": [
+      "Aztec Empire",
+      "Maya Civilization",
+      "Toltec Empire"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful dynasty ruled China during much of the medieval period?",
+    "correctAnswer": "Song Dynasty",
+    "incorrectAnswers": [
+      "Tang Dynasty",
+      "Yuan Dynasty",
+      "Ming Dynasty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Crusades were a series of religious wars between which two major groups?",
+    "correctAnswer": "Christians and Muslims",
+    "incorrectAnswers": [
+      "Christians and Jews",
+      "Muslims and Mongols",
+      "Byzantines and Persians"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the great library in Timbuktu, a center of learning in West Africa during the medieval period?",
+    "correctAnswer": "Sankore Madrasah",
+    "incorrectAnswers": [
+      "University of Timbuktu",
+      "Library of Alexandria",
+      "House of Wisdom"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which significant architectural style characterized many European cathedrals during the High Middle Ages?",
+    "correctAnswer": "Gothic",
+    "incorrectAnswers": [
+      "Romanesque",
+      "Baroque",
+      "Renaissance"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major event marked the end of the Western Roman Empire?",
+    "correctAnswer": "Deposition of Romulus Augustulus",
+    "incorrectAnswers": [
+      "The Battle of Tours",
+      "The Fall of Constantinople",
+      "The Black Death"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary religion of the Kievan Rus' during the medieval period?",
+    "correctAnswer": "Eastern Orthodox Christianity",
+    "incorrectAnswers": [
+      "Catholicism",
+      "Islam",
+      "Paganism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Magna Carta, a foundational document in English law, limited the power of whom?",
+    "correctAnswer": "The Monarch",
+    "incorrectAnswers": [
+      "The Church",
+      "The Nobility",
+      "The Parliament"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the system of military and political organization prevalent in medieval Europe and Japan?",
+    "correctAnswer": "Feudalism",
+    "incorrectAnswers": [
+      "Manorialism",
+      "Mercantilism",
+      "Absolutism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which African kingdom, known for its gold trade, flourished in the medieval period?",
+    "correctAnswer": "Ghana Empire",
+    "incorrectAnswers": [
+      "Mali Empire",
+      "Songhai Empire",
+      "Kanem-Bornu Empire"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major technological advancement significantly improved agriculture in medieval China?",
+    "correctAnswer": "Heavy Plow",
+    "incorrectAnswers": [
+      "Three-field system",
+      "Caravel",
+      "Printing Press"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which Mongol leader established the Yuan Dynasty in China?",
+    "correctAnswer": "Kublai Khan",
+    "incorrectAnswers": [
+      "Genghis Khan",
+      "Ogedai Khan",
+      "Hulagu Khan"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the indigenous empire that once controlled much of modern-day Mexico before the Spanish conquest?",
+    "correctAnswer": "Aztec Empire",
+    "incorrectAnswers": [
+      "Inca Empire",
+      "Maya Civilization",
+      "Olmec Civilization"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary cause of the decline of the Mayan civilization during the classic period?",
+    "correctAnswer": "Not definitively known, but likely a combination of factors including environmental issues, warfare, and social unrest.",
+    "incorrectAnswers": [
+      "Spanish Conquest",
+      "Disease",
+      "Natural Disaster"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who was the prominent female Sufi mystic and poet in the Persian world during the medieval period?",
+    "correctAnswer": "Rumi",
+    "incorrectAnswers": [
+      "Omar Khayyam",
+      "Al-Ghazali",
+      "Averroes"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the influential philosophical and theological school of thought that emerged in Baghdad during the Islamic Golden Age?",
+    "correctAnswer": "House of Wisdom",
+    "incorrectAnswers": [
+      "Madrasah",
+      "Dar al-Islam",
+      "Bayt al-Hikma"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant architectural achievement in Angkor, Cambodia, epitomized Khmer power during the medieval period?",
+    "correctAnswer": "Angkor Wat",
+    "incorrectAnswers": [
+      "Borobudur",
+      "Bayon",
+      "Preah Khan"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which medieval scholar significantly translated and preserved Greek and Roman texts in the Islamic world?",
+    "correctAnswer": "Hunayn ibn Ishaq",
+    "incorrectAnswers": [
+      "Al-Khwarizmi",
+      "Ibn Sina",
+      "Ibn Rushd"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary reason for the decline of the Viking Age?",
+    "correctAnswer": "A combination of factors, including the Christianization of Scandinavia, the rise of powerful kingdoms, and changing economic conditions.",
+    "incorrectAnswers": [
+      "A single major battle",
+      "A devastating plague",
+      "Internal strife alone"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major trade good did the Swahili Coast cities export in the Medieval Period?",
+    "correctAnswer": "Gold and Ivory",
+    "incorrectAnswers": [
+      "Spices",
+      "Silk",
+      "Porcelain"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful West African empire used a sophisticated system of ironworking technology in the medieval period?",
+    "correctAnswer": "Mali Empire",
+    "incorrectAnswers": [
+      "Ghana Empire",
+      "Songhai Empire",
+      "Kanem-Bornu Empire"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

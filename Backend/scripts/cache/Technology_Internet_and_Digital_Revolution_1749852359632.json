@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which company is credited with creating the first web browser?",
+    "correctAnswer": "NCSA (National Center for Supercomputing Applications)",
+    "incorrectAnswers": [
+      "Microsoft",
+      "Netscape",
+      "Apple"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does WWW stand for in the context of the internet?",
+    "correctAnswer": "World Wide Web",
+    "incorrectAnswers": [
+      "World Wide Wireless",
+      "Web World Wide",
+      "Wireless World Web"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which programming language is widely considered the foundation of the internet?",
+    "correctAnswer": "C",
+    "incorrectAnswers": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What year was the World Wide Web officially launched?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": [
+      "1991",
+      "1995",
+      "1985"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does IP stand for in internet terminology?",
+    "correctAnswer": "Internet Protocol",
+    "incorrectAnswers": [
+      "Internet Port",
+      "Internal Protocol",
+      "Input Process"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Which protocol is primarily used for secure communication on the internet?",
+    "correctAnswer": "HTTPS",
+    "incorrectAnswers": [
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'DNS' stand for in relation to the internet?",
+    "correctAnswer": "Domain Name System",
+    "incorrectAnswers": [
+      "Digital Network System",
+      "Data Network Server",
+      "Domain Network Service"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Who is widely considered the inventor of the World Wide Web?",
+    "correctAnswer": "Tim Berners-Lee",
+    "incorrectAnswers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the name of the first widely used graphical web browser?",
+    "correctAnswer": "Mosaic",
+    "incorrectAnswers": [
+      "Internet Explorer",
+      "Netscape Navigator",
+      "Chrome"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What significant event in 1969 is widely considered the beginning of the ARPANET, a precursor to the internet?",
+    "correctAnswer": "The first successful transmission of data between two computers",
+    "incorrectAnswers": [
+      "The invention of the first computer mouse",
+      "The launch of the first satellite",
+      "The creation of the first programming language"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "The term 'dot-com bubble' refers to what period in internet history?",
+    "correctAnswer": "A period of rapid growth in internet-based companies followed by a market crash.",
+    "incorrectAnswers": [
+      "The initial development of the internet",
+      "The widespread adoption of social media",
+      "The rise of e-commerce"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the primary function of a router in a network?",
+    "correctAnswer": "To forward data packets between networks.",
+    "incorrectAnswers": [
+      "To store data",
+      "To process data",
+      "To display data"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What technology enables the 'cloud' to function?",
+    "correctAnswer": "A network of interconnected servers",
+    "incorrectAnswers": [
+      "A single powerful computer",
+      "Magic",
+      "A sophisticated algorithm"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What significant societal impact did the advent of email have?",
+    "correctAnswer": "Revolutionized communication by enabling near-instantaneous global messaging.",
+    "incorrectAnswers": [
+      "Increased global warming",
+      "Decreased literacy rates",
+      "Increased instances of paper cuts"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a 'firewall' in the context of computer security?",
+    "correctAnswer": "A system designed to prevent unauthorized access to a network.",
+    "incorrectAnswers": [
+      "A type of antivirus software",
+      "A physical barrier protecting a server room",
+      "A type of encryption"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What does the acronym 'TCP/IP' stand for and what is its significance?",
+    "correctAnswer": "Transmission Control Protocol/Internet Protocol; it's the fundamental communication protocol suite of the internet.",
+    "incorrectAnswers": [
+      "Terminal Control Protocol/Internet Protocol",
+      "Transport Control Protocol/Internal Protocol",
+      "Transmission Control Protocol/Intranet Protocol"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the purpose of a packet in internet communication?",
+    "correctAnswer": "To break down data into smaller units for transmission across a network.",
+    "incorrectAnswers": [
+      "To encrypt data",
+      "To compress data",
+      "To store data permanently"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What was the name of the first commercially successful personal computer?",
+    "correctAnswer": "Apple II",
+    "incorrectAnswers": [
+      "IBM PC",
+      "Commodore 64",
+      "Altair 8800"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the concept of 'net neutrality'.",
+    "correctAnswer": "The principle that internet service providers should treat all data on the internet equally, without discriminating or charging differentially by user, content, website, platform, application, type of attached equipment, or mode of communication.",
+    "incorrectAnswers": [
+      "The idea that internet access should be free for everyone",
+      "The concept that the internet should be censored",
+      "The principle that only certain websites should be accessible"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is a 'phishing' attack?",
+    "correctAnswer": "A cyberattack where fraudsters attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising themselves as a trustworthy entity in electronic communication.",
+    "incorrectAnswers": [
+      "A type of virus",
+      "A denial-of-service attack",
+      "A form of malware"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the development of fiber optic cables in the internet's evolution?",
+    "correctAnswer": "They drastically increased the speed and capacity of data transmission.",
+    "incorrectAnswers": [
+      "They made the internet more secure",
+      "They reduced the cost of internet access",
+      "They made the internet more accessible to rural areas"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "Explain the difference between client-server and peer-to-peer networking.",
+    "correctAnswer": "Client-server architecture uses central servers to manage resources and data, while peer-to-peer networks distribute resources and tasks among multiple computers without a central server.",
+    "incorrectAnswers": [
+      "Both are identical",
+      "Client-server is faster, peer-to-peer is more secure",
+      "Client-server is more secure, peer-to-peer is faster"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the role of a 'proxy server' in internet access?",
+    "correctAnswer": "It acts as an intermediary between a client and a server, routing requests and potentially providing security and anonymity.",
+    "incorrectAnswers": [
+      "It accelerates internet speed",
+      "It stores user data",
+      "It prevents hacking attempts directly"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the purpose of a 'blockchain' technology and how does it relate to the digital revolution?",
+    "correctAnswer": "It's a decentralized, distributed ledger technology that records and verifies transactions across multiple computers, enhancing security and transparency, impacting finance, supply chains, and other aspects of the digital revolution.",
+    "incorrectAnswers": [
+      "It's a type of encryption",
+      "It's a way to speed up internet connections",
+      "It's a way to store large amounts of data on a single server"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  },
+  {
+    "question": "What is the significance of the development of the transistor in the context of the digital revolution?",
+    "correctAnswer": "It enabled the miniaturization of electronic circuits, leading to smaller, faster, and more energy-efficient computers and other digital devices.",
+    "incorrectAnswers": [
+      "It made computers more expensive",
+      "It made computers less reliable",
+      "It made computers less powerful"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Technology"
+  }
+]

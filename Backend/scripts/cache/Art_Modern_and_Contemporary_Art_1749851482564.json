@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic artist's work is often associated with the Pop Art movement and Campbell's Soup cans?",
+    "correctAnswer": "Andy Warhol",
+    "incorrectAnswers": [
+      "Roy Lichtenstein",
+      "Claes Oldenburg",
+      "Jasper Johns"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What artistic movement, emerging in the early 20th century, emphasized intense emotion and subjective experience?",
+    "correctAnswer": "Expressionism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Cubism",
+      "Surrealism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who painted 'Guernica,' a powerful anti-war masterpiece?",
+    "correctAnswer": "Pablo Picasso",
+    "incorrectAnswers": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Francisco Goya"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which famous New York City building, designed by Frank Lloyd Wright, is a prime example of modern architecture?",
+    "correctAnswer": "The Guggenheim Museum",
+    "incorrectAnswers": [
+      "The Chrysler Building",
+      "The Empire State Building",
+      "The Flatiron Building"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What style of art is characterized by fragmented objects and perspectives, often depicting the same subject from multiple viewpoints?",
+    "correctAnswer": "Cubism",
+    "incorrectAnswers": [
+      "Fauvism",
+      "Dadaism",
+      "Impressionism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is renowned for their surrealist paintings featuring melting clocks?",
+    "correctAnswer": "Salvador Dalí",
+    "incorrectAnswers": [
+      "René Magritte",
+      "Max Ernst",
+      "Joan Miró"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The 'Fountain' (1917), a readymade sculpture, is a significant work by which artist?",
+    "correctAnswer": "Marcel Duchamp",
+    "incorrectAnswers": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Andy Warhol"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic movement championed the use of bold colors and simplified forms, often inspired by African masks?",
+    "correctAnswer": "Fauvism",
+    "incorrectAnswers": [
+      "Impressionism",
+      "Post-Impressionism",
+      "Cubism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the iconic sculpture by Constantin Brancusi, representing the essence of a bird?",
+    "correctAnswer": "Bird in Space",
+    "incorrectAnswers": [
+      "The Thinker",
+      "David",
+      "Venus de Milo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which movement emphasized the unconscious mind and dream imagery in art?",
+    "correctAnswer": "Surrealism",
+    "incorrectAnswers": [
+      "Realism",
+      "Impressionism",
+      "Abstract Expressionism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What prominent art movement of the mid-20th century, originating in New York City, involved large-scale abstract paintings with gestural brushstrokes?",
+    "correctAnswer": "Abstract Expressionism",
+    "incorrectAnswers": [
+      "Pop Art",
+      "Minimalism",
+      "Surrealism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist created the iconic sculpture 'Walking Man'?",
+    "correctAnswer": "Alberto Giacometti",
+    "incorrectAnswers": [
+      "Henry Moore",
+      "Constantin Brancusi",
+      "Auguste Rodin"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Known for their vibrant, often biomorphic abstract paintings, which female artist significantly contributed to Abstract Expressionism?",
+    "correctAnswer": "Helen Frankenthaler",
+    "incorrectAnswers": [
+      "Georgia O'Keeffe",
+      "Frida Kahlo",
+      "Lee Krasner"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist's work frequently used repetition and grids, often exploring concepts of Minimalism?",
+    "correctAnswer": "Sol LeWitt",
+    "incorrectAnswers": [
+      "Donald Judd",
+      "Dan Flavin",
+      "Carl Andre"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What art movement reacted against the emotional intensity of Abstract Expressionism, favoring geometric forms and industrial materials?",
+    "correctAnswer": "Minimalism",
+    "incorrectAnswers": [
+      "Pop Art",
+      "Conceptual Art",
+      "Surrealism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is known for their large-scale installations and earthworks, often manipulating natural landscapes?",
+    "correctAnswer": "Robert Smithson",
+    "incorrectAnswers": [
+      "Walter De Maria",
+      "Richard Serra",
+      "Nancy Holt"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the prominent movement that challenges traditional notions of art and often incorporates performance, happenings, and conceptual ideas?",
+    "correctAnswer": "Performance Art",
+    "incorrectAnswers": [
+      "Land Art",
+      "Conceptual Art",
+      "Installation Art"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is famous for their provocative and often controversial performance art pieces?",
+    "correctAnswer": "Marina Abramović",
+    "incorrectAnswers": [
+      "Carolee Schneemann",
+      "Chris Burden",
+      "Joseph Beuys"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic movement emphasized the idea over the object, prioritizing the concept behind the work of art?",
+    "correctAnswer": "Conceptual Art",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Pop Art",
+      "Land Art"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The architect behind the iconic Sydney Opera House is:",
+    "correctAnswer": "Jørn Utzon",
+    "incorrectAnswers": [
+      "Frank Gehry",
+      "Le Corbusier",
+      "Ludwig Mies van der Rohe"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which post-war artistic movement incorporated aspects of everyday life and popular culture into its works, often challenging traditional art conventions?",
+    "correctAnswer": "Pop Art",
+    "incorrectAnswers": [
+      "Minimalism",
+      "Op Art",
+      "Kinetic Art"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the influential art movement that incorporated light and movement into its sculptures and installations, often using kinetic elements?",
+    "correctAnswer": "Kinetic Art",
+    "incorrectAnswers": [
+      "Op Art",
+      "Land Art",
+      "Performance Art"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist's work, often characterized by intensely colorful and energetic compositions, bridges the gap between Abstract Expressionism and Pop Art?",
+    "correctAnswer": "Frank Stella",
+    "incorrectAnswers": [
+      "Kenneth Noland",
+      "Ellsworth Kelly",
+      "Morris Louis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What significant architectural style, characterized by its organic forms and use of reinforced concrete, emerged in the early 20th century and is exemplified by the works of Antoni Gaudí?",
+    "correctAnswer": "Art Nouveau",
+    "incorrectAnswers": [
+      "Art Deco",
+      "Bauhaus",
+      "International Style"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which pioneering feminist artist is known for her work exploring female sexuality and body image through performance and photography?",
+    "correctAnswer": "Carolee Schneemann",
+    "incorrectAnswers": [
+      "Cindy Sherman",
+      "Barbara Kruger",
+      "Guerrilla Girls"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

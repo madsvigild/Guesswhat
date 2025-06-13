@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which Egyptian god is often depicted with a jackal's head?",
+    "correctAnswer": "Anubis",
+    "incorrectAnswers": [
+      "Ra",
+      "Horus",
+      "Thoth"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the Egyptian sun god?",
+    "correctAnswer": "Ra",
+    "incorrectAnswers": [
+      "Osiris",
+      "Seth",
+      "Anubis"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What river is central to Egyptian mythology and civilization?",
+    "correctAnswer": "Nile",
+    "incorrectAnswers": [
+      "Tigris",
+      "Euphrates",
+      "Ganges"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Egyptian goddess is associated with motherhood, magic, and protection?",
+    "correctAnswer": "Isis",
+    "incorrectAnswers": [
+      "Nephthys",
+      "Sekhmet",
+      "Bastet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What creature, often depicted as a large cat, was worshipped as a goddess in ancient Egypt?",
+    "correctAnswer": "Bastet",
+    "incorrectAnswers": [
+      "Sphinx",
+      "Hippopotamus",
+      "Crocodile"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the Egyptian underworld?",
+    "correctAnswer": "Duat",
+    "incorrectAnswers": [
+      "Elysium",
+      "Tartarus",
+      "Hades"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which god was associated with the desert and storms in Egyptian mythology?",
+    "correctAnswer": "Seth",
+    "incorrectAnswers": [
+      "Horus",
+      "Geb",
+      "Ptah"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Egyptian book of the dead?",
+    "correctAnswer": "Book of the Dead",
+    "incorrectAnswers": [
+      "Book of Gates",
+      "Book of Going Forth by Day",
+      "Book of Two Ways"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the Egyptian god of wisdom and writing?",
+    "correctAnswer": "Thoth",
+    "incorrectAnswers": [
+      "Ptah",
+      "Khnum",
+      "Geb"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the role of the scarab beetle in Egyptian mythology?",
+    "correctAnswer": "Symbol of rebirth and the sun god Ra",
+    "incorrectAnswers": [
+      "God of the underworld",
+      "Goddess of fertility",
+      "Symbol of death and decay"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the myth of Osiris, who murdered him and usurped his throne?",
+    "correctAnswer": "Seth",
+    "incorrectAnswers": [
+      "Horus",
+      "Anubis",
+      "Ra"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What were the 'shabtis' used for in ancient Egyptian burials?",
+    "correctAnswer": "Servants in the afterlife",
+    "incorrectAnswers": [
+      "Funeral masks",
+      "Amulets for protection",
+      "Offerings to the gods"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which goddess was associated with weaving and fate in Egyptian mythology?",
+    "correctAnswer": "Neith",
+    "incorrectAnswers": [
+      "Nut",
+      "Sekhmet",
+      "Ma'at"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the significance of the Eye of Horus in Egyptian mythology?",
+    "correctAnswer": "Symbol of protection, royalty, and wholeness",
+    "incorrectAnswers": [
+      "Symbol of death",
+      "Weapon of the gods",
+      "Key to the underworld"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which deity judged the souls of the deceased in the Egyptian underworld?",
+    "correctAnswer": "Anubis",
+    "incorrectAnswers": [
+      "Osiris",
+      "Thoth",
+      "Ra"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is a 'benben' stone in Egyptian mythology?",
+    "correctAnswer": "Sacred stone representing the primordial mound",
+    "incorrectAnswers": [
+      "A type of amulet",
+      "A funerary mask",
+      "A hieroglyphic symbol"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which god was the father of Horus?",
+    "correctAnswer": "Osiris",
+    "incorrectAnswers": [
+      "Seth",
+      "Ra",
+      "Thoth"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What significant role did the goddess Ma'at play in Egyptian society?",
+    "correctAnswer": "Embodiment of truth, justice, and cosmic order",
+    "incorrectAnswers": [
+      "Goddess of war",
+      "Goddess of fertility",
+      "Goddess of the underworld"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Egyptian goddess was associated with childbirth and protection of mothers and children?",
+    "correctAnswer": "Tefnut",
+    "incorrectAnswers": [
+      "Sekhmet",
+      "Bastet",
+      "Nut"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the significance of the 'Weighing of the Heart' ceremony in ancient Egyptian beliefs?",
+    "correctAnswer": "Determining if a person's heart was lighter than a feather, to decide their fate in the afterlife",
+    "incorrectAnswers": [
+      "A ritual to appease the gods",
+      "A ceremony for pharaohs only",
+      "A test of physical strength"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Who was the creator god associated with the primeval waters of Nun?",
+    "correctAnswer": "Atum",
+    "incorrectAnswers": [
+      "Ra",
+      "Geb",
+      "Osiris"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the significance of the 'Apis Bull' in ancient Egyptian religion?",
+    "correctAnswer": "Living embodiment of the god Ptah, worshipped and mummified after death",
+    "incorrectAnswers": [
+      "A mythical creature",
+      "A symbol of the underworld",
+      "A type of funerary offering"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the funerary text found in the tomb of Tutankhamun, containing spells and prayers for the afterlife?",
+    "correctAnswer": "The Book of Gates",
+    "incorrectAnswers": [
+      "The Book of Breathing",
+      "The Book of Coming Forth by Day",
+      "The Book of the Dead (although found in many tombs, this is less specific than the Book of Gates found in Tutankhamun's tomb)"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In the myth of Osiris, what part of Osiris's body did Isis recover and use in a magical ritual to resurrect him?",
+    "correctAnswer": "His phallus",
+    "incorrectAnswers": [
+      "His heart",
+      "His head",
+      "His bones"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which goddess, often depicted as a lioness, was associated with war, plague, and healing in Egyptian mythology?",
+    "correctAnswer": "Sekhmet",
+    "incorrectAnswers": [
+      "Bastet",
+      "Mut",
+      "Isis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

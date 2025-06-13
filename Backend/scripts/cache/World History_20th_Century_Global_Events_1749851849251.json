@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which war, lasting from 1914 to 1918, significantly reshaped the political map of Europe?",
+    "correctAnswer": "World War I",
+    "incorrectAnswers": [
+      "World War II",
+      "The Cold War",
+      "The Napoleonic Wars"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "In what year did the Russian Revolution begin, leading to the overthrow of the Tsarist regime?",
+    "correctAnswer": "1917",
+    "incorrectAnswers": [
+      "1905",
+      "1921",
+      "1937"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Great Depression, a severe worldwide economic crisis, began in which year?",
+    "correctAnswer": "1929",
+    "incorrectAnswers": [
+      "1919",
+      "1939",
+      "1949"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which leader spearheaded the Nazi Party in Germany during the 1930s and 1940s?",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": [
+      "Joseph Stalin",
+      "Benito Mussolini",
+      "Winston Churchill"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The dropping of atomic bombs on Hiroshima and Nagasaki occurred during which war?",
+    "correctAnswer": "World War II",
+    "incorrectAnswers": [
+      "World War I",
+      "The Korean War",
+      "The Vietnam War"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which country declared its independence from British rule in 1947, partitioned into India and Pakistan?",
+    "correctAnswer": "India",
+    "incorrectAnswers": [
+      "China",
+      "Egypt",
+      "South Africa"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Cold War was primarily an ideological struggle between which two superpowers?",
+    "correctAnswer": "The United States and the Soviet Union",
+    "incorrectAnswers": [
+      "The United States and China",
+      "The Soviet Union and Great Britain",
+      "Germany and France"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Berlin Wall, a symbol of the Cold War, was built in what year?",
+    "correctAnswer": "1961",
+    "incorrectAnswers": [
+      "1945",
+      "1989",
+      "1969"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which movement, beginning in the 1950s and 60s, challenged racial segregation and discrimination in the United States?",
+    "correctAnswer": "The Civil Rights Movement",
+    "incorrectAnswers": [
+      "The Women's Suffrage Movement",
+      "The Abolitionist Movement",
+      "The Anti-Apartheid Movement"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major event marked the end of the Vietnam War in 1975?",
+    "correctAnswer": "The Fall of Saigon",
+    "incorrectAnswers": [
+      "The Tet Offensive",
+      "The Battle of Dien Bien Phu",
+      "The Geneva Accords"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Cuban Missile Crisis, a tense standoff between the US and the Soviet Union, occurred in which year?",
+    "correctAnswer": "1962",
+    "incorrectAnswers": [
+      "1959",
+      "1968",
+      "1972"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant event prompted the beginning of the Korean War in 1950?",
+    "correctAnswer": "The invasion of South Korea by North Korea",
+    "incorrectAnswers": [
+      "A communist coup in Seoul",
+      "A US military intervention",
+      "A civil war between factions in North Korea"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The formation of the European Economic Community (EEC), a precursor to the European Union, occurred in which year?",
+    "correctAnswer": "1957",
+    "incorrectAnswers": [
+      "1947",
+      "1967",
+      "1973"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which African nation gained independence from Portugal in 1975 after a protracted war of liberation?",
+    "correctAnswer": "Mozambique",
+    "incorrectAnswers": [
+      "Angola",
+      "South Africa",
+      "Zimbabwe"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Tiananmen Square protests, a pivotal moment in Chinese history, took place in which year?",
+    "correctAnswer": "1989",
+    "incorrectAnswers": [
+      "1966",
+      "1976",
+      "1999"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major event triggered the 1991 Gulf War?",
+    "correctAnswer": "Iraq's invasion of Kuwait",
+    "incorrectAnswers": [
+      "The Iranian Revolution",
+      "The Lebanese Civil War",
+      "The Yom Kippur War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The collapse of which global power structure marked the end of the Cold War?",
+    "correctAnswer": "The Soviet Union",
+    "incorrectAnswers": [
+      "The Warsaw Pact",
+      "The Communist Party of China",
+      "The British Empire"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant technological advancement revolutionized communication and information access in the latter half of the 20th century?",
+    "correctAnswer": "The internet",
+    "incorrectAnswers": [
+      "The printing press",
+      "The telephone",
+      "The telegraph"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which leader initiated the policy of Apartheid in South Africa?",
+    "correctAnswer": "Daniel François Malan",
+    "incorrectAnswers": [
+      "Nelson Mandela",
+      "Pieter Botha",
+      "Hendrik Verwoerd"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Balfour Declaration, which supported the establishment of a Jewish homeland in Palestine, was issued in which year?",
+    "correctAnswer": "1917",
+    "incorrectAnswers": [
+      "1920",
+      "1939",
+      "1948"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The assassination of Archduke Franz Ferdinand, which triggered World War I, took place in which city?",
+    "correctAnswer": "Sarajevo",
+    "incorrectAnswers": [
+      "Belgrade",
+      "Vienna",
+      "Berlin"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the clandestine operation during WWII to break the German Enigma code?",
+    "correctAnswer": "Ultra",
+    "incorrectAnswers": [
+      "Venona",
+      "Operation Overlord",
+      "Manhattan Project"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which agreement, signed in 1975, formally ended the Vietnam War?",
+    "correctAnswer": "Paris Peace Accords",
+    "incorrectAnswers": [
+      "Geneva Accords",
+      "Treaty of Versailles",
+      "Camp David Accords"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Salt I and Salt II treaties, aimed at limiting nuclear arms, were signed between which two superpowers?",
+    "correctAnswer": "United States and Soviet Union",
+    "incorrectAnswers": [
+      "United States and China",
+      "United States and Great Britain",
+      "Soviet Union and China"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the policy implemented by Mikhail Gorbachev in the Soviet Union, characterized by openness and restructuring?",
+    "correctAnswer": "Perestroika and Glasnost",
+    "incorrectAnswers": [
+      "Brezhnev Doctrine",
+      "Stalinism",
+      "Collectivization"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

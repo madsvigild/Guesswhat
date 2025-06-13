@@ -1,0 +1,255 @@
+[
+  {
+    "question": "What is the law of non-contradiction, a fundamental principle in classical logic?",
+    "correctAnswer": "Something cannot be both true and false at the same time and in the same respect.",
+    "incorrectAnswers": [
+      "A statement can be both true and false simultaneously.",
+      "Truth is subjective and relative.",
+      "Logical contradictions are necessary for progress."
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which type of reasoning moves from specific observations to general conclusions?",
+    "correctAnswer": "Inductive reasoning",
+    "incorrectAnswers": [
+      "Deductive reasoning",
+      "Abductive reasoning",
+      "Reductive reasoning"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is a fallacy in logic?",
+    "correctAnswer": "An error in reasoning that renders an argument invalid.",
+    "incorrectAnswers": [
+      "A perfectly sound argument",
+      "A well-supported claim",
+      "A rhetorical device"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which famous philosopher is associated with the development of the Socratic method?",
+    "correctAnswer": "Socrates",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "Epicurus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for a statement that is both true and false?",
+    "correctAnswer": "A paradox",
+    "incorrectAnswers": [
+      "An axiom",
+      "A tautology",
+      "A theorem"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In propositional logic, what symbol typically represents 'and'?",
+    "correctAnswer": "∧",
+    "incorrectAnswers": [
+      "∨",
+      "→",
+      "¬"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is confirmation bias?",
+    "correctAnswer": "The tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.",
+    "incorrectAnswers": [
+      "The ability to objectively assess evidence",
+      "The rejection of all prior beliefs",
+      "Random selection of data"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between validity and soundness in deductive arguments?",
+    "correctAnswer": "A valid argument has a structure where the conclusion follows logically from the premises, regardless of their truth; a sound argument is valid and has true premises.",
+    "incorrectAnswers": [
+      "Validity refers to truth, soundness refers to structure.",
+      "Soundness is a type of validity.",
+      "There is no difference."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of Occam's Razor.",
+    "correctAnswer": "The principle that the simplest explanation that fits the evidence is usually the best.",
+    "incorrectAnswers": [
+      "The most complex explanation is always preferred.",
+      "All explanations are equally valid.",
+      "Evidence is irrelevant to explanation."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between a priori and a posteriori knowledge?",
+    "correctAnswer": "A priori knowledge is independent of experience; a posteriori knowledge is derived from experience.",
+    "incorrectAnswers": [
+      "Both are derived from experience.",
+      "Both are independent of experience.",
+      "There is no difference."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Describe the concept of 'Modus Ponens' in propositional logic.",
+    "correctAnswer": "If P, then Q. P. Therefore, Q.",
+    "incorrectAnswers": [
+      "If P, then Q. Not Q. Therefore, not P.",
+      "If P, then Q. Q. Therefore, P.",
+      "If P, then Q. Not P. Therefore, not Q."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the fallacy of 'argumentum ad hominem'?",
+    "correctAnswer": "Attacking the person making the argument rather than the argument itself.",
+    "incorrectAnswers": [
+      "Attacking the argument logically.",
+      "Supporting the argument with evidence.",
+      "Presenting a counter-argument."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is a 'reductio ad absurdum' argument?",
+    "correctAnswer": "A method of proving a statement by showing that its negation leads to a contradiction or absurdity.",
+    "incorrectAnswers": [
+      "A form of inductive reasoning.",
+      "An appeal to emotion.",
+      "A type of syllogism."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'epistemology' in philosophy.",
+    "correctAnswer": "The branch of philosophy that studies the nature of knowledge, justification, and belief.",
+    "incorrectAnswers": [
+      "The study of ethics.",
+      "The study of metaphysics.",
+      "The study of aesthetics."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the concept of 'falsifiability' relate to scientific methodology?",
+    "correctAnswer": "A scientific theory must be formulated in a way that it could potentially be proven false; if a theory can't be disproven, it's not scientific.",
+    "incorrectAnswers": [
+      "A theory needs to be proven true to be scientific.",
+      "Falsifiability is irrelevant to scientific methodology.",
+      "Scientific theories are always true."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of Gödel's incompleteness theorems in logic?",
+    "correctAnswer": "They demonstrate that any sufficiently complex formal system will contain true statements that cannot be proven within the system.",
+    "incorrectAnswers": [
+      "They prove that all mathematical statements are provable.",
+      "They demonstrate the completeness of arithmetic.",
+      "They have no impact on the foundations of mathematics."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'abduction' as a form of reasoning.",
+    "correctAnswer": "Inference to the best explanation; choosing the hypothesis that best accounts for the observed evidence.",
+    "incorrectAnswers": [
+      "Deductive reasoning",
+      "Inductive reasoning",
+      "Circular reasoning"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between material implication and strict implication in modal logic?",
+    "correctAnswer": "Material implication is truth-functional; strict implication involves necessity.",
+    "incorrectAnswers": [
+      "They are identical.",
+      "Material implication is stronger than strict implication.",
+      "Strict implication is truth-functional."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How does the problem of induction challenge the justification of scientific knowledge?",
+    "correctAnswer": "It questions whether we can legitimately infer future events from past observations, since there's no logical guarantee that observed patterns will continue.",
+    "incorrectAnswers": [
+      "It supports inductive reasoning.",
+      "It proves scientific knowledge is always true.",
+      "It's irrelevant to scientific knowledge."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the liar paradox in logic and philosophy?",
+    "correctAnswer": "It highlights the inherent limitations and potential contradictions within self-referential statements and systems of truth.",
+    "incorrectAnswers": [
+      "It proves the consistency of all logical systems.",
+      "It has no significance for logic.",
+      "It supports the idea that all statements are true."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Eastern philosophy, particularly Buddhist logic, how does the concept of dependent origination relate to reasoning and causality?",
+    "correctAnswer": "It suggests that all phenomena arise dependently upon other factors, emphasizing interconnectedness and rejecting independent existence.",
+    "incorrectAnswers": [
+      "It supports absolute causality.",
+      "It rejects any form of causality.",
+      "It is unrelated to reasoning."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the role of intuition in philosophical reasoning, considering both its potential benefits and drawbacks.",
+    "correctAnswer": "Intuition can provide initial insights and generate hypotheses, but it should be critically examined and validated through rigorous logical analysis, as it can be subjective and unreliable.",
+    "incorrectAnswers": [
+      "Intuition is always reliable.",
+      "Intuition is irrelevant to philosophical reasoning.",
+      "Intuition is the sole basis for philosophical knowledge."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Describe the concept of 'formal fallacy' and provide an example.",
+    "correctAnswer": "A formal fallacy is an error in the structure or form of an argument, making it invalid; Example: Affirming the consequent (If P, then Q; Q; therefore P).",
+    "incorrectAnswers": [
+      "A fallacy in the content of an argument.",
+      "A valid argument.",
+      "A sound argument."
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  }
+]

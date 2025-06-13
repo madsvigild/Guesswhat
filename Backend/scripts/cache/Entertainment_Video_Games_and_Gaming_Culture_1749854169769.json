@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic platforming mascot is known for his red cap and overalls?",
+    "correctAnswer": "Mario",
+    "incorrectAnswers": [
+      "Sonic",
+      "Crash Bandicoot",
+      "Link"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the massively multiplayer online role-playing game (MMORPG) known for its vibrant fantasy world and player-driven economy?",
+    "correctAnswer": "World of Warcraft",
+    "incorrectAnswers": [
+      "The Elder Scrolls Online",
+      "Final Fantasy XIV",
+      "Guild Wars 2"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which game company is famous for creating the Pokémon franchise?",
+    "correctAnswer": "Nintendo",
+    "incorrectAnswers": [
+      "Sony",
+      "Microsoft",
+      "Sega"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What genre is best described by games like Pac-Man and Space Invaders?",
+    "correctAnswer": "Arcade",
+    "incorrectAnswers": [
+      "RPG",
+      "MMORPG",
+      "FPS"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which console was the first to use cartridges?",
+    "correctAnswer": "Magnavox Odyssey",
+    "incorrectAnswers": [
+      "Atari 2600",
+      "Nintendo Entertainment System",
+      "ColecoVision"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In the game \"Minecraft,\" what material is used to craft a pickaxe?",
+    "correctAnswer": "Wood or Stone",
+    "incorrectAnswers": [
+      "Gold",
+      "Diamond",
+      "Iron"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the organization that governs competitive esports?",
+    "correctAnswer": "There is no single governing body for all esports.",
+    "incorrectAnswers": [
+      "The International Olympic Committee",
+      "The Electronic Sports League",
+      "The World Esports Association"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What popular game franchise features a Master Chief?",
+    "correctAnswer": "Halo",
+    "incorrectAnswers": [
+      "Call of Duty",
+      "Gears of War",
+      "Destiny"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which game features Link as the main protagonist?",
+    "correctAnswer": "The Legend of Zelda",
+    "incorrectAnswers": [
+      "Metroid",
+      "Super Mario",
+      "Pokémon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the iconic first-person shooter (FPS) series known for its multiplayer deathmatches?",
+    "correctAnswer": "Doom",
+    "incorrectAnswers": [
+      "Wolfenstein",
+      "Quake",
+      "Unreal Tournament"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the virtual reality headset developed by Facebook (Meta)?",
+    "correctAnswer": "Meta Quest 2",
+    "incorrectAnswers": [
+      "Oculus Rift S",
+      "Valve Index",
+      "HTC Vive"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which game engine is predominantly used in the development of the \"Grand Theft Auto\" series?",
+    "correctAnswer": "RAGE Engine",
+    "incorrectAnswers": [
+      "Unreal Engine",
+      "Frostbite Engine",
+      "CryEngine"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the popular streaming platform primarily focused on video game content?",
+    "correctAnswer": "Twitch",
+    "incorrectAnswers": [
+      "YouTube",
+      "Netflix",
+      "Hulu"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the term for in-game purchases that give players advantages in a game?",
+    "correctAnswer": "Microtransactions",
+    "incorrectAnswers": [
+      "DLC",
+      "Patches",
+      "Mods"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which indie game known for its physics-based gameplay and challenging levels became an unexpected viral sensation?",
+    "correctAnswer": "Getting Over It with Bennett Foddy",
+    "incorrectAnswers": [
+      "Celeste",
+      "Cuphead",
+      "Hollow Knight"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What does the acronym \"MMO\" stand for in the context of video games?",
+    "correctAnswer": "Massively Multiplayer Online",
+    "incorrectAnswers": [
+      "Massive Multiplayer Offline",
+      "Miniature Multiplayer Online",
+      "Multi-Mission Operation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What significant event took place at the 2018 Evolution Championship Series (Evo)?",
+    "correctAnswer": "Evo Moment 37",
+    "incorrectAnswers": [
+      "SonicFox's undefeated streak",
+      "The release of Dragon Ball FighterZ",
+      "The announcement of Street Fighter 6"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which gaming company developed the original \"Tomb Raider\" series?",
+    "correctAnswer": "Core Design",
+    "incorrectAnswers": [
+      "Crystal Dynamics",
+      "Eidos Interactive",
+      "Square Enix"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In \"Super Mario 64,\" what is the name of the secret star located in the painting of a mysterious pyramid?",
+    "correctAnswer": "MIPS's Painting Star",
+    "incorrectAnswers": [
+      "Big Boo's Haunt",
+      "Whomp's Fortress",
+      "Dire Dire Docks"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What does the acronym \"FPS\" stand for in video games?",
+    "correctAnswer": "First-Person Shooter",
+    "incorrectAnswers": [
+      "Fantasy Point System",
+      "Final Project Submission",
+      "Fighting Point System"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Which obscure Japanese role-playing game (JRPG) from the late 90s is known for its complex story and unique battle system?",
+    "correctAnswer": "Chrono Trigger",
+    "incorrectAnswers": [
+      "Final Fantasy VII",
+      "Pokemon Red and Blue",
+      "Dragon Quest VIII"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "Who composed the soundtrack for the critically acclaimed video game \"The Last of Us\"?",
+    "correctAnswer": "Gustavo Santaolalla",
+    "incorrectAnswers": [
+      "Hans Zimmer",
+      "Howard Shore",
+      "Danny Elfman"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the early 3D graphics accelerator card that revolutionized PC gaming in the late 1990s?",
+    "correctAnswer": "NVIDIA GeForce 256",
+    "incorrectAnswers": [
+      "ATI Radeon 7500",
+      "Voodoo 3 3000",
+      "3dfx Voodoo 2"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "In the game \"StarCraft II\", what race is known for their powerful psychic abilities and versatile units?",
+    "correctAnswer": "Protoss",
+    "incorrectAnswers": [
+      "Zerg",
+      "Terran",
+      "Hybrid"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  },
+  {
+    "question": "What is the name of the popular modding community platform for various games, including Skyrim and Fallout?",
+    "correctAnswer": "Nexus Mods",
+    "incorrectAnswers": [
+      "Steam Workshop",
+      "ModDB",
+      "CurseForge"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Entertainment"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which type of blood cell is responsible for carrying oxygen throughout the body?",
+    "correctAnswer": "Red blood cells",
+    "incorrectAnswers": [
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the basic unit of heredity?",
+    "correctAnswer": "Gene",
+    "incorrectAnswers": [
+      "Chromosome",
+      "Protein",
+      "Cell"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the process by which the body maintains a stable internal environment?",
+    "correctAnswer": "Homeostasis",
+    "incorrectAnswers": [
+      "Metabolism",
+      "Respiration",
+      "Digestion"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the common name for the  bone fracture where the bone breaks the skin?",
+    "correctAnswer": "Compound fracture",
+    "incorrectAnswers": [
+      "Simple fracture",
+      "Hairline fracture",
+      "Greenstick fracture"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What vital process does the enzyme pepsin assist in?",
+    "correctAnswer": "Protein digestion",
+    "incorrectAnswers": [
+      "Carbohydrate digestion",
+      "Fat digestion",
+      "DNA replication"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which gland is responsible for regulating blood sugar levels?",
+    "correctAnswer": "Pancreas",
+    "incorrectAnswers": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the protective sheath surrounding nerve fibers?",
+    "correctAnswer": "Myelin sheath",
+    "incorrectAnswers": [
+      "Axon",
+      "Dendrite",
+      "Synapse"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the medical term for high blood pressure?",
+    "correctAnswer": "Hypertension",
+    "incorrectAnswers": [
+      "Hypotension",
+      "Bradycardia",
+      "Tachycardia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the primary function of the cerebellum?",
+    "correctAnswer": "Coordination of movement and balance",
+    "incorrectAnswers": [
+      "Memory and learning",
+      "Speech and language",
+      "Conscious thought"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What type of immunity is acquired through exposure to an antigen, such as a pathogen?",
+    "correctAnswer": "Adaptive immunity",
+    "incorrectAnswers": [
+      "Innate immunity",
+      "Passive immunity",
+      "Humoral immunity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which neurotransmitter is most closely associated with mood regulation and often implicated in depression?",
+    "correctAnswer": "Serotonin",
+    "incorrectAnswers": [
+      "Dopamine",
+      "Acetylcholine",
+      "GABA"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the role of the lymphatic system in the human body?",
+    "correctAnswer": "Fluid balance, fat absorption, and immune response",
+    "incorrectAnswers": [
+      "Oxygen transport",
+      "Hormone production",
+      "Nutrient digestion"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the process where a cell engulfs and digests foreign material?",
+    "correctAnswer": "Phagocytosis",
+    "incorrectAnswers": [
+      "Pinocytosis",
+      "Exocytosis",
+      "Endocytosis"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which type of muscle tissue is responsible for involuntary movements, like digestion?",
+    "correctAnswer": "Smooth muscle",
+    "incorrectAnswers": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Connective tissue"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the medical term for the inflammation of the liver?",
+    "correctAnswer": "Hepatitis",
+    "incorrectAnswers": [
+      "Nephritis",
+      "Gastritis",
+      "Appendicitis"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the function of the Golgi apparatus in a cell?",
+    "correctAnswer": "Processing and packaging proteins and lipids",
+    "incorrectAnswers": [
+      "Energy production",
+      "Protein synthesis",
+      "Waste disposal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the process by which new blood vessels are formed?",
+    "correctAnswer": "Angiogenesis",
+    "incorrectAnswers": [
+      "Hematopoiesis",
+      "Apoptosis",
+      "Vasodilation"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What are telomeres and what role do they play in cell aging?",
+    "correctAnswer": "Protective caps on chromosomes; their shortening is associated with cell senescence",
+    "incorrectAnswers": [
+      "Segments of DNA responsible for cell reproduction; they extend with each cell division",
+      "Components of the cytoskeleton; they strengthen the cell membrane",
+      "Proteins that repair damaged DNA; their activity increases with age"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the difference between an artery and a vein?",
+    "correctAnswer": "Arteries carry oxygenated blood away from the heart; veins carry deoxygenated blood to the heart (with the exception of pulmonary arteries and veins).",
+    "incorrectAnswers": [
+      "Arteries carry blood to the heart; veins carry blood away from the heart",
+      "Arteries have thinner walls than veins; veins have thicker walls",
+      "Arteries are only found in the upper body; veins are only found in the lower body"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the role of the Hypothalamus in the endocrine system?",
+    "correctAnswer": "It acts as a link between the nervous and endocrine systems, controlling the pituitary gland.",
+    "incorrectAnswers": [
+      "Produces insulin",
+      "Regulates blood pressure directly",
+      "Secretes growth hormones directly"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Explain the mechanism of action of  non-steroidal anti-inflammatory drugs (NSAIDs)?",
+    "correctAnswer": "They inhibit the production of prostaglandins, reducing inflammation and pain.",
+    "incorrectAnswers": [
+      "They block the release of histamine",
+      "They stimulate the immune system",
+      "They directly target the source of infection"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the significance of the Human Genome Project?",
+    "correctAnswer": "It mapped the entire human genome, providing a detailed understanding of human genes and their function.",
+    "incorrectAnswers": [
+      "It created the first synthetic human cell",
+      "It identified the cure for all genetic diseases",
+      "It discovered the origins of human evolution"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is CRISPR-Cas9 and how is it used in gene editing?",
+    "correctAnswer": "A gene-editing tool using a guide RNA to target specific DNA sequences for cutting and modification.",
+    "incorrectAnswers": [
+      "A type of gene therapy using viral vectors",
+      "A method for cloning human embryos",
+      "A technique for detecting genetic mutations"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Describe the process of apoptosis and its significance in development and disease.",
+    "correctAnswer": "Programmed cell death, essential for development and preventing tumor formation; dysfunction can lead to cancer or other diseases.",
+    "incorrectAnswers": [
+      "Random cell death due to injury or infection",
+      "Cell division resulting in increased cell numbers",
+      "The process by which cells differentiate into specialized cells"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

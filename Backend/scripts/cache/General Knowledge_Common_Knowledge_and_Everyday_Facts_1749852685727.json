@@ -1,0 +1,178 @@
+[
+  {
+    "question": "How many continents are there traditionally recognized?",
+    "correctAnswer": "Seven",
+    "incorrectAnswers": [
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the primary function of red blood cells?",
+    "correctAnswer": "To carry oxygen",
+    "incorrectAnswers": [
+      "To fight infection",
+      "To clot blood",
+      "To regulate body temperature"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of Earth's only natural satellite?",
+    "correctAnswer": "The Moon",
+    "incorrectAnswers": [
+      "Mars",
+      "Venus",
+      "Phobos"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "England",
+      "Germany",
+      "Italy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "correctAnswer": "Blue Whale",
+    "incorrectAnswers": [
+      "African Elephant",
+      "Polar Bear",
+      "Giraffe"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the process by which plants make their food?",
+    "correctAnswer": "Photosynthesis",
+    "incorrectAnswers": [
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "correctAnswer": "Six",
+    "incorrectAnswers": [
+      "Five",
+      "Seven",
+      "Eight"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Approximately how many bones are in the adult human body?",
+    "correctAnswer": "206",
+    "incorrectAnswers": [
+      "150",
+      "300",
+      "250"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the phenomenon where the Earth's magnetic field reverses?",
+    "correctAnswer": "Geomagnetic Reversal",
+    "incorrectAnswers": [
+      "Magnetic Pole Shift",
+      "Earth's Rotation",
+      "Solar Flare"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which gas makes up the largest percentage of Earth's atmosphere?",
+    "correctAnswer": "Nitrogen",
+    "incorrectAnswers": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "correctAnswer": "Vatican City",
+    "incorrectAnswers": [
+      "Monaco",
+      "Nauru",
+      "Tuvalu"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the common name for the chemical compound sodium chloride?",
+    "correctAnswer": "Salt",
+    "incorrectAnswers": [
+      "Sugar",
+      "Baking Soda",
+      "Vinegar"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name for the outermost layer of the Earth's atmosphere?",
+    "correctAnswer": "Exosphere",
+    "incorrectAnswers": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the phenomenon causing the aurora borealis?",
+    "correctAnswer": "Solar wind",
+    "incorrectAnswers": [
+      "Ozone depletion",
+      "Cosmic rays",
+      "Gravitational pull"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What type of star is our Sun?",
+    "correctAnswer": "G-type main-sequence star",
+    "incorrectAnswers": [
+      "Red giant",
+      "White dwarf",
+      "Neutron star"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the largest known prime number?",
+    "correctAnswer": "It's constantly changing, but the current largest known is a Mersenne prime.",
+    "incorrectAnswers": [
+      "1000000007",
+      "2^82589933-1",
+      "There is no largest prime number"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

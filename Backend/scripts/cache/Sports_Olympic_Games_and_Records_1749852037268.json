@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which country has won the most gold medals in the Summer Olympics?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "China",
+      "Great Britain",
+      "Soviet Union"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which year were the first modern Olympic Games held?",
+    "correctAnswer": "1896",
+    "incorrectAnswers": [
+      "1900",
+      "1904",
+      "1888"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Michael Phelps holds the record for most Olympic gold medals won by an individual. How many does he have?",
+    "correctAnswer": "28",
+    "incorrectAnswers": [
+      "22",
+      "18",
+      "32"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which sport features the 'Decathlon'?",
+    "correctAnswer": "Athletics (Track and Field)",
+    "incorrectAnswers": [
+      "Swimming",
+      "Gymnastics",
+      "Weightlifting"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What country hosted the 2008 Summer Olympics?",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Japan",
+      "South Korea",
+      "Australia"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country is famous for its dominance in Winter Olympic sports like Skiing and Biathlon?",
+    "correctAnswer": "Norway",
+    "incorrectAnswers": [
+      "Canada",
+      "Russia",
+      "Sweden"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many rings are featured in the Olympic symbol?",
+    "correctAnswer": "Five",
+    "incorrectAnswers": [
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the motto of the Olympic Games?",
+    "correctAnswer": "Citius, Altius, Fortius",
+    "incorrectAnswers": [
+      "Faster, Higher, Stronger",
+      "Strength, Honor, Courage",
+      "Unity, Discipline, Victory"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which athlete won seven gold medals at the 2008 Beijing Olympics?",
+    "correctAnswer": "Michael Phelps",
+    "incorrectAnswers": [
+      "Usain Bolt",
+      "Ian Thorpe",
+      "Mark Spitz"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the Olympic flame relay?",
+    "correctAnswer": "Olympic Torch Relay",
+    "incorrectAnswers": [
+      "Olympic Fire Run",
+      "Flame Journey",
+      "Global Torch Race"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Marita Koch holds the women's world record in the 400-meter dash.  In what year did she set this record?",
+    "correctAnswer": "1985",
+    "incorrectAnswers": [
+      "1978",
+      "1990",
+      "1982"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which gymnast won six gold medals at the 1984 Los Angeles Olympics?",
+    "correctAnswer": "Mary Lou Retton",
+    "incorrectAnswers": [
+      "Nadia Comăneci",
+      "Olga Korbut",
+      "Simone Biles"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Who was the first woman to win an Olympic gold medal in boxing?",
+    "correctAnswer": "Nicola Adams",
+    "incorrectAnswers": [
+      "Claressa Shields",
+      "Katie Taylor",
+      "Cecilia Brækhus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country boycotted the 1980 Moscow Olympics?",
+    "correctAnswer": "United States",
+    "incorrectAnswers": [
+      "China",
+      "Great Britain",
+      "Canada"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In which Olympic sport did Simone Biles win four gold medals at the 2016 Rio Olympics?",
+    "correctAnswer": "Gymnastics",
+    "incorrectAnswers": [
+      "Swimming",
+      "Track and Field",
+      "Diving"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "How many times has the Summer Olympics been held in Tokyo?",
+    "correctAnswer": "Two",
+    "incorrectAnswers": [
+      "One",
+      "Three",
+      "Zero"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which South Korean athlete won gold medals in both short track speed skating and long track speed skating in a single Olympics?",
+    "correctAnswer": "Lee Sang-hwa",
+    "incorrectAnswers": [
+      "Kim Yun-mi",
+      "Cho Ha-ri",
+      "Park Seung-hi"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which athlete is known for winning the 100m sprint at three consecutive Olympic Games (2008, 2012, 2016)?",
+    "correctAnswer": "Usain Bolt",
+    "incorrectAnswers": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Donovan Bailey"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the highest-scoring individual round in the history of Olympic men's basketball?",
+    "correctAnswer": "138 Points",
+    "incorrectAnswers": [
+      "128 points",
+      "148 points",
+      "118 points"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "In what year did the first Winter Olympic Games take place?",
+    "correctAnswer": "1924",
+    "incorrectAnswers": [
+      "1920",
+      "1928",
+      "1932"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which nation won the most medals at the 1980 Moscow Olympics?",
+    "correctAnswer": "Soviet Union",
+    "incorrectAnswers": [
+      "East Germany",
+      "United States",
+      "China"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "What is the name of the controversial swimming race where multiple competitors were disqualified for false starts in a significant Olympic Games?",
+    "correctAnswer": "100m freestyle men's final at the 1984 Los Angeles Olympics.",
+    "incorrectAnswers": [
+      "200m butterfly final at the 1980 Moscow Olympics",
+      "100m backstroke final at the 1972 Munich Olympics",
+      "200m individual medley final at the 2000 Sydney Olympics."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which country hosted the Summer Olympics twice in the 20th century,  but never in the 21st century?",
+    "correctAnswer": "Mexico",
+    "incorrectAnswers": [
+      "Australia",
+      "Canada",
+      "Japan"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Besides Michael Phelps, name another swimmer with more than 20 Olympic medals (Gold, Silver, Bronze combined)?",
+    "correctAnswer": "Larisa Latynina",
+    "incorrectAnswers": [
+      "Mark Spitz",
+      "Matt Biondi",
+      "Natalie Coughlin"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  },
+  {
+    "question": "Which  nation won the first ever Olympic gold medal in badminton, in 1992?",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": [
+      "China",
+      "South Korea",
+      "Malaysia"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Sports"
+  }
+]

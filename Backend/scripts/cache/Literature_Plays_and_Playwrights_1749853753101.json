@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Who wrote the play 'Antigone'?",
+    "correctAnswer": "Sophocles",
+    "incorrectAnswers": [
+      "Euripides",
+      "Aeschylus",
+      "Aristophanes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What type of play is typically characterized by witty banter, wordplay, and often ends in marriage?",
+    "correctAnswer": "Comedy",
+    "incorrectAnswers": [
+      "Tragedy",
+      "Tragicomedy",
+      "Farce"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which playwright is known for their absurdist plays like 'Waiting for Godot'?",
+    "correctAnswer": "Samuel Beckett",
+    "incorrectAnswers": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Eugene O'Neill"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In Shakespeare's 'Romeo and Juliet', what are the names of the two feuding families?",
+    "correctAnswer": "Montagues and Capulets",
+    "incorrectAnswers": [
+      "York and Lancaster",
+      "Tyrell and Lannister",
+      "Capulet and Scaliger"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Greek playwright is considered the father of tragedy?",
+    "correctAnswer": "Aeschylus",
+    "incorrectAnswers": [
+      "Sophocles",
+      "Euripides",
+      "Aristophanes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What famous play by Henrik Ibsen explores themes of social hypocrisy and female oppression?",
+    "correctAnswer": "A Doll's House",
+    "incorrectAnswers": [
+      "Hedda Gabler",
+      "Ghosts",
+      "Peer Gynt"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "correctAnswer": "Arthur Miller",
+    "incorrectAnswers": [
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Shakespearean play features a Scottish general's ambition and descent into tyranny?",
+    "correctAnswer": "Macbeth",
+    "incorrectAnswers": [
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the play by William Shakespeare that features the characters Puck and Oberon?",
+    "correctAnswer": "A Midsummer Night's Dream",
+    "incorrectAnswers": [
+      "Twelfth Night",
+      "The Tempest",
+      "Much Ado About Nothing"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "August Wilson's play 'Fences' explores themes of which historical period in America?",
+    "correctAnswer": "The 1950s",
+    "incorrectAnswers": [
+      "The 1920s",
+      "The 1980s",
+      "The 1930s"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In 'The Importance of Being Earnest', Oscar Wilde uses the name 'Ernest' as a symbol of what?",
+    "correctAnswer": "Idealized masculinity and respectability",
+    "incorrectAnswers": [
+      "Romantic love",
+      "Social rebellion",
+      "Intellectual curiosity"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the central conflict in Sophocles' 'Oedipus Rex'?",
+    "correctAnswer": "Oedipus unknowingly fulfills a prophecy by killing his father and marrying his mother.",
+    "incorrectAnswers": [
+      "Oedipus's struggle with his blindness",
+      "Oedipus's quest for power",
+      "Oedipus's battle against the gods"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which contemporary playwright is known for their works exploring themes of race, class, and gender in a post-colonial context?",
+    "correctAnswer": "Lynn Nottage",
+    "incorrectAnswers": [
+      "Suzan-Lori Parks",
+      "August Wilson",
+      "Tony Kushner"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the genre of Japanese Noh theatre that features a masked chorus?",
+    "correctAnswer": "Kyogen",
+    "incorrectAnswers": [
+      "Gidayū",
+      "Kabuki",
+      "Bunraku"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which Shakespearean comedy features mistaken identities and the use of disguises to resolve romantic entanglements?",
+    "correctAnswer": "Twelfth Night",
+    "incorrectAnswers": [
+      "Much Ado About Nothing",
+      "As You Like It",
+      "A Midsummer Night's Dream"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Whose play 'The Crucible' uses the Salem witch trials as an allegory for McCarthyism?",
+    "correctAnswer": "Arthur Miller",
+    "incorrectAnswers": [
+      "Tennessee Williams",
+      "Edward Albee",
+      "Eugene O'Neill"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which playwright is associated with the 'Theatre of the Absurd' and known for plays like 'Rhinoceros'?",
+    "correctAnswer": "Eugène Ionesco",
+    "incorrectAnswers": [
+      "Samuel Beckett",
+      "Jean-Paul Sartre",
+      "Albert Camus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the play by Anton Chekhov that centers around the lives of a dysfunctional aristocratic family in the Russian countryside?",
+    "correctAnswer": "The Cherry Orchard",
+    "incorrectAnswers": [
+      "Uncle Vanya",
+      "Three Sisters",
+      "The Seagull"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the primary theme explored in Henrik Ibsen's 'Hedda Gabler'?",
+    "correctAnswer": "The destructive nature of boredom and societal constraints on women.",
+    "incorrectAnswers": [
+      "The importance of family",
+      "The search for spiritual enlightenment",
+      "The pursuit of political power"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote the notoriously complex and avant-garde play 'Ubu the King'?",
+    "correctAnswer": "Alfred Jarry",
+    "incorrectAnswers": [
+      "Antonin Artaud",
+      "Guillaume Apollinaire",
+      "Tristan Tzara"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What early modern English playwright, known for their morally ambiguous characters and cynical wit, is often credited with influencing Shakespeare?",
+    "correctAnswer": "Christopher Marlowe",
+    "incorrectAnswers": [
+      "Ben Jonson",
+      "Thomas Kyd",
+      "John Lyly"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which playwright, a key figure in the development of absurdist theatre, is known for their use of fragmented dialogue and repetitive actions?",
+    "correctAnswer": "Harold Pinter",
+    "incorrectAnswers": [
+      "Tom Stoppard",
+      "Edward Bond",
+      "Joe Orton"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Identify the playwright associated with the 'kitchen sink realism' movement in British theatre, known for plays portraying working-class struggles in post-war Britain.",
+    "correctAnswer": "John Osborne",
+    "incorrectAnswers": [
+      "Arnold Wesker",
+      "Shelagh Delaney",
+      "Alan Sillitoe"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which ancient Greek playwright, known for their exploration of complex female characters and their often tragic fates, is credited with writing 'Medea'?",
+    "correctAnswer": "Euripides",
+    "incorrectAnswers": [
+      "Sophocles",
+      "Aeschylus",
+      "Aristophanes"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which philosopher is most associated with the concept of the social contract?",
+    "correctAnswer": "John Locke",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "Confucius"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of Plato's most famous work, exploring his Theory of Forms and ideal state?",
+    "correctAnswer": "The Republic",
+    "incorrectAnswers": [
+      "The Laws",
+      "Symposium",
+      "Phaedo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which political ideology emphasizes individual liberty and minimal government intervention?",
+    "correctAnswer": "Libertarianism",
+    "incorrectAnswers": [
+      "Socialism",
+      "Communism",
+      "Totalitarianism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Who wrote 'The Prince', a treatise on acquiring and maintaining political power?",
+    "correctAnswer": "Niccolò Machiavelli",
+    "incorrectAnswers": [
+      "Thomas Hobbes",
+      "John Stuart Mill",
+      "Immanuel Kant"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher advocated for the separation of powers within government?",
+    "correctAnswer": "Montesquieu",
+    "incorrectAnswers": [
+      "Rousseau",
+      "Voltaire",
+      "Diderot"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central concept in John Rawls' 'A Theory of Justice'?",
+    "correctAnswer": "The Veil of Ignorance",
+    "incorrectAnswers": [
+      "The State of Nature",
+      "The General Will",
+      "The Categorical Imperative"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Marxist philosophy, what is the struggle between the bourgeoisie and the proletariat called?",
+    "correctAnswer": "Class struggle",
+    "incorrectAnswers": [
+      "Ideological struggle",
+      "Political struggle",
+      "Cultural struggle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which political philosophy emphasizes the collective good over individual rights?",
+    "correctAnswer": "Collectivism",
+    "incorrectAnswers": [
+      "Individualism",
+      "Liberalism",
+      "Anarchism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the philosophical concept that emphasizes the importance of human reason and experience in the acquisition of knowledge?",
+    "correctAnswer": "Empiricism",
+    "incorrectAnswers": [
+      "Rationalism",
+      "Idealism",
+      "Existentialism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher significantly influenced the development of anarchism with his ideas on individual liberty and the abolition of the state?",
+    "correctAnswer": "Pierre-Joseph Proudhon",
+    "incorrectAnswers": [
+      "Mikhail Bakunin",
+      "Emma Goldman",
+      "Noam Chomsky"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept of 'arete' in ancient Greek philosophy, particularly relevant to political thought?",
+    "correctAnswer": "Excellence or virtue",
+    "incorrectAnswers": [
+      "Justice",
+      "Equality",
+      "Liberty"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for a system of government where power is held by a small group of people?",
+    "correctAnswer": "Oligarchy",
+    "incorrectAnswers": [
+      "Democracy",
+      "Autocracy",
+      "Theocracy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Define 'jus ad bellum' in just war theory.",
+    "correctAnswer": "The justice of going to war",
+    "incorrectAnswers": [
+      "The justice of conducting war",
+      "The justice of peacemaking",
+      "The justice of war crimes"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the core principle of Confucian political philosophy regarding governance?",
+    "correctAnswer": "Benevolent rule by virtuous leaders",
+    "incorrectAnswers": [
+      "Strict adherence to law",
+      "The Mandate of Heaven",
+      "Democratic elections"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which political philosopher is known for their concept of 'the general will', where the collective good supersedes individual desires?",
+    "correctAnswer": "Jean-Jacques Rousseau",
+    "incorrectAnswers": [
+      "Immanuel Kant",
+      "John Locke",
+      "David Hume"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Hannah Arendt's work, 'The Origins of Totalitarianism', explores the rise of which ideologies?",
+    "correctAnswer": "Totalitarianism, Fascism, and Stalinism",
+    "incorrectAnswers": [
+      "Liberalism, Conservatism, and Socialism",
+      "Anarchism, Communism, and Nazism",
+      "Democracy, Monarchy, and Oligarchy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the concept of 'overlapping consensus' as developed by John Rawls.",
+    "correctAnswer": "A political agreement achieved despite differing comprehensive doctrines.",
+    "incorrectAnswers": [
+      "A unanimous agreement on a single political doctrine",
+      "A compromise that satisfies all parties equally",
+      "A political agreement based solely on shared moral principles"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the difference between 'positive liberty' and 'negative liberty' as understood in political philosophy?",
+    "correctAnswer": "Positive liberty is the possession of the capacity to act upon one's free will, while negative liberty is freedom from external constraints.",
+    "incorrectAnswers": [
+      "They are interchangeable terms",
+      "Positive liberty is freedom from coercion; negative liberty is freedom to pursue one's goals.",
+      "Positive liberty is the absence of oppression; negative liberty is self-determination."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Foucault's work, what is the concept of 'biopower'?",
+    "correctAnswer": "The way power operates through societal control of bodies and populations.",
+    "incorrectAnswers": [
+      "The power of the ruling class",
+      "The power of the church",
+      "The power of the state"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is 'Fallibilism' in relation to political epistemology?",
+    "correctAnswer": "The recognition that our political beliefs and knowledge claims are always potentially revisable and imperfect",
+    "incorrectAnswers": [
+      "The belief in the infallibility of political leaders",
+      "The pursuit of absolute political knowledge",
+      "The rejection of all political knowledge"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the concept of 'homo sacer' (sacred man) as explored by Giorgio Agamben?",
+    "correctAnswer": "An individual who is stripped of their legal protections and left outside the law.",
+    "incorrectAnswers": [
+      "A person deemed divinely chosen to rule",
+      "A person of exceptional moral character",
+      "A member of the ruling class"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is a key difference between utilitarianism and deontology in the context of political decision-making?",
+    "correctAnswer": "Utilitarianism focuses on maximizing overall happiness, while deontology prioritizes moral duties and rules.",
+    "incorrectAnswers": [
+      "They are identical approaches",
+      "Utilitarianism is concerned with individual rights, while deontology is concerned with societal good",
+      "Both approaches ignore consequences"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which form of government is characterized by rule by the people, either directly or through elected representatives?",
+    "correctAnswer": "Democracy",
+    "incorrectAnswers": [
+      "Monarchy",
+      "Oligarchy",
+      "Autocracy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the central idea of Thomas Hobbes' Leviathan?",
+    "correctAnswer": "The social contract and the necessity of a strong sovereign to maintain order.",
+    "incorrectAnswers": [
+      "The divine right of kings",
+      "The inherent goodness of humanity",
+      "The importance of individual liberty"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  }
+]

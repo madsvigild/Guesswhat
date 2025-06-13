@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which iconic painting features the Mona Lisa's enigmatic smile?",
+    "correctAnswer": "Mona Lisa",
+    "incorrectAnswers": [
+      "Girl with a Pearl Earring",
+      "The Scream",
+      "Starry Night"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling, a masterpiece of the High Renaissance?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is famous for his sunflowers and his swirling, expressive style?",
+    "correctAnswer": "Vincent van Gogh",
+    "incorrectAnswers": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What famous sculpture depicts a seated woman with a mysterious smile?",
+    "correctAnswer": "Venus de Milo",
+    "incorrectAnswers": [
+      "David",
+      "Winged Victory of Samothrace",
+      "Laocoön and His Sons"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is associated with the Cubist movement and paintings like 'Guernica'?",
+    "correctAnswer": "Pablo Picasso",
+    "incorrectAnswers": [
+      "Salvador Dalí",
+      "Henri Matisse",
+      "Claude Monet"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Persistence of Memory, featuring melting clocks, is a famous work by which Surrealist artist?",
+    "correctAnswer": "Salvador Dalí",
+    "incorrectAnswers": [
+      "René Magritte",
+      "Max Ernst",
+      "Joan Miró"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist's iconic pop art Campbell's Soup Cans revolutionized the art world?",
+    "correctAnswer": "Andy Warhol",
+    "incorrectAnswers": [
+      "Roy Lichtenstein",
+      "Claes Oldenburg",
+      "Jasper Johns"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the famous statue of liberty in New York City?",
+    "correctAnswer": "Statue of Liberty",
+    "incorrectAnswers": [
+      "The Thinker",
+      "The Colossus of Rhodes",
+      "The David"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who painted the series of water lilies that are now world-renowned?",
+    "correctAnswer": "Claude Monet",
+    "incorrectAnswers": [
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist is known for his expressive and colourful Fauvist paintings?",
+    "correctAnswer": "Henri Matisse",
+    "incorrectAnswers": [
+      "Paul Cézanne",
+      "Georges Braque",
+      "Paul Gauguin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Renaissance artist is famous for his frescoes in the Scrovegni Chapel in Padua, Italy?",
+    "correctAnswer": "Giotto di Bondone",
+    "incorrectAnswers": [
+      "Botticelli",
+      "Michelangelo",
+      "Leonardo da Vinci"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Baroque painter is known for his dramatic use of light and shadow, called tenebrism?",
+    "correctAnswer": "Caravaggio",
+    "incorrectAnswers": [
+      "Rembrandt",
+      "Vermeer",
+      "Rubens"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which American artist is known for his paintings of urban scenes and everyday life in the early 20th century?",
+    "correctAnswer": "Edward Hopper",
+    "incorrectAnswers": [
+      "Grant Wood",
+      "Georgia O'Keeffe",
+      "Andrew Wyeth"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What artistic movement is associated with artists like Jackson Pollock and Mark Rothko, characterized by abstract expressionism?",
+    "correctAnswer": "Abstract Expressionism",
+    "incorrectAnswers": [
+      "Pop Art",
+      "Surrealism",
+      "Cubism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which sculptor created the iconic bronze sculpture 'The Thinker'?",
+    "correctAnswer": "Auguste Rodin",
+    "incorrectAnswers": [
+      "Henri Matisse",
+      "Edgar Degas",
+      "Camille Claudel"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist, known for his meticulous detail and hyperrealism, created 'The Swimming Pool'?",
+    "correctAnswer": "David Hockney",
+    "incorrectAnswers": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the architectural style characterized by pointed arches, ribbed vaults, and flying buttresses?",
+    "correctAnswer": "Gothic",
+    "incorrectAnswers": [
+      "Romanesque",
+      "Baroque",
+      "Renaissance"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist painted 'The Night Watch,' a masterpiece of the Dutch Golden Age?",
+    "correctAnswer": "Rembrandt van Rijn",
+    "incorrectAnswers": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jacob van Ruisdael"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which female artist is known for her self-portraits and unique style that blends Surrealism and Symbolism?",
+    "correctAnswer": "Frida Kahlo",
+    "incorrectAnswers": [
+      "Georgia O'Keeffe",
+      "Yayoi Kusama",
+      "Barbara Hepworth"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which largely self-taught artist created the iconic 'The Scream'?",
+    "correctAnswer": "Edvard Munch",
+    "incorrectAnswers": [
+      "Gustav Klimt",
+      "Piet Mondrian",
+      "Kazimir Malevich"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Who designed the Fallingwater, a famous house built over a waterfall?",
+    "correctAnswer": "Frank Lloyd Wright",
+    "incorrectAnswers": [
+      "Le Corbusier",
+      "Mies van der Rohe",
+      "Philip Johnson"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Pre-Raphaelite Brotherhood artist is known for his paintings of Arthurian legends and beautiful women?",
+    "correctAnswer": "Dante Gabriel Rossetti",
+    "incorrectAnswers": [
+      "John Everett Millais",
+      "William Holman Hunt",
+      "Edward Burne-Jones"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which sculptor is known for his minimalist and highly polished bronze sculptures?",
+    "correctAnswer": "Constantin Brancusi",
+    "incorrectAnswers": [
+      "Henry Moore",
+      "Alberto Giacometti",
+      "Auguste Rodin"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which contemporary artist is known for his large-scale installations and sculptures using found objects?",
+    "correctAnswer": "Robert Rauschenberg",
+    "incorrectAnswers": [
+      "Jasper Johns",
+      "Claes Oldenburg",
+      "Andy Warhol"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which early 20th-century artist was a pioneer of Dadaism and produced works like 'Fountain'?",
+    "correctAnswer": "Marcel Duchamp",
+    "incorrectAnswers": [
+      "Man Ray",
+      "Hannah Höch",
+      "Kurt Schwitters"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]

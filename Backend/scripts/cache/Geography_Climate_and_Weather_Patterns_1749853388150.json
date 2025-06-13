@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Which climate zone is characterized by hot summers and mild winters, with distinct seasons?",
+    "correctAnswer": "Mediterranean climate",
+    "incorrectAnswers": [
+      "Tropical rainforest climate",
+      "Tundra climate",
+      "Desert climate"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the seasonal wind in South Asia that brings heavy rainfall?",
+    "correctAnswer": "Monsoon",
+    "incorrectAnswers": [
+      "Tornado",
+      "Hurricane",
+      "Blizzard"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Sahara Desert is located in which continent?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": [
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which weather phenomenon is characterized by a rapidly rotating column of air?",
+    "correctAnswer": "Tornado",
+    "incorrectAnswers": [
+      "Hurricane",
+      "Typhoon",
+      "Monsoon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the process by which water vapor changes into liquid water?",
+    "correctAnswer": "Condensation",
+    "incorrectAnswers": [
+      "Evaporation",
+      "Precipitation",
+      "Sublimation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of climate is typically found near the equator?",
+    "correctAnswer": "Tropical",
+    "incorrectAnswers": [
+      "Polar",
+      "Temperate",
+      "Mediterranean"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country experiences the most extreme temperature variations between summer and winter?",
+    "correctAnswer": "Russia",
+    "incorrectAnswers": [
+      "Canada",
+      "United States",
+      "China"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the large-scale atmospheric convection current that dominates weather patterns in the tropics?",
+    "correctAnswer": "Hadley Cell",
+    "incorrectAnswers": [
+      "Ferrel Cell",
+      "Polar Cell",
+      "Walker Circulation"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the primary cause of the Earth's seasons?",
+    "correctAnswer": "The tilt of the Earth's axis",
+    "incorrectAnswers": [
+      "The Earth's distance from the sun",
+      "The Earth's rotation",
+      "Solar flares"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The El Niño-Southern Oscillation (ENSO) primarily affects which ocean?",
+    "correctAnswer": "Pacific Ocean",
+    "incorrectAnswers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a rain shadow effect?",
+    "correctAnswer": "A dry area on the leeward side of a mountain range",
+    "incorrectAnswers": [
+      "Increased rainfall on the windward side of a mountain",
+      "A type of cloud formation",
+      "A weather phenomenon caused by volcanic eruptions"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which climate classification system is most widely used by geographers?",
+    "correctAnswer": "Köppen climate classification",
+    "incorrectAnswers": [
+      "Thornthwaite climate classification",
+      "Trewartha climate classification",
+      "Alisov climate classification"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name of the climate zone characterized by permafrost?",
+    "correctAnswer": "Tundra",
+    "incorrectAnswers": [
+      "Taiga",
+      "Steppe",
+      "Savanna"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Describe a characteristic feature of a Mediterranean climate.",
+    "correctAnswer": "Dry summers and wet winters",
+    "incorrectAnswers": [
+      "Consistent rainfall throughout the year",
+      "Severe winters with heavy snowfall",
+      "Hot summers and very cold winters"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What geographic feature significantly influences the climate of coastal regions?",
+    "correctAnswer": "Ocean currents",
+    "incorrectAnswers": [
+      "Mountain ranges only",
+      "Rivers only",
+      "Forests only"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which biome is characterized by hot temperatures, high humidity, and abundant rainfall?",
+    "correctAnswer": "Tropical rainforest",
+    "incorrectAnswers": [
+      "Desert",
+      "Savanna",
+      "Taiga"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What weather phenomenon often occurs along the Intertropical Convergence Zone (ITCZ)?",
+    "correctAnswer": "Thunderstorms and heavy rainfall",
+    "incorrectAnswers": [
+      "Blizzards",
+      "Droughts",
+      "Hailstorms only"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a katabatic wind?",
+    "correctAnswer": "A wind that flows downhill due to density differences",
+    "incorrectAnswers": [
+      "A wind that flows uphill",
+      "A type of sea breeze",
+      "A warm wind flowing from the ocean"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Explain the role of the jet stream in influencing weather patterns.",
+    "correctAnswer": "The jet stream steers weather systems, influencing temperature and precipitation patterns.",
+    "incorrectAnswers": [
+      "It has no influence",
+      "It only affects temperature",
+      "It only affects precipitation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a microclimate, and provide an example.",
+    "correctAnswer": "A localized climate differing from the surrounding area; e.g., an urban heat island.",
+    "incorrectAnswers": [
+      "A global climate pattern",
+      "A climate zone",
+      "A type of weather system"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Describe the process of formation of a monsoon trough.",
+    "correctAnswer": "Differential heating of land and sea creates a low-pressure zone drawing moisture-laden air.",
+    "incorrectAnswers": [
+      "High pressure builds up over the land",
+      "Cold air sinks creating a high pressure zone",
+      "Caused by shifting jet stream alone"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "How does albedo affect the Earth's climate system?",
+    "correctAnswer": "Albedo, the reflectivity of surfaces, influences the amount of solar radiation absorbed or reflected, impacting temperature.",
+    "incorrectAnswers": [
+      "Albedo has no effect on climate",
+      "High albedo leads to warming",
+      "Albedo only affects water bodies"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the significance of the Intertropical Convergence Zone (ITCZ) in global climate patterns?",
+    "correctAnswer": "The ITCZ is a zone of convergence of trade winds, creating a region of persistent thunderstorms and heavy rainfall.",
+    "incorrectAnswers": [
+      "The ITCZ is a high-pressure zone",
+      "The ITCZ is only found in the southern hemisphere",
+      "The ITCZ has no impact on weather"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

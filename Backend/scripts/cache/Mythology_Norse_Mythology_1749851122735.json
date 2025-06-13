@@ -1,0 +1,277 @@
+[
+  {
+    "question": "What is the name of the Norse god of thunder and lightning?",
+    "correctAnswer": "Thor",
+    "incorrectAnswers": [
+      "Odin",
+      "Loki",
+      "Freyr"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Norse god is associated with wisdom, war, death, and sorcery?",
+    "correctAnswer": "Odin",
+    "incorrectAnswers": [
+      "Thor",
+      "Tyr",
+      "Heimdall"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the great serpent that encircles the world in Norse mythology?",
+    "correctAnswer": "Jörmungandr",
+    "incorrectAnswers": [
+      "Fenrir",
+      "Nidhogg",
+      "Surt"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the world tree in Norse mythology?",
+    "correctAnswer": "Yggdrasil",
+    "incorrectAnswers": [
+      "Gungnir",
+      "Mjolnir",
+      "Sleipnir"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What type of creature is Sleipnir?",
+    "correctAnswer": "Eight-legged horse",
+    "incorrectAnswers": [
+      "Dragon",
+      "Giant",
+      "Wolf"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of Odin's wife in Norse mythology?",
+    "correctAnswer": "Frigg",
+    "incorrectAnswers": [
+      "Hel",
+      "Sif",
+      "Freyja"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Norse god sacrificed his hand to gain wisdom?",
+    "correctAnswer": "Odin",
+    "incorrectAnswers": [
+      "Thor",
+      "Loki",
+      "Tyr"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the hall where Odin receives fallen warriors?",
+    "correctAnswer": "Valhalla",
+    "incorrectAnswers": [
+      "Asgard",
+      "Vanaheim",
+      "Jotunheim"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the giant wolf that will swallow Odin during Ragnarök?",
+    "correctAnswer": "Fenrir",
+    "incorrectAnswers": [
+      "Jörmungandr",
+      "Nidhogg",
+      "Surt"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Who is the goddess associated with love, beauty, and war in Norse mythology?",
+    "correctAnswer": "Freyja",
+    "incorrectAnswers": [
+      "Frigg",
+      "Hel",
+      "Sif"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the mischievous god known for trickery and chaos in Norse mythology?",
+    "correctAnswer": "Loki",
+    "incorrectAnswers": [
+      "Baldr",
+      "Heimdall",
+      "Thor"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the realm of the dead in Norse mythology, ruled by Hel?",
+    "correctAnswer": "Helheim",
+    "incorrectAnswers": [
+      "Asgard",
+      "Alfheim",
+      "Jotunheim"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What magical object did Thor use to summon lightning?",
+    "correctAnswer": "Mjolnir",
+    "incorrectAnswers": [
+      "Gungnir",
+      "Draupnir",
+      "Hofund"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which god is associated with the protection of oaths and justice in Norse mythology?",
+    "correctAnswer": "Tyr",
+    "incorrectAnswers": [
+      "Odin",
+      "Thor",
+      "Loki"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What event signifies the end of the world in Norse mythology?",
+    "correctAnswer": "Ragnarök",
+    "incorrectAnswers": [
+      "Fimbulwinter",
+      "The Twilight of the Gods",
+      "The Great Burning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the dwarf who forged Thor's hammer, Mjolnir?",
+    "correctAnswer": "Brokkr",
+    "incorrectAnswers": [
+      "Eitri",
+      "Sindri",
+      "Alberich"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the magical ring that Odin received from the dwarf Andvari?",
+    "correctAnswer": "Andvaranaut",
+    "incorrectAnswers": [
+      "Draupnir",
+      "Berserker",
+      "Gungnir"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the beautiful goddess whose death triggered Ragnarök?",
+    "correctAnswer": "Baldr",
+    "incorrectAnswers": [
+      "Freyja",
+      "Hel",
+      "Frigg"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What creature guards the Bifrost, the rainbow bridge to Asgard?",
+    "correctAnswer": "Heimdall",
+    "incorrectAnswers": [
+      "Thor",
+      "Odin",
+      "Loki"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Norse prophecy book that foretold Ragnarök?",
+    "correctAnswer": "Völuspá",
+    "incorrectAnswers": [
+      "Edda",
+      "Saga",
+      "Havamal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Norse mythology, what is the name of the monstrous sea creature slain by Thor?",
+    "correctAnswer": "Jörmungandr",
+    "incorrectAnswers": [
+      "Fenrir",
+      "Nidhogg",
+      "Kraken"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Norse god is associated with the Vanir, a different group of gods?",
+    "correctAnswer": "Freyr",
+    "incorrectAnswers": [
+      "Odin",
+      "Thor",
+      "Tyr"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the hall where Freya resides in Norse mythology?",
+    "correctAnswer": "Folkvangr",
+    "incorrectAnswers": [
+      "Valhalla",
+      "Asgard",
+      "Vanaheim"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the giant who attempted to force the goddess Idunn to give him her apples of youth?",
+    "correctAnswer": "Thjassi",
+    "incorrectAnswers": [
+      "Suttungr",
+      "Hrungnir",
+      "Ymir"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mythical creature is associated with guarding treasure and riddling in Norse mythology?",
+    "correctAnswer": "Dragon",
+    "incorrectAnswers": [
+      "Dwarf",
+      "Elf",
+      "Giant"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

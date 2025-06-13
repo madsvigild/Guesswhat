@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which European nation is most associated with the early voyages of exploration to India via the sea route?",
+    "correctAnswer": "Portugal",
+    "incorrectAnswers": [
+      "Spain",
+      "England",
+      "France"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who famously sailed under the Spanish flag, completing several voyages across the Atlantic Ocean?",
+    "correctAnswer": "Christopher Columbus",
+    "incorrectAnswers": [
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Bartolomeu Dias"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What significant technological advancement revolutionized maritime navigation during the Age of Exploration?",
+    "correctAnswer": "The astrolabe",
+    "incorrectAnswers": [
+      "The printing press",
+      "The caravel",
+      "Gunpowder"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Columbian Exchange primarily involved the transfer of goods and diseases between which two continents?",
+    "correctAnswer": "Europe and the Americas",
+    "incorrectAnswers": [
+      "Europe and Africa",
+      "Asia and Africa",
+      "Asia and the Americas"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful empire controlled vast territories in the Americas before European colonization?",
+    "correctAnswer": "The Aztec Empire",
+    "incorrectAnswers": [
+      "The Inca Empire",
+      "The Maya civilization",
+      "The Olmec civilization"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the primary motivation behind the European Age of Exploration, besides the quest for spices?",
+    "correctAnswer": "Finding a direct sea route to the East",
+    "incorrectAnswers": [
+      "Spreading Christianity",
+      "Claiming new territories",
+      "Seeking new trade partners"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which treaty, signed in 1494, divided the newly discovered lands between Spain and Portugal?",
+    "correctAnswer": "Treaty of Tordesillas",
+    "incorrectAnswers": [
+      "Treaty of Utrecht",
+      "Treaty of Paris",
+      "Treaty of Versailles"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the first permanent English settlement in North America?",
+    "correctAnswer": "Jamestown",
+    "incorrectAnswers": [
+      "Plymouth",
+      "New Amsterdam",
+      "St. Augustine"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which explorer is credited with the first circumnavigation of the globe?",
+    "correctAnswer": "Ferdinand Magellan",
+    "incorrectAnswers": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Bartolomeu Dias"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The slave trade most heavily impacted which continent, supplying labor for the Americas?",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": [
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the powerful trading company that played a significant role in the colonization of India?",
+    "correctAnswer": "The British East India Company",
+    "incorrectAnswers": [
+      "The Dutch East India Company",
+      "The French East India Company",
+      "The Spanish East India Company"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Besides economic gain, what ideological justification was often used to support European colonization?",
+    "correctAnswer": "The spread of Christianity",
+    "incorrectAnswers": [
+      "The pursuit of scientific knowledge",
+      "The desire for cultural exchange",
+      "The need for more living space"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The triangular trade involved the exchange of goods between Europe, Africa, and which other continent?",
+    "correctAnswer": "The Americas",
+    "incorrectAnswers": [
+      "Asia",
+      "Australia",
+      "Antarctica"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major disease devastated indigenous populations in the Americas following European contact?",
+    "correctAnswer": "Smallpox",
+    "incorrectAnswers": [
+      "The Black Death",
+      "Cholera",
+      "Malaria"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which powerful empire controlled a vast amount of territory in South America before being conquered by the Spanish?",
+    "correctAnswer": "The Inca Empire",
+    "incorrectAnswers": [
+      "The Aztec Empire",
+      "The Mayan Empire",
+      "The Olmec Civilization"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What were the carracks and caravels primarily used for during the Age of Exploration?",
+    "correctAnswer": "Ocean-going trade and exploration",
+    "incorrectAnswers": [
+      "River transport",
+      "Coastal trade",
+      "Land warfare"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which explorer, sailing for the Netherlands, established a significant presence in what is now Indonesia?",
+    "correctAnswer": "Jan Pieterszoon Coen",
+    "incorrectAnswers": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Ferdinand Magellan"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The establishment of trading posts along the African coast by European powers primarily facilitated what?",
+    "correctAnswer": "The transatlantic slave trade",
+    "incorrectAnswers": [
+      "The spice trade",
+      "The gold trade",
+      "The ivory trade"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major conflict, spanning several decades, was largely fueled by competition for colonial territories?",
+    "correctAnswer": "The Seven Years' War",
+    "incorrectAnswers": [
+      "The Hundred Years' War",
+      "The Napoleonic Wars",
+      "The Thirty Years' War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was a significant impact of the Age of Exploration on global demographics?",
+    "correctAnswer": "The Columbian Exchange drastically altered population distribution and composition",
+    "incorrectAnswers": [
+      "Increased global population homogeneity",
+      "A decrease in global population",
+      "Unchanged demographic patterns"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Describe the significance of the Manila Galleons in the context of the Age of Exploration.",
+    "correctAnswer": "They facilitated trade between Acapulco and Manila, connecting East and West through the Pacific Ocean.",
+    "incorrectAnswers": [
+      "They were primarily used in the Atlantic slave trade",
+      "They were warships primarily used in European conflicts",
+      "They were small coastal vessels used in regional trade"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the impact of the introduction of horses by the Spanish conquistadors on indigenous populations of the Americas?",
+    "correctAnswer": "It revolutionized warfare and transportation, giving the Spanish a significant military advantage and impacting indigenous cultures profoundly.",
+    "incorrectAnswers": [
+      "It had little impact on warfare and daily life",
+      "It led to increased livestock production but had no military consequences",
+      "It negatively impacted the ecology and led to widespread environmental damage"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Discuss the role of privateering and its impact during the Age of Exploration and Colonization.",
+    "correctAnswer": "Privateers, essentially state-sponsored pirates, played a significant role in disrupting trade, gaining wealth, and impacting naval power balances during this era.",
+    "incorrectAnswers": [
+      "Privateers were exclusively involved in the slave trade",
+      "Privateers were only active in the Caribbean",
+      "Privateers had little impact on the broader political landscape"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Explain the concept of mercantilism and its relevance to the European colonial empires.",
+    "correctAnswer": "Mercantilism, an economic theory advocating for national economic self-sufficiency through colonial control and trade surpluses, fundamentally shaped the colonial policies and economic structures of European powers.",
+    "incorrectAnswers": [
+      "Mercantilism advocated for free trade and minimal government intervention",
+      "Mercantilism had little impact on colonial practices",
+      "Mercantilism focused solely on agricultural production in colonies"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Analyze the long-term consequences of the transatlantic slave trade on the demographics and economies of Africa and the Americas.",
+    "correctAnswer": "The transatlantic slave trade had devastating and lasting effects, including population decline in Africa, economic exploitation, and the development of racially stratified societies in the Americas.",
+    "incorrectAnswers": [
+      "It had minimal long-term consequences",
+      "It primarily benefited African societies",
+      "It led to increased economic prosperity in Africa"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

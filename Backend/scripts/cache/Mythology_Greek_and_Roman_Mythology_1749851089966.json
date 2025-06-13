@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which Greek god is associated with the thunderbolt and the sky?",
+    "correctAnswer": "Zeus",
+    "incorrectAnswers": [
+      "Hades",
+      "Poseidon",
+      "Ares"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What creature did Hercules slay in his first labor?",
+    "correctAnswer": "The Nemean Lion",
+    "incorrectAnswers": [
+      "The Hydra",
+      "Cerberus",
+      "The Minotaur"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Roman god is equivalent to the Greek god Zeus?",
+    "correctAnswer": "Jupiter",
+    "incorrectAnswers": [
+      "Neptune",
+      "Mars",
+      "Pluto"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the labyrinth built by Daedalus?",
+    "correctAnswer": "Labyrinth",
+    "incorrectAnswers": [
+      "The Underworld",
+      "Mount Olympus",
+      "The Trojan Horse"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What did Pandora's Box contain?",
+    "correctAnswer": "Evils and diseases",
+    "incorrectAnswers": [
+      "Treasures and riches",
+      "Hopes and dreams",
+      "Powerful weapons"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Who was the Greek goddess of wisdom and warfare?",
+    "correctAnswer": "Athena",
+    "incorrectAnswers": [
+      "Aphrodite",
+      "Hestia",
+      "Eris"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the Trojan priest who warned against bringing the Trojan Horse inside the city?",
+    "correctAnswer": "Laocoön",
+    "incorrectAnswers": [
+      "Hector",
+      "Priam",
+      "Paris"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the three-headed dog that guards the gates of the Underworld?",
+    "correctAnswer": "Cerberus",
+    "incorrectAnswers": [
+      "Hydra",
+      "Minotaur",
+      "Sphinx"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Greek hero who sailed with Jason on the Argo?",
+    "correctAnswer": "Heracles (Hercules)",
+    "incorrectAnswers": [
+      "Theseus",
+      "Perseus",
+      "Odysseus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the nymph who was transformed into a spider by Athena?",
+    "correctAnswer": "Arachne",
+    "incorrectAnswers": [
+      "Medea",
+      "Circe",
+      "Calliope"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which god, in Greek mythology, was associated with wine, fertility, and theatre?",
+    "correctAnswer": "Dionysus",
+    "incorrectAnswers": [
+      "Hermes",
+      "Apollo",
+      "Hephaestus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What monstrous creature was slain by Perseus using Medusa's head?",
+    "correctAnswer": "Cetus",
+    "incorrectAnswers": [
+      "Gorgon",
+      "Chimera",
+      "Hydra"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the king who was punished by being forced to roll a boulder uphill eternally?",
+    "correctAnswer": "Sisyphus",
+    "incorrectAnswers": [
+      "Tantalus",
+      "Icarus",
+      "Prometheus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What object did Hermes steal from Apollo when he was still a baby?",
+    "correctAnswer": "Apollo's cattle",
+    "incorrectAnswers": [
+      "Zeus's thunderbolt",
+      "Aphrodite's girdle",
+      "Hades's helmet"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Who was the mother of Achilles in Greek mythology?",
+    "correctAnswer": "Thetis",
+    "incorrectAnswers": [
+      "Hera",
+      "Metis",
+      "Leda"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the river of forgetfulness in the Greek Underworld?",
+    "correctAnswer": "Lethe",
+    "incorrectAnswers": [
+      "Styx",
+      "Acheron",
+      "Cocytus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the beautiful mortal woman who was kidnapped by Hades?",
+    "correctAnswer": "Persephone",
+    "incorrectAnswers": [
+      "Helen",
+      "Cassandra",
+      "Hecuba"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What task did King Minos demand of Athens as tribute every nine years?",
+    "correctAnswer": "Seven young men and seven young women to be sacrificed to the Minotaur",
+    "incorrectAnswers": [
+      "Gold and silver",
+      "Horses and chariots",
+      "Food and supplies"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What was the name of the prophet who was cursed by Apollo to never have his prophecies believed?",
+    "correctAnswer": "Cassandra",
+    "incorrectAnswers": [
+      "Tiresias",
+      "Calchas",
+      "Helenus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Greek mythology, who was the father of the Muses, the goddesses of the arts and sciences?",
+    "correctAnswer": "Zeus",
+    "incorrectAnswers": [
+      "Apollo",
+      "Hermes",
+      "Hephaestus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What type of creature was the Chimera, a beast from Greek mythology?",
+    "correctAnswer": "A fire-breathing hybrid creature, typically described as having a lion's head, a goat's body, and a serpent's tail",
+    "incorrectAnswers": [
+      "A giant one-eyed monster",
+      "A many-headed water serpent",
+      "A winged horse"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Who was the Roman goddess associated with the hearth and home, often depicted with a veil and a modest demeanor?",
+    "correctAnswer": "Vesta",
+    "incorrectAnswers": [
+      "Juno",
+      "Minerva",
+      "Venus"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What are the Harpies in Greek mythology?",
+    "correctAnswer": "Swift, winged creatures with the faces of women and the bodies of birds, often depicted as agents of divine retribution",
+    "incorrectAnswers": [
+      "Three-headed dog guardians of the underworld",
+      "Giants who fought the gods",
+      "Centaurs with human heads"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Titan fathered Prometheus in Greek Mythology?",
+    "correctAnswer": "Iapetus",
+    "incorrectAnswers": [
+      "Cronus",
+      "Oceanus",
+      "Atlas"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

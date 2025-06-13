@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which country is famous for its high-speed Shinkansen bullet trains?",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": [
+      "China",
+      "Germany",
+      "France"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the world's longest railway?",
+    "correctAnswer": "Trans-Siberian Railway",
+    "incorrectAnswers": [
+      "Canadian Pacific Railway",
+      "Orient Express",
+      "Transcontinental Railway"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What type of transportation is associated with the Wright brothers?",
+    "correctAnswer": "Airplanes",
+    "incorrectAnswers": [
+      "Cars",
+      "Trains",
+      "Ships"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the largest airline in the world by passenger numbers?",
+    "correctAnswer": "American Airlines",
+    "incorrectAnswers": [
+      "Delta Air Lines",
+      "United Airlines",
+      "Southwest Airlines"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which city is known as the 'Venice of the North'?",
+    "correctAnswer": "Amsterdam",
+    "incorrectAnswers": [
+      "Stockholm",
+      "Copenhagen",
+      "Hamburg"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What does GPS stand for?",
+    "correctAnswer": "Global Positioning System",
+    "incorrectAnswers": [
+      "Geographic Positioning System",
+      "Global Positioning Satellite",
+      "Geographical Plotting System"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the iconic London red double-decker bus?",
+    "correctAnswer": "Routemaster",
+    "incorrectAnswers": [
+      "Trident",
+      "Ambassador",
+      "Vanguard"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the primary mode of transportation in Venice, Italy?",
+    "correctAnswer": "Boats (Gondolas)",
+    "incorrectAnswers": [
+      "Cars",
+      "Buses",
+      "Trains"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the famous highway that runs along the west coast of the United States?",
+    "correctAnswer": "Pacific Coast Highway (Highway 1)",
+    "incorrectAnswers": [
+      "Route 66",
+      "Interstate 95",
+      "Interstate 40"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the common name for a large, luxury passenger ship?",
+    "correctAnswer": "Cruise Ship",
+    "incorrectAnswers": [
+      "Ferry",
+      "Cargo Ship",
+      "Tugboat"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which famous canal connects the Atlantic and Pacific Oceans?",
+    "correctAnswer": "Panama Canal",
+    "incorrectAnswers": [
+      "Suez Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the system of interconnected roads and streets within a city or town?",
+    "correctAnswer": "Road Network",
+    "incorrectAnswers": [
+      "Traffic System",
+      "Highway System",
+      "Transit System"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What type of vehicle is a 'hovercraft'?",
+    "correctAnswer": "A vehicle that travels on a cushion of air",
+    "incorrectAnswers": [
+      "A type of submarine",
+      "A type of airplane",
+      "A type of amphibious car"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What innovation revolutionized air travel in the mid-20th century, making it more accessible to the public?",
+    "correctAnswer": "Jet Engines",
+    "incorrectAnswers": [
+      "Propeller Engines",
+      "Balloons",
+      "Helicopters"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the term for the study of the design and operation of vehicles and their systems?",
+    "correctAnswer": "Vehicle Engineering",
+    "incorrectAnswers": [
+      "Automotive Design",
+      "Mechanical Engineering",
+      "Transportation Planning"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "Which country has the largest network of high-speed trains?",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Japan",
+      "France",
+      "Germany"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the system used to manage and control air traffic?",
+    "correctAnswer": "Air Traffic Control (ATC)",
+    "incorrectAnswers": [
+      "Airway Management System",
+      "Flight Control System",
+      "Aviation Navigation System"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the difference between a monorail and a maglev train?",
+    "correctAnswer": "A monorail runs on a single rail, while a maglev train uses magnetic levitation.",
+    "incorrectAnswers": [
+      "They are both the same",
+      "A monorail is faster",
+      "A maglev train is older technology"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the longest suspension bridge in the world?",
+    "correctAnswer": "Akashi Kaikyō Bridge",
+    "incorrectAnswers": [
+      "Golden Gate Bridge",
+      "Verrazano-Narrows Bridge",
+      "Brooklyn Bridge"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is hyperloop transportation?",
+    "correctAnswer": "A proposed high-speed transportation system using magnetic levitation in near-vacuum tubes",
+    "incorrectAnswers": [
+      "A type of submarine",
+      "A type of supersonic airplane",
+      "A type of advanced maglev train"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What was the name of the first commercially successful passenger airship?",
+    "correctAnswer": "Graf Zeppelin",
+    "incorrectAnswers": [
+      "Hindenburg",
+      "LZ 127",
+      "R101"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the significance of the 'International Civil Aviation Organization' (ICAO)?",
+    "correctAnswer": "It establishes international standards and regulations for civil aviation.",
+    "incorrectAnswers": [
+      "It regulates air traffic control",
+      "It manages airport security",
+      "It designs airplanes"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is the name of the system of canals and locks that connects the Great Lakes to the Atlantic Ocean?",
+    "correctAnswer": "St. Lawrence Seaway",
+    "incorrectAnswers": [
+      "Erie Canal",
+      "Panama Canal",
+      "Suez Canal"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What is a 'catenary' in the context of railway systems?",
+    "correctAnswer": "The overhead system of wires that supplies electric power to trains.",
+    "incorrectAnswers": [
+      "The rail track itself",
+      "A type of train coupling",
+      "A signaling system"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  },
+  {
+    "question": "What significant role did the invention of the container ship play in global trade?",
+    "correctAnswer": "It dramatically reduced the cost and time of transporting goods across oceans.",
+    "incorrectAnswers": [
+      "Increased the size of ships",
+      "Made ships faster",
+      "Improved safety at sea"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "General Knowledge"
+  }
+]

@@ -1,0 +1,13 @@
+### GET Categories
+GET http://localhost:3000/api/categories
+
+### POST Create Category
+POST http://localhost:3000/api/categories
+Content-Type: application/json
+
+{
+  "name": "Science"
+}
+
+### DELETE Category
+DELETE http://localhost:3000/api/categories/cc9f8ba5-bc3e-48c7-b4be-c532b49a9d5d

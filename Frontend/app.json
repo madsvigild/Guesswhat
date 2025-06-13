@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "GuessWhat Trivia",
+    "slug": "guesswhat-trivia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#004466"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.guesswhat.trivia"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#004466"
+      },
+      "package": "com.guesswhat.trivia"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "apiUrl": "https://guesswhat-production.up.railway.app"
+    },
+    "description": "A multiplayer trivia game with daily challenges and school of trivia learning path"
+  }
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which scientist developed the theory of relativity?",
+    "correctAnswer": "Albert Einstein",
+    "incorrectAnswers": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "correctAnswer": "James Watson and Francis Crick",
+    "incorrectAnswers": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Rosalind Franklin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What famous scientist is credited with the laws of motion and universal gravitation?",
+    "correctAnswer": "Isaac Newton",
+    "incorrectAnswers": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Johannes Kepler"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist is known for their work on radioactivity and won two Nobel Prizes?",
+    "correctAnswer": "Marie Curie",
+    "incorrectAnswers": [
+      "Lise Meitner",
+      "Emmy Noether",
+      "Barbara McClintock"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who developed the polio vaccine?",
+    "correctAnswer": "Jonas Salk",
+    "incorrectAnswers": [
+      "Albert Sabin",
+      "Edward Jenner",
+      "Alexander Fleming"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the groundbreaking telescope that provided the first images of a black hole?",
+    "correctAnswer": "Event Horizon Telescope",
+    "incorrectAnswers": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which planet did Galileo Galilei observe the moons of?",
+    "correctAnswer": "Jupiter",
+    "incorrectAnswers": [
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist formulated the theory of evolution by natural selection?",
+    "correctAnswer": "Charles Darwin",
+    "incorrectAnswers": [
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "correctAnswer": "Alexander Graham Bell",
+    "incorrectAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What groundbreaking experiment demonstrated the existence of the photoelectric effect, crucial for quantum mechanics?",
+    "correctAnswer": "Millikan's oil drop experiment",
+    "incorrectAnswers": [
+      "Rutherford's gold foil experiment",
+      "Michelson-Morley experiment",
+      "Cavendish experiment"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist's work on radioactivity led to the discovery of elements like polonium and radium?",
+    "correctAnswer": "Marie Curie",
+    "incorrectAnswers": [
+      "Lise Meitner",
+      "Irène Joliot-Curie",
+      "Otto Hahn"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "The discovery of which subatomic particle confirmed the existence of the nucleus within the atom?",
+    "correctAnswer": "Proton",
+    "incorrectAnswers": [
+      "Electron",
+      "Neutron",
+      "Quark"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What important biological concept did Gregor Mendel's experiments with pea plants help establish?",
+    "correctAnswer": "Laws of Inheritance",
+    "incorrectAnswers": [
+      "Theory of Evolution",
+      "Cell Theory",
+      "Germ Theory"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist's laws describe the relationship between the volume, pressure, and temperature of a gas?",
+    "correctAnswer": "Robert Boyle and Jacques Charles",
+    "incorrectAnswers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Amedeo Avogadro"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the device invented by Robert Bunsen and Gustav Kirchhoff, used to identify elements via their spectral lines?",
+    "correctAnswer": "Bunsen burner",
+    "incorrectAnswers": [
+      "Spectroscope",
+      "Microscope",
+      "Telescope"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who is credited with the development of the periodic table of elements?",
+    "correctAnswer": "Dmitri Mendeleev",
+    "incorrectAnswers": [
+      "John Dalton",
+      "Antoine Lavoisier",
+      "Robert Boyle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Whose work on electromagnetism led to the development of the electric motor and generator?",
+    "correctAnswer": "Michael Faraday",
+    "incorrectAnswers": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alessandro Volta"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the model that describes the structure of the atom with electrons orbiting a central nucleus?",
+    "correctAnswer": "Bohr model",
+    "incorrectAnswers": [
+      "Rutherford model",
+      "Thomson model",
+      "Dalton model"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist's work in quantum mechanics led to the development of the laser?",
+    "correctAnswer": "Albert Einstein",
+    "incorrectAnswers": [
+      "Niels Bohr",
+      "Max Planck",
+      "Werner Heisenberg"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What complex mathematical concept did Emmy Noether develop, fundamentally linking symmetry and conservation laws in physics?",
+    "correctAnswer": "Noether's theorem",
+    "incorrectAnswers": [
+      "Gödel's incompleteness theorems",
+      "Fermat's Last Theorem",
+      "Riemann hypothesis"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Which scientist is known for their contributions to the understanding of black holes and their work on gravitational singularities?",
+    "correctAnswer": "Roger Penrose",
+    "incorrectAnswers": [
+      "Stephen Hawking",
+      "Kip Thorne",
+      "Subrahmanyan Chandrasekhar"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "Who developed the theory of punctuated equilibrium, a model of evolution that suggests rapid bursts of change interspersed with long periods of stability?",
+    "correctAnswer": "Stephen Jay Gould and Niles Eldredge",
+    "incorrectAnswers": [
+      "Charles Darwin",
+      "Ernst Mayr",
+      "Richard Dawkins"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What is the name of the process by which a star collapses under its own gravity, potentially forming a neutron star or black hole?",
+    "correctAnswer": "Supernova",
+    "incorrectAnswers": [
+      "Nuclear fusion",
+      "Solar flare",
+      "Gravitational lensing"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  },
+  {
+    "question": "What groundbreaking experiment confirmed the existence of the Higgs boson particle, a fundamental component of the Standard Model of particle physics?",
+    "correctAnswer": "Experiments at the Large Hadron Collider (LHC)",
+    "incorrectAnswers": [
+      "Experiments at SLAC",
+      "Experiments at Fermilab",
+      "Experiments at CERN (pre-LHC)"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Science"
+  }
+]

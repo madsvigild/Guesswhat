@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which ancient Greek philosopher is known for his theory of Forms, suggesting a higher realm of perfect ideals?",
+    "correctAnswer": "Plato",
+    "incorrectAnswers": [
+      "Aristotle",
+      "Socrates",
+      "Zeno"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the famous school of philosophy founded by Zeno of Citium, emphasizing living in accordance with nature?",
+    "correctAnswer": "Stoicism",
+    "incorrectAnswers": [
+      "Epicureanism",
+      "Cynicism",
+      "Skepticism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher famously stated, \"Know thyself\"?",
+    "correctAnswer": "Socrates",
+    "incorrectAnswers": [
+      "Plato",
+      "Aristotle",
+      "Diogenes"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Aristotle's system of logic is known as:",
+    "correctAnswer": "Syllogistic Logic",
+    "incorrectAnswers": [
+      "Dialectic",
+      "Rhetoric",
+      "Sophism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Epicurus founded a school of philosophy that emphasized:",
+    "correctAnswer": "Pleasure and happiness",
+    "incorrectAnswers": [
+      "Virtue and duty",
+      "Reason and logic",
+      "Asceticism and self-denial"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of Plato's most famous work, a dialogue featuring Socrates?",
+    "correctAnswer": "The Republic",
+    "incorrectAnswers": [
+      "The Symposium",
+      "The Apology",
+      "The Phaedo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosophical school advocated for a simple life free from societal conventions, often embracing poverty?",
+    "correctAnswer": "Cynicism",
+    "incorrectAnswers": [
+      "Stoicism",
+      "Epicureanism",
+      "Skepticism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for Plato's theory of perfect, unchanging entities that exist independently of the physical world?",
+    "correctAnswer": "Forms",
+    "incorrectAnswers": [
+      "Ideas",
+      "Concepts",
+      "Universals"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which philosopher is credited with developing the concept of the Golden Mean?",
+    "correctAnswer": "Aristotle",
+    "incorrectAnswers": [
+      "Plato",
+      "Socrates",
+      "Epicurus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What method of philosophical inquiry did Socrates famously employ, involving a series of questions to expose contradictions and arrive at truth?",
+    "correctAnswer": "Socratic Method",
+    "incorrectAnswers": [
+      "Dialectic",
+      "Rhetoric",
+      "Syllogism"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "According to Aristotle, what is the ultimate purpose or 'final cause' of human existence?",
+    "correctAnswer": "Eudaimonia (flourishing or living well)",
+    "incorrectAnswers": [
+      "Pleasure",
+      "Wealth",
+      "Power"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the term for the philosophical view that knowledge is impossible or unattainable?",
+    "correctAnswer": "Skepticism",
+    "incorrectAnswers": [
+      "Nihilism",
+      "Relativism",
+      "Solipsism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What significant contribution did Heraclitus make to philosophical thought?",
+    "correctAnswer": "The concept of constant change ('everything flows')",
+    "incorrectAnswers": [
+      "Theory of Forms",
+      "Concept of the Golden Mean",
+      "Development of Syllogistic Logic"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Parmenides' philosophy is most strongly associated with which concept?",
+    "correctAnswer": "Being (the unchanging nature of reality)",
+    "incorrectAnswers": [
+      "Becoming",
+      "Non-being",
+      "Flux"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "In Plato's Allegory of the Cave, what does the sun represent?",
+    "correctAnswer": "The Form of the Good",
+    "incorrectAnswers": [
+      "The physical world",
+      "Illusion",
+      "Knowledge"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is 'apatheia' in Stoic philosophy?",
+    "correctAnswer": "Freedom from emotional disturbance",
+    "incorrectAnswers": [
+      "Passionate engagement",
+      "Rational detachment",
+      "Moral apathy"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What concept, central to Aristotelian ethics, suggests that virtue lies in finding the mean between two extremes?",
+    "correctAnswer": "The Golden Mean",
+    "incorrectAnswers": [
+      "The Categorical Imperative",
+      "Utilitarianism",
+      "Natural Law"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What type of argument did Aristotle use to describe the different types of government?",
+    "correctAnswer": "Typological",
+    "incorrectAnswers": [
+      "Deductive",
+      "Inductive",
+      "Abductive"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Which prominent philosopher argued against the existence of innate ideas?",
+    "correctAnswer": "Aristotle",
+    "incorrectAnswers": [
+      "Plato",
+      "Socrates",
+      "Epicurus"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the name of the philosophical school associated with Pyrrho of Elis, emphasizing suspension of judgment?",
+    "correctAnswer": "Pyrrhonian Skepticism",
+    "incorrectAnswers": [
+      "Academic Skepticism",
+      "Stoicism",
+      "Epicureanism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is 'arete' in ancient Greek philosophy?",
+    "correctAnswer": "Excellence or virtue",
+    "incorrectAnswers": [
+      "Happiness",
+      "Knowledge",
+      "Justice"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Explain the difference between Academic and Pyrrhonian Skepticism in Ancient Greece.",
+    "correctAnswer": "Academic Skepticism argued that certainty was unattainable, while Pyrrhonian Skepticism aimed for complete suspension of judgment.",
+    "incorrectAnswers": [
+      "Both aimed for complete suspension of judgment.",
+      "Academic Skepticism aimed for certainty while Pyrrhonian Skepticism did not.",
+      "There was no difference between the two."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "Discuss the concept of 'phusis' in pre-Socratic philosophy and its implications.",
+    "correctAnswer": "Phusis refers to nature or the fundamental principle of reality. Pre-Socratic philosophers sought to identify this underlying principle, with implications for understanding the cosmos and human existence.",
+    "incorrectAnswers": [
+      "Phusis was a concept related to human morality.",
+      "Phusis was irrelevant to pre-Socratic philosophy.",
+      "Phusis was only discussed by Plato and Aristotle."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "How did the Sophists challenge traditional notions of truth and knowledge in ancient Greece?",
+    "correctAnswer": "The Sophists were itinerant teachers who emphasized rhetoric and persuasive argumentation, sometimes at the expense of objective truth, challenging the notion of absolute knowledge.",
+    "incorrectAnswers": [
+      "The Sophists defended traditional notions of truth.",
+      "The Sophists had no impact on ancient Greek philosophy.",
+      "The Sophists were solely focused on mathematics and science."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  },
+  {
+    "question": "What is the significance of the Euthyphro dilemma in Plato's work?",
+    "correctAnswer": "It poses the question of whether piety is loved by the gods because it is pious, or is it pious because it is loved by the gods, highlighting the challenges in defining religious morality.",
+    "incorrectAnswers": [
+      "It's a minor dialogue with little philosophical significance.",
+      "It definitively proves the existence of God.",
+      "It solely focuses on the nature of justice."
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Philosophy"
+  }
+]

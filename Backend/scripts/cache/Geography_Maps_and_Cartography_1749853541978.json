@@ -1,0 +1,255 @@
+[
+  {
+    "question": "What type of map projection is known for preserving the shapes of landmasses, but distorting their relative sizes?",
+    "correctAnswer": "Conformal projection",
+    "incorrectAnswers": [
+      "Equidistant projection",
+      "Azimuthal projection",
+      "Equal-area projection"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which ancient civilization is credited with the earliest known examples of detailed cartography?",
+    "correctAnswer": "Babylonian",
+    "incorrectAnswers": [
+      "Egyptian",
+      "Greek",
+      "Roman"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What does the term 'cartography' refer to?",
+    "correctAnswer": "The science and art of mapmaking",
+    "incorrectAnswers": [
+      "The study of celestial bodies",
+      "The study of ancient civilizations",
+      "The study of geographical formations"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Mercator projection is famous for what distortion?",
+    "correctAnswer": "Exaggeration of landmasses near the poles",
+    "incorrectAnswers": [
+      "Distortion of shapes near the equator",
+      "Inaccurate representation of distances",
+      "Loss of geographical detail"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which map projection accurately represents area but distorts shapes?",
+    "correctAnswer": "Equal-area projection",
+    "incorrectAnswers": [
+      "Conformal projection",
+      "Gnomonic projection",
+      "Azimuthal equidistant projection"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a thematic map designed to show?",
+    "correctAnswer": "A specific spatial distribution or theme",
+    "incorrectAnswers": [
+      "Physical features of a region",
+      "Political boundaries",
+      "Population density across a region"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of map uses contour lines to represent elevation?",
+    "correctAnswer": "Topographic map",
+    "incorrectAnswers": [
+      "Choropleth map",
+      "Isopleth map",
+      "Dot map"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which country's national symbol features a stylized map projection?",
+    "correctAnswer": "Portugal",
+    "incorrectAnswers": [
+      "Spain",
+      "Brazil",
+      "France"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a legend on a map?",
+    "correctAnswer": "A key that explains the symbols and colors used",
+    "incorrectAnswers": [
+      "A list of geographical locations",
+      "A scale showing distances",
+      "A description of the map's purpose"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What does GIS stand for in the context of mapmaking?",
+    "correctAnswer": "Geographic Information System",
+    "incorrectAnswers": [
+      "Global Information System",
+      "Geographical Imaging System",
+      "Geographic Integrated System"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the name given to a map's representation of scale?",
+    "correctAnswer": "Scale bar",
+    "incorrectAnswers": [
+      "Legend",
+      "Compass rose",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "The Robinson projection is a compromise projection. What does this mean?",
+    "correctAnswer": "It balances distortions in area, shape, distance, and direction.",
+    "incorrectAnswers": [
+      "It's only accurate for small areas",
+      "It's completely accurate for the entire world",
+      "It only shows one hemisphere accurately"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which famous mapmaker created the first world map incorporating the Americas?",
+    "correctAnswer": "Waldseemüller",
+    "incorrectAnswers": [
+      "Ptolemy",
+      "Mercator",
+      "Gerardus Kremer"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is the primary purpose of a choropleth map?",
+    "correctAnswer": "To show the density or distribution of a variable across a geographical area",
+    "incorrectAnswers": [
+      "To represent elevation changes",
+      "To display navigational routes",
+      "To pinpoint specific locations"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What type of map projection is best suited for navigating by compass direction from a central point?",
+    "correctAnswer": "Azimuthal projection",
+    "incorrectAnswers": [
+      "Mercator projection",
+      "Equal-area projection",
+      "Conformal projection"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Which cartographic technique uses dots to represent data points?",
+    "correctAnswer": "Dot mapping",
+    "incorrectAnswers": [
+      "Isoline mapping",
+      "Choropleth mapping",
+      "Cartograms"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a cartogram?",
+    "correctAnswer": "A map that distorts geographical areas to represent a specific variable.",
+    "incorrectAnswers": [
+      "A map that only shows rivers and lakes",
+      "A map that uses symbols to show locations",
+      "A topographic map"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Explain the concept of map scale and its importance in cartography.",
+    "correctAnswer": "Map scale is the ratio between the distance on a map and the corresponding distance on the ground.  It determines the level of detail and the area that can be represented accurately.",
+    "incorrectAnswers": [
+      "The map's colour scheme",
+      "The type of projection used",
+      "The orientation of the map"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Describe the challenges faced by early cartographers in accurately representing the Earth's curvature on a flat surface.",
+    "correctAnswer": "Early cartographers struggled with accurately representing the spherical Earth on a flat map, leading to distortions in shape, size, distance, and direction.  Various projection methods were developed to mitigate these issues, each with inherent compromises.",
+    "incorrectAnswers": [
+      "Lack of sophisticated measuring tools",
+      "Lack of understanding of the Earth's shape",
+      "Inability to represent elevation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a 'polyconic projection' and what are its strengths and weaknesses?",
+    "correctAnswer": "A polyconic projection is a type of map projection where each parallel of latitude is projected onto a cone tangent to the Earth at that latitude. Strengths include low distortion along the central meridian and the standard parallels.  Weaknesses include significant distortion at higher latitudes away from the central meridian and increasing distortion as the map expands.",
+    "incorrectAnswers": [
+      "A type of conformal projection",
+      "A type of equal-area projection",
+      "A projection with no distortions"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "Discuss the impact of satellite imagery and GPS technology on modern cartography.",
+    "correctAnswer": "Satellite imagery provides high-resolution data for detailed map creation, while GPS technology offers precise location data, enabling dynamic and interactive maps.  Both technologies have revolutionized mapmaking, allowing for real-time updates and highly accurate representations.",
+    "incorrectAnswers": [
+      "They have had little impact",
+      "They have made mapmaking less accurate",
+      "They have only affected large-scale mapping"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "What is a cadastre, and what is its importance in land management?",
+    "correctAnswer": "A cadastre is a comprehensive register of land ownership and boundaries. Its importance lies in facilitating land administration, property rights enforcement, and tax assessment.",
+    "incorrectAnswers": [
+      "A type of map projection",
+      "A system for measuring rainfall",
+      "A method of surveying elevation"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  },
+  {
+    "question": "How did the invention of the printing press revolutionize cartography?",
+    "correctAnswer": "The printing press enabled mass production of maps, making them more widely accessible and fostering the standardization of mapmaking techniques and styles.",
+    "incorrectAnswers": [
+      "It had little impact on mapmaking",
+      "It led to the decline of hand-drawn maps",
+      "It made maps more expensive to produce"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Geography"
+  }
+]

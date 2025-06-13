@@ -1,0 +1,277 @@
+[
+  {
+    "question": "In Chinese mythology, who is the Jade Emperor?",
+    "correctAnswer": "The supreme ruler of Heaven",
+    "incorrectAnswers": [
+      "A powerful dragon",
+      "A mischievous monkey king",
+      "A wise goddess of the moon"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the three-legged bird associated with the sun in Japanese mythology?",
+    "correctAnswer": "Yatagarasu",
+    "incorrectAnswers": [
+      "Kirin",
+      "Tengu",
+      "Kappa"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Hindu god is known as the destroyer of worlds?",
+    "correctAnswer": "Shiva",
+    "incorrectAnswers": [
+      "Vishnu",
+      "Brahma",
+      "Indra"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the celestial river in Chinese mythology that separates Heaven and Earth?",
+    "correctAnswer": "Milky Way",
+    "incorrectAnswers": [
+      "Yellow River",
+      "Yangtze River",
+      "Mekong River"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Japanese mythology, what type of creature is Amaterasu?",
+    "correctAnswer": "Sun Goddess",
+    "incorrectAnswers": [
+      "Moon Goddess",
+      "Sea Goddess",
+      "Mountain Goddess"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Hindu god is associated with the preservation and protection of the universe?",
+    "correctAnswer": "Vishnu",
+    "incorrectAnswers": [
+      "Shiva",
+      "Brahma",
+      "Ganesh"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What mythical creature is often depicted as a guardian in Chinese art and mythology?",
+    "correctAnswer": "Dragon",
+    "incorrectAnswers": [
+      "Phoenix",
+      "Qilin",
+      "Tortoise"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the mischievous monkey king in Chinese mythology?",
+    "correctAnswer": "Sun Wukong",
+    "incorrectAnswers": [
+      "Nezha",
+      "Erlang Shen",
+      "Yu the Great"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Hindu mythology, what is the name of the serpent king who supports the Earth?",
+    "correctAnswer": "Ananta Shesha",
+    "incorrectAnswers": [
+      "Vasuki",
+      "Takshaka",
+      "Kaliya"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Japanese deity is associated with the creation of the islands of Japan?",
+    "correctAnswer": "Izanagi and Izanami",
+    "incorrectAnswers": [
+      "Amaterasu",
+      "Susanoo",
+      "Tsukuyomi"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Chinese mythology, what is the name of the legendary emperor who is credited with taming the Yellow River?",
+    "correctAnswer": "Yu the Great",
+    "incorrectAnswers": [
+      "Huangdi",
+      "Shennong",
+      "Yao"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the sacred mountain in Japanese mythology where the gods reside?",
+    "correctAnswer": "Mount Fuji",
+    "incorrectAnswers": [
+      "Mount Asama",
+      "Mount Tsukuba",
+      "Mount Tateyama"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Hindu mythology, what is the significance of the churning of the ocean of milk (Samudra Manthan)?",
+    "correctAnswer": "It produced Amrita, the elixir of immortality.",
+    "incorrectAnswers": [
+      "It created the universe",
+      "It separated the gods and demons",
+      "It caused a great flood"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the legendary Chinese figure who is said to have created the first calendar?",
+    "correctAnswer": "Huangdi",
+    "incorrectAnswers": [
+      "Shennong",
+      "Yu the Great",
+      "Laozi"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the powerful sword wielded by the Japanese storm god, Susanoo?",
+    "correctAnswer": "Ame-no-Murakumo-no-Tsurugi (Grass-Cutting Sword)",
+    "incorrectAnswers": [
+      "Kusanagi-no-Tsurugi",
+      "Totsuka-no-Tsurugi",
+      "Muramasa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Hindu mythology, what is the cycle of birth, death, and rebirth called?",
+    "correctAnswer": "Samsara",
+    "incorrectAnswers": [
+      "Karma",
+      "Moksha",
+      "Dharma"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Chinese mythological beast that is part lion, part dragon, and part horse?",
+    "correctAnswer": "Qilin",
+    "incorrectAnswers": [
+      "Ch'i-lin",
+      "Kirin",
+      "Ksitigarbha"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the three-headed dog that guards the underworld in Hindu mythology?",
+    "correctAnswer": "Cerberus (While Greek, it is sometimes incorporated into depictions of Yama's realm)",
+    "incorrectAnswers": [
+      "Varaha",
+      "Nandi",
+      "Sharabha"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "Which Japanese god is associated with the sea and storms?",
+    "correctAnswer": "Susanoo",
+    "incorrectAnswers": [
+      "Amaterasu",
+      "Tsukuyomi",
+      "Raijin"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Hindu deity who is the god of beginnings, creation and the universe?",
+    "correctAnswer": "Brahma",
+    "incorrectAnswers": [
+      "Vishnu",
+      "Shiva",
+      "Indra"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Chinese mythology, what are the four symbols representing the four directions and seasons called?",
+    "correctAnswer": "Four Heavenly Beasts (Azure Dragon, Vermilion Bird, White Tiger, Black Tortoise)",
+    "incorrectAnswers": [
+      "Four Great Dragons",
+      "Four Sacred Animals",
+      "Four Celestial Guardians"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Buddhist deity often depicted as a wrathful protector with multiple arms and heads?",
+    "correctAnswer": "Acala (Fudo Myoo in Japanese)",
+    "incorrectAnswers": [
+      "Avalokiteshvara",
+      "Manjushri",
+      "Vajrapani"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "In Hindu mythology, what are the seven sacred rivers that flow from heaven to earth called?",
+    "correctAnswer": "Sapta Sindhu",
+    "incorrectAnswers": [
+      "Ganga",
+      "Yamuna",
+      "Saraswati"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What is the name of the Japanese mythical creature that is a combination of a monkey, a raccoon dog, and a badger, known for its shape-shifting abilities?",
+    "correctAnswer": "Tanuki",
+    "incorrectAnswers": [
+      "Kitsune",
+      "Kappa",
+      "Tengu"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  },
+  {
+    "question": "What specific type of creature is the Rakshasa in Hindu mythology?",
+    "correctAnswer": "Demon or evil spirit",
+    "incorrectAnswers": [
+      "God",
+      "Hero",
+      "Animal"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Mythology"
+  }
+]

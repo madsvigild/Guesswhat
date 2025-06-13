@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which country declared war on Germany, marking the beginning of World War I?",
+    "correctAnswer": "Great Britain",
+    "incorrectAnswers": [
+      "France",
+      "Russia",
+      "United States"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What event is widely considered to have triggered the start of World War I?",
+    "correctAnswer": "The assassination of Archduke Franz Ferdinand",
+    "incorrectAnswers": [
+      "The sinking of the Lusitania",
+      "The German invasion of Poland",
+      "The Zimmerman Telegram"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which city was the target of the first atomic bomb used in warfare?",
+    "correctAnswer": "Hiroshima",
+    "incorrectAnswers": [
+      "Tokyo",
+      "Nagasaki",
+      "Berlin"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": [
+      "Benito Mussolini",
+      "Joseph Stalin",
+      "Hideki Tojo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major international organization was formed after World War II to promote international cooperation?",
+    "correctAnswer": "The United Nations",
+    "incorrectAnswers": [
+      "The League of Nations",
+      "NATO",
+      "The Warsaw Pact"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which country surrendered unconditionally to the Allied forces on May 8, 1945, marking Victory in Europe Day (V-E Day)?",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": [
+      "Japan",
+      "Italy",
+      "Austria"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Cold War was primarily a geopolitical struggle between which two superpowers?",
+    "correctAnswer": "The United States and the Soviet Union",
+    "incorrectAnswers": [
+      "The United States and China",
+      "The Soviet Union and Great Britain",
+      "Germany and Japan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the military alliance formed by the United States and its Western European allies during the Cold War?",
+    "correctAnswer": "NATO (North Atlantic Treaty Organization)",
+    "incorrectAnswers": [
+      "The Warsaw Pact",
+      "SEATO",
+      "CENTO"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What major event in 1961 heightened Cold War tensions and nearly led to a nuclear conflict?",
+    "correctAnswer": "The Cuban Missile Crisis",
+    "incorrectAnswers": [
+      "The Korean War",
+      "The Vietnam War",
+      "The Berlin Blockade"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Schlieffen Plan, a German military strategy, aimed to quickly defeat which country at the start of World War I?",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "Russia",
+      "Great Britain",
+      "Belgium"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the pivotal naval battle in the Pacific Theater during World War II that significantly weakened the Japanese fleet?",
+    "correctAnswer": "Battle of Midway",
+    "incorrectAnswers": [
+      "Battle of the Coral Sea",
+      "Battle of Leyte Gulf",
+      "Battle of Okinawa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Balfour Declaration, issued in 1917, concerned the establishment of a national home for which group in Palestine?",
+    "correctAnswer": "Jewish people",
+    "incorrectAnswers": [
+      "Palestinian Arabs",
+      "Armenians",
+      "Kurds"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Truman Doctrine, announced in 1947, was primarily aimed at containing the spread of which ideology?",
+    "correctAnswer": "Communism",
+    "incorrectAnswers": [
+      "Fascism",
+      "Nazism",
+      "Capitalism"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the international agreement signed in 1928 that aimed to outlaw war as an instrument of national policy?",
+    "correctAnswer": "Kellogg-Briand Pact",
+    "incorrectAnswers": [
+      "Treaty of Versailles",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Tordesillas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which major conflict, fought from 1950 to 1953, involved the United States and its allies against communist North Korea and its Chinese allies?",
+    "correctAnswer": "Korean War",
+    "incorrectAnswers": [
+      "Vietnam War",
+      "Sino-Soviet Split",
+      "First Indochina War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the military strategy employed by the Allied forces in World War II to defeat Germany by simultaneously attacking from multiple fronts?",
+    "correctAnswer": "Overlord (D-Day invasion)",
+    "incorrectAnswers": [
+      "Operation Barbarossa",
+      "Operation Market Garden",
+      "Operation Torch"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "Which international organization, formed in 1945, played a significant role in the post-World War II reconstruction of Europe through the Marshall Plan?",
+    "correctAnswer": "The United Nations",
+    "incorrectAnswers": [
+      "The League of Nations",
+      "NATO",
+      "The World Bank"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name given to the period of political tension and military rivalry between the United States and the Soviet Union following World War II?",
+    "correctAnswer": "The Cold War",
+    "incorrectAnswers": [
+      "The Great War",
+      "The Hundred Years' War",
+      "The Napoleonic Wars"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the codename for the Allied invasion of Normandy in 1944?",
+    "correctAnswer": "Operation Overlord",
+    "incorrectAnswers": [
+      "Operation Torch",
+      "Operation Market Garden",
+      "Operation Barbarossa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Rape of Nanking, a horrific event during World War II, occurred in which country?",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the secret German project during World War II that aimed to develop atomic weapons?",
+    "correctAnswer": "Uranium Club",
+    "incorrectAnswers": [
+      "Manhattan Project",
+      "Operation Paperclip",
+      "Nazi Atomic Project"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The Potsdam Declaration, issued in July 1945, presented the terms for Japan’s surrender. Which Allied leaders were present at the Potsdam Conference?",
+    "correctAnswer": "Harry S. Truman, Winston Churchill (and Clement Attlee), and Joseph Stalin",
+    "incorrectAnswers": [
+      "Franklin D. Roosevelt, Neville Chamberlain, and Benito Mussolini",
+      "Woodrow Wilson, David Lloyd George, and Georges Clemenceau",
+      "Dwight D. Eisenhower, Anthony Eden, and Nikita Khrushchev"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "What was the name of the Soviet-led military alliance formed in 1955 in response to NATO?",
+    "correctAnswer": "Warsaw Pact",
+    "incorrectAnswers": [
+      "SEATO",
+      "CENTO",
+      "NATO"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  },
+  {
+    "question": "The 1967 Six-Day War primarily involved which nations?",
+    "correctAnswer": "Israel, Egypt, Syria, Jordan",
+    "incorrectAnswers": [
+      "Israel, Lebanon, Iraq, Iran",
+      "Israel, Saudi Arabia, Yemen, Kuwait",
+      "Israel, Palestine, Egypt, Lebanon"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "World History"
+  }
+]

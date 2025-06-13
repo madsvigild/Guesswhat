@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which classic novel features the iconic characters Elizabeth Bennet and Mr. Darcy?",
+    "correctAnswer": "Pride and Prejudice",
+    "incorrectAnswers": [
+      "Jane Eyre",
+      "Wuthering Heights",
+      "Little Women"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird', a Pulitzer Prize-winning novel about racial injustice in the American South?",
+    "correctAnswer": "Harper Lee",
+    "incorrectAnswers": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F. Scott Fitzgerald"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the dystopian society depicted in George Orwell's 'Nineteen Eighty-Four'?",
+    "correctAnswer": "Oceania",
+    "incorrectAnswers": [
+      "Panem",
+      "Gilead",
+      "Airstrip One"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author penned the adventurous tale of Bilbo Baggins?",
+    "correctAnswer": "J.R.R. Tolkien",
+    "incorrectAnswers": [
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "J.K. Rowling"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote the satirical masterpiece 'Animal Farm', an allegory of the Russian Revolution?",
+    "correctAnswer": "George Orwell",
+    "incorrectAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Margaret Atwood"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In which country did the Nobel Prize-winning author Gabriel García Márquez primarily set his novels?",
+    "correctAnswer": "Colombia",
+    "incorrectAnswers": [
+      "Mexico",
+      "Argentina",
+      "Peru"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel features the infamous character of Captain Ahab, obsessed with a white whale?",
+    "correctAnswer": "Moby Dick",
+    "incorrectAnswers": [
+      "The Scarlet Letter",
+      "Treasure Island",
+      "The Call of the Wild"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the young wizard who attends Hogwarts School of Witchcraft and Wizardry?",
+    "correctAnswer": "Harry Potter",
+    "incorrectAnswers": [
+      "Ron Weasley",
+      "Hermione Granger",
+      "Draco Malfoy"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel begins with the iconic line, \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\"",
+    "correctAnswer": "Pride and Prejudice",
+    "incorrectAnswers": [
+      "Sense and Sensibility",
+      "Emma",
+      "Persuasion"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby', a novel exploring themes of wealth, class, and the American Dream?",
+    "correctAnswer": "F. Scott Fitzgerald",
+    "incorrectAnswers": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the sprawling, multi-generational saga written by Margaret Mitchell?",
+    "correctAnswer": "Gone With the Wind",
+    "incorrectAnswers": [
+      "The Grapes of Wrath",
+      "To Kill a Mockingbird",
+      "The Help"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel features the protagonist Gregor Samsa, who wakes up one morning transformed into an insect?",
+    "correctAnswer": "The Metamorphosis",
+    "incorrectAnswers": [
+      "The Trial",
+      "The Castle",
+      "Amerika"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'One Hundred Years of Solitude', a magical realism masterpiece exploring the Buendía family?",
+    "correctAnswer": "Gabriel García Márquez",
+    "incorrectAnswers": [
+      "Jorge Luis Borges",
+      "Isabel Allende",
+      "Mario Vargas Llosa"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which dystopian novel by Margaret Atwood explores themes of gender inequality and environmental collapse?",
+    "correctAnswer": "The Handmaid's Tale",
+    "incorrectAnswers": [
+      "Oryx and Crake",
+      "The Year of the Flood",
+      "Alias Grace"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the sprawling fantasy series written by George R.R. Martin, adapted into a popular television show?",
+    "correctAnswer": "A Song of Ice and Fire",
+    "incorrectAnswers": [
+      "The Wheel of Time",
+      "The Stormlight Archive",
+      "The Kingkiller Chronicle"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author is known for their postmodern novels, such as 'Gravity's Rainbow' and 'Vineland'?",
+    "correctAnswer": "Thomas Pynchon",
+    "incorrectAnswers": [
+      "Don DeLillo",
+      "Philip Roth",
+      "Kurt Vonnegut"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which 19th-century novel is considered a foundational text of feminist literature, featuring the rebellious heroine Jane Eyre?",
+    "correctAnswer": "Jane Eyre",
+    "incorrectAnswers": [
+      "Wuthering Heights",
+      "Little Women",
+      "A Tale of Two Cities"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the famous detective created by Agatha Christie, known for his discerning mind and use of the 'little grey cells'?",
+    "correctAnswer": "Hercule Poirot",
+    "incorrectAnswers": [
+      "Sherlock Holmes",
+      "Miss Marple",
+      "Father Brown"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'Beloved', a novel exploring the legacy of slavery in America through the lens of Sethe and her daughter Denver?",
+    "correctAnswer": "Toni Morrison",
+    "incorrectAnswers": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Angela Davis"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which modernist author's experimental novel 'Ulysses' caused a great deal of controversy upon its publication for its stream of consciousness style and explicit content?",
+    "correctAnswer": "James Joyce",
+    "incorrectAnswers": [
+      "Virginia Woolf",
+      "T.S. Eliot",
+      "Ernest Hemingway"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What lesser-known novel by Virginia Woolf centers on the life and struggles of an early 20th-century housewife?",
+    "correctAnswer": "Mrs. Dalloway",
+    "incorrectAnswers": [
+      "To the Lighthouse",
+      "Orlando",
+      "Jacob's Room"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which complex and critically acclaimed novel by Salman Rushdie deals with themes of migration, identity, and storytelling in a magical realist style?",
+    "correctAnswer": "Midnight's Children",
+    "incorrectAnswers": [
+      "Shame",
+      "The Satanic Verses",
+      "Haroun and the Sea of Stories"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Name the author of the post-apocalyptic novel 'The Road,' which won the Pulitzer Prize in 2007.",
+    "correctAnswer": "Cormac McCarthy",
+    "incorrectAnswers": [
+      "Don DeLillo",
+      "Chuck Palahniuk",
+      "Stephen King"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which controversial novel by Henry Miller, initially banned for its explicit content, gained notoriety and became a landmark of American literature?",
+    "correctAnswer": "Tropic of Cancer",
+    "incorrectAnswers": [
+      "Tropic of Capricorn",
+      "Black Spring",
+      "The Colossus of Maroussi"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote 'Invisible Man', a groundbreaking novel exploring the complexities of race and identity in America?",
+    "correctAnswer": "Ralph Ellison",
+    "incorrectAnswers": [
+      "Richard Wright",
+      "James Baldwin",
+      "Langston Hughes"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

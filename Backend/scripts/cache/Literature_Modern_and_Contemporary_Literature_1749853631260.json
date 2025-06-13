@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which dystopian novel by Margaret Atwood explores themes of environmental collapse and gender inequality?",
+    "correctAnswer": "The Handmaid's Tale",
+    "incorrectAnswers": [
+      "1984",
+      "Brave New World",
+      "Fahrenheit 451"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote the critically acclaimed novel 'One Hundred Years of Solitude'?",
+    "correctAnswer": "Gabriel García Márquez",
+    "incorrectAnswers": [
+      "Jorge Luis Borges",
+      "Pablo Neruda",
+      "Mario Vargas Llosa"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the protagonist in Kazuo Ishiguro's novel 'Never Let Me Go'?",
+    "correctAnswer": "Kathy H.",
+    "incorrectAnswers": [
+      "Ruth",
+      "Tommy",
+      "Miss Emily"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which American author penned the Pulitzer Prize-winning novel 'Beloved'?",
+    "correctAnswer": "Toni Morrison",
+    "incorrectAnswers": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Zora Neale Hurston"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which novel features the iconic character Holden Caulfield?",
+    "correctAnswer": "The Catcher in the Rye",
+    "incorrectAnswers": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "A Farewell to Arms"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In which country is the setting for the novel 'Things Fall Apart' primarily located?",
+    "correctAnswer": "Nigeria",
+    "incorrectAnswers": [
+      "Ghana",
+      "South Africa",
+      "Kenya"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What type of literature is 'Dubliners' by James Joyce primarily considered?",
+    "correctAnswer": "Short stories",
+    "incorrectAnswers": [
+      "Novel",
+      "Poetry",
+      "Drama"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which iconic novel features Winston Smith fighting against the Party?",
+    "correctAnswer": "Nineteen Eighty-Four",
+    "incorrectAnswers": [
+      "Animal Farm",
+      "Brave New World",
+      "Fahrenheit 451"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "correctAnswer": "Harper Lee",
+    "incorrectAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the name of the detective in Raymond Chandler's novels?",
+    "correctAnswer": "Philip Marlowe",
+    "incorrectAnswers": [
+      "Sam Spade",
+      "Mike Hammer",
+      "Nero Wolfe"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The novel 'The Remains of the Day' by Kazuo Ishiguro explores themes of what historical event?",
+    "correctAnswer": "World War II",
+    "incorrectAnswers": [
+      "The Cold War",
+      "The Vietnam War",
+      "The Korean War"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which author is known for their postmodern novels featuring metafiction and unreliable narrators, such as 'If on a winter's night a traveler'?",
+    "correctAnswer": "Italo Calvino",
+    "incorrectAnswers": [
+      "Umberto Eco",
+      "Gabriel Garcia Marquez",
+      "Milan Kundera"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What is the central conflict in Chinua Achebe's 'Things Fall Apart'?",
+    "correctAnswer": "Clash between traditional Igbo culture and British colonialism",
+    "incorrectAnswers": [
+      "Civil war",
+      "Tribal warfare",
+      "Religious conflict"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which contemporary author is known for their magical realism and exploration of Latin American history, exemplified in 'Like Water for Chocolate'?",
+    "correctAnswer": "Laura Esquivel",
+    "incorrectAnswers": [
+      "Isabel Allende",
+      "Gabriel Garcia Marquez",
+      "Elena Poniatowska"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which renowned poet is associated with the Harlem Renaissance and wrote 'I, Too, Sing America'?",
+    "correctAnswer": "Langston Hughes",
+    "incorrectAnswers": [
+      "Claude McKay",
+      "Countee Cullen",
+      "Zora Neale Hurston"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What recurring motif is prominent in Virginia Woolf's 'Mrs. Dalloway', influencing its narrative structure and thematic concerns?",
+    "correctAnswer": "Time and Memory",
+    "incorrectAnswers": [
+      "Nature and Civilization",
+      "Love and Betrayal",
+      "Social Class and Inequality"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which postcolonial novel explores the psychological effects of colonialism on its characters through a fragmented narrative, often using stream-of-consciousness?",
+    "correctAnswer": "A House for Mr Biswas by V.S. Naipaul",
+    "incorrectAnswers": [
+      "Things Fall Apart",
+      "Midnight's Children",
+      "Wide Sargasso Sea"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The metafictional novel 'Pale Fire' by Vladimir Nabokov utilizes what unique structural device?",
+    "correctAnswer": "A fictional poem with extensive commentary",
+    "incorrectAnswers": [
+      "A series of interwoven letters",
+      "A fragmented diary",
+      "Multiple shifting narrators"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Who wrote the postmodern novel 'The Crying of Lot 49', known for its enigmatic and open-ended nature?",
+    "correctAnswer": "Thomas Pynchon",
+    "incorrectAnswers": [
+      "Don DeLillo",
+      "Kurt Vonnegut",
+      "Philip K. Dick"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "In what country is the fictional town of Macondo located in Gabriel Garcia Marquez's 'One Hundred Years of Solitude'?",
+    "correctAnswer": "Colombia",
+    "incorrectAnswers": [
+      "Mexico",
+      "Argentina",
+      "Venezuela"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "What obscure literary movement, active in the early 20th century, is characterized by its intense focus on psychological realism, exploring the inner lives of characters with unusual depth and often employing stream of consciousness?",
+    "correctAnswer": "Modernism",
+    "incorrectAnswers": [
+      "Postmodernism",
+      "Romanticism",
+      "Realism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which experimental novel by B.S. Johnson, published in 1969, famously eschewed traditional narrative structure and was presented unbound in a box, allowing the reader to determine the order of the chapters?",
+    "correctAnswer": "The Unfortunates",
+    "incorrectAnswers": [
+      "Housekeeping",
+      "The French Lieutenant's Woman",
+      "Gravity's Rainbow"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which relatively unknown but critically acclaimed contemporary novelist, known for their exploration of complex female characters in postcolonial settings, was awarded the 2021 Booker Prize for their novel 'Shuggie Bain'?",
+    "correctAnswer": "Douglas Stuart",
+    "incorrectAnswers": [
+      "Colson Whitehead",
+      "Hanya Yanagihara",
+      "Ocean Vuong"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "Which avant-garde literary movement, heavily influenced by Dadaism and Surrealism, emphasized the exploration of the subconscious mind and challenged traditional notions of narrative and meaning in literature?",
+    "correctAnswer": "Surrealism",
+    "incorrectAnswers": [
+      "Modernism",
+      "Postmodernism",
+      "Existentialism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  },
+  {
+    "question": "The South African writer J.M. Coetzee is known for his novels dealing with themes of exile, alienation, and the complexities of identity.  Which of his works, dealing with apartheid, won the Booker Prize twice?",
+    "correctAnswer": "Life & Times of Michael K",
+    "incorrectAnswers": [
+      "Disgrace",
+      "Waiting for the Barbarians",
+      "The Master of Petersburg"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Literature"
+  }
+]

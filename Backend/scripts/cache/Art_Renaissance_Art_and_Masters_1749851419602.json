@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which Renaissance artist painted the Mona Lisa?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The Sistine Chapel ceiling is a masterpiece by which Renaissance artist?",
+    "correctAnswer": "Michelangelo",
+    "incorrectAnswers": [
+      "Raphael",
+      "Leonardo da Vinci",
+      "Botticelli"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which city is considered the birthplace of the Renaissance?",
+    "correctAnswer": "Florence",
+    "incorrectAnswers": [
+      "Rome",
+      "Venice",
+      "Milan"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the famous statue of David sculpted by Michelangelo?",
+    "correctAnswer": "David",
+    "incorrectAnswers": [
+      "Moses",
+      "Pietà",
+      "Bacchus"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Renaissance painter is known for his School of Athens fresco?",
+    "correctAnswer": "Raphael",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The 'Birth of Venus' is a famous painting by which Renaissance artist?",
+    "correctAnswer": "Botticelli",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic technique, characterized by the realistic portrayal of light and shadow, was perfected during the Renaissance?",
+    "correctAnswer": "Chiaroscuro",
+    "incorrectAnswers": [
+      "Sfumato",
+      "Fresco",
+      "Impasto"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the famous dome designed by Filippo Brunelleschi for the Florence Cathedral?",
+    "correctAnswer": "Brunelleschi's Dome",
+    "incorrectAnswers": [
+      "Pantheon Dome",
+      "St. Peter's Basilica Dome",
+      "Hagia Sophia Dome"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artistic movement immediately preceded the Renaissance?",
+    "correctAnswer": "Medieval Art",
+    "incorrectAnswers": [
+      "Baroque",
+      "Mannerism",
+      "Rococo"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What type of painting technique did Leonardo da Vinci frequently use, creating soft, hazy effects?",
+    "correctAnswer": "Sfumato",
+    "incorrectAnswers": [
+      "Impasto",
+      "Fresco",
+      "Tempera"
+    ],
+    "difficulty": "Easy",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist's 'The Last Supper' is one of the most famous and influential artworks of the Renaissance, renowned for its use of perspective and emotion?",
+    "correctAnswer": "Leonardo da Vinci",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Beyond painting, Michelangelo was also a skilled sculptor. Which biblical figure did he famously depict in a powerful and emotional sculpture?",
+    "correctAnswer": "Pieta",
+    "incorrectAnswers": [
+      "David",
+      "Moses",
+      "Atlas"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which High Renaissance artist is renowned for his use of perspective and harmonious composition in paintings such as 'The School of Athens' and 'The Marriage of the Virgin'?",
+    "correctAnswer": "Raphael",
+    "incorrectAnswers": [
+      "Titian",
+      "Michelangelo",
+      "Leonardo da Vinci"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What architectural style, characterized by its symmetry and classical elements, gained prominence during the Renaissance?",
+    "correctAnswer": "Classical",
+    "incorrectAnswers": [
+      "Gothic",
+      "Romanesque",
+      "Baroque"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Venetian Renaissance artist is known for his vibrant colors and dramatic use of light in paintings like 'Venus of Urbino' and 'Sacred and Profane Love'?",
+    "correctAnswer": "Titian",
+    "incorrectAnswers": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What Northern Renaissance artist is famous for his detailed and realistic depictions of everyday life, often with symbolic elements, as seen in 'The Arnolfini Portrait'?",
+    "correctAnswer": "Jan van Eyck",
+    "incorrectAnswers": [
+      "Albrecht Dürer",
+      "Hieronymus Bosch",
+      "Pieter Bruegel the Elder"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "The concept of 'humanism' greatly influenced Renaissance art. What is the central focus of humanist philosophy?",
+    "correctAnswer": "Human potential and achievements",
+    "incorrectAnswers": [
+      "Divine intervention",
+      "Religious dogma",
+      "Mystical experiences"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist, known for his grotesque and fantastical imagery, created disturbing yet captivating works such as 'The Garden of Earthly Delights'?",
+    "correctAnswer": "Hieronymus Bosch",
+    "incorrectAnswers": [
+      "Pieter Bruegel the Elder",
+      "Albrecht Dürer",
+      "Jan van Eyck"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which significant development in printing technology greatly aided the dissemination of Renaissance art and ideas throughout Europe?",
+    "correctAnswer": "The printing press",
+    "incorrectAnswers": [
+      "The camera obscura",
+      "Oil paints",
+      "Woodcuts"
+    ],
+    "difficulty": "Medium",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the influential Renaissance architectural treatise written by Leon Battista Alberti, outlining principles of classical design and proportions?",
+    "correctAnswer": "De re aedificatoria",
+    "incorrectAnswers": [
+      "The Vitruvian Man",
+      "On Painting",
+      "The Divine Comedy"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which early Renaissance Florentine sculptor is renowned for his bronze 'David', considered a precursor to Michelangelo's famous marble version?",
+    "correctAnswer": "Donatello",
+    "incorrectAnswers": [
+      "Ghiberti",
+      "Brunelleschi",
+      "Cellini"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which Northern Renaissance painter was a master of detail and realism, using oil paints to achieve unprecedented luminosity and depth, evident in his 'The Ambassadors'?",
+    "correctAnswer": "Hans Holbein the Younger",
+    "incorrectAnswers": [
+      "Albrecht Dürer",
+      "Matthias Grünewald",
+      "Lucas Cranach the Elder"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "What is the name of the architectural style that blended Renaissance elements with the Gothic style prevalent in Northern Europe?",
+    "correctAnswer": "Northern Renaissance architecture",
+    "incorrectAnswers": [
+      "Mannerism",
+      "Baroque",
+      "Neoclassicism"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  },
+  {
+    "question": "Which artist, associated with the High Renaissance, is known for his skillful use of perspective and sfumato, evident in his work 'The Deposition'?",
+    "correctAnswer": "Raphael",
+    "incorrectAnswers": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "difficulty": "Hard",
+    "categoryName": "Art"
+  }
+]
