@@ -20,3 +20,5 @@ logs
 .vscode/
 *.swp
 *.swo
+
+railway-start.bat
