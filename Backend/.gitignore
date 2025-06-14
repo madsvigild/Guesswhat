@@ -21,4 +21,6 @@ logs
 *.swp
 *.swo
 
+# Sensitive Scripts (NEW/VERIFY THIS)
 railway-start.bat
+railway-start.sh
